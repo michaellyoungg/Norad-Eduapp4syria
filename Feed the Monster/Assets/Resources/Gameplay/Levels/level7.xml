@@ -7,72 +7,73 @@
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
-		<string>t</string>
+		<string>m</string>
 		</MonsterAllLetters>
 	  <Stones>
+        <string>ph</string>
+        <string>ph</string>
         <string>a</string>
-        <string>p</string>
-        </Stones>
+      </Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="">
       
 	  <MonsterRequiredLetters>
-		<string>p</string>
+		<string>ph</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
 		<string>a</string>
-		<string>m</string>
-	  </MonsterAllLetters>
+		</MonsterAllLetters>
 	  <Stones>
-        <string spawnId="18">p</string>
-        <string spawnId="21">m</string>
-        </Stones>
+        <string spawnId="18">th</string>
+        <string spawnId="21">th</string>
+        <string spawnId="26">ph</string>
+      </Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="89,54,95">
       
 	  <MonsterRequiredLetters>
-		<string>t</string>
+		<string>q</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
 		<string>a</string>
-		<string>m</string>
-	  </MonsterAllLetters>
+		</MonsterAllLetters>
 	  <Stones>
-        <string>t</string>
-        <string>c</string>
-        </Stones>
+        <string>ph</string>
+        <string>l</string>
+        <string>q</string>
+      </Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="">
       
 	  <MonsterRequiredLetters>
-		<string>t</string>
+		<string>l</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
 		<string>a</string>
-		<string>b</string>
-	  </MonsterAllLetters>
+		</MonsterAllLetters>
 	  <Stones>
-        <string spawnId="90">t</string>
-        <string spawnId="55">n</string>
-        </Stones>
+        <string spawnId="90">ch</string>
+        <string spawnId="55">q</string>
+        <string spawnId="96">l</string>
+      </Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="61,59,93,94">
       
 	  <MonsterRequiredLetters>
-		<string>m</string>
+		<string>th</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
 		<string>a</string>
-		<string>t</string>
-	  </MonsterAllLetters>
+		</MonsterAllLetters>
 	  <Stones>
-        <string>m</string>
-        <string>t</string>
-        <string bonusScore="150">BonusLetter</string>
+        <string>v</string>
+        <string>dl</string>
+        <string>th</string>
+		<string bonusScore="150">BonusLetter</string>
       </Stones>
     </Segment>
   </Segments>
