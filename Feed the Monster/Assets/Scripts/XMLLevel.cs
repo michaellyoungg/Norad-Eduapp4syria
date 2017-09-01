@@ -88,6 +88,7 @@ public class XMLLevel {
 		yield return reader = new XmlTextReader  (ms);
 
 		SerializeLevelFromXML (levelId, levelPath ,reader, level);
+		Debug.Log ("Success!");
 
 		yield return true;
 	}
@@ -140,7 +141,6 @@ public class XMLLevel {
 		} else {
 			maxPointsInLevel = calcWordMaxScore(level);
 		}
-
 		LevelMaxScore += "Level: " + levelId + ",  FileName: " + levelPath + ",  Max Points: " + maxPointsInLevel.ToString () + "\n";
 /*
  		if ( xmlLevel.Recognitions != null) {
