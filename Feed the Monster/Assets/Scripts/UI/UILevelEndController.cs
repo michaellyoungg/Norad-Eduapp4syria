@@ -484,7 +484,7 @@ public class UILevelEndController : MonoBehaviour {
 
 	void onGageZoomInDone()
 	{
-//		Invoke ("ShowStatusPopup", 0.5f);
+		Invoke ("ShowStatusPopup", 0.5f);
 	}
 
 	void ShowStatusPopup()

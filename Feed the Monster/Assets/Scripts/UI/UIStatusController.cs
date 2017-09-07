@@ -153,8 +153,8 @@ public class UIStatusController : MonoBehaviour {
 
 		if (go != null) {
 			SadMonster = (GameObject)Instantiate (go, MonsterHolder.transform, false);
-//			SadMonster.transform.SetParent (MonsterHolder.transform, true);
-//			SadMonster.transform.localPosition = Vector3.zero;
+			SadMonster.transform.SetParent (MonsterHolder.transform, true);
+			SadMonster.transform.localPosition = Vector3.zero;
 		}
 
 	}
