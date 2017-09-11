@@ -82782,7 +82782,7 @@ MonoBehaviour:
   monsterBar: {fileID: 4098}
   ButtonPrevious: {fileID: 1149}
   ButtonNext: {fileID: 1201}
-  InstructionSound: {fileID: 8300000, guid: b64c80caa7ed74a97bcc99bfcdbbcef4, type: 3}
+  InstructionSound: {fileID: 8300000, guid: 6a4a756fbb1804e4ba1ea58f701c5887, type: 3}
   TouchController: {fileID: 4224}
 --- !u!114 &3922
 MonoBehaviour:
@@ -83317,12 +83317,12 @@ MonoBehaviour:
   Icon_Angry: {fileID: 21300000, guid: efaef7f81cf3ab74e9e8db4dc0d20290, type: 3}
   Icon_Bored: {fileID: 21300000, guid: 9918c2adabd755e4a84f86f422f1f08a, type: 3}
   Icon_Sad: {fileID: 21300000, guid: ed27d389379970341b2c1a2df9cea7ca, type: 3}
-  Title_Angry: {fileID: 21300000, guid: 0d54ba7ffdf81497f8c567eeaf837044, type: 3}
-  Title_Bored: {fileID: 21300000, guid: 39925f0d5bbd24d9284589450aee81ad, type: 3}
-  Title_Sad: {fileID: 21300000, guid: 59953fac3d3c1490baa21018b0a085fa, type: 3}
-  Sound_Angry: {fileID: 8300000, guid: 71520729133fb49fd838f5c570d94aee, type: 3}
-  Sound_Bored: {fileID: 8300000, guid: 8282cc970241a4f94a0094c7fd0eda3f, type: 3}
-  Sound_Sad: {fileID: 8300000, guid: ea16779cf8b974ca4ab304ad6d318702, type: 3}
+  Title_Angry: {fileID: 21300000, guid: 4faa06eab6290414f887ab2d2ce3ddad, type: 3}
+  Title_Bored: {fileID: 21300000, guid: 217c3ab9a4eab4a23b9c5b295dc2696e, type: 3}
+  Title_Sad: {fileID: 21300000, guid: a420e4e5b069646ffa2b016a8a99ceea, type: 3}
+  Sound_Angry: {fileID: 8300000, guid: ef33057e7b3774dcabe827af00274880, type: 3}
+  Sound_Bored: {fileID: 8300000, guid: 08a937e3afb9d4291b9b70a5bde44b1f, type: 3}
+  Sound_Sad: {fileID: 8300000, guid: da74eeecc7f7e4193af006556379d5e9, type: 3}
   SadMonster_m1e4: {fileID: 1000010523479964, guid: 54430236950c36e4aaa4567450749765,
     type: 2}
   SadMonster_m2e4: {fileID: 1000011703380614, guid: 7d6ab90f58eb657449515191c62c40fa,
@@ -85112,7 +85112,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5996e848dd6dd95469423bf25979bd27, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TitleSound: {fileID: 8300000, guid: dad6d7857c19748beb91baa54eb3e023, type: 3}
+  TitleSound: {fileID: 8300000, guid: 8967c3d36b50c48a58bc884d467876ce, type: 3}
   profiles:
   - {fileID: 4512}
   - {fileID: 4886}
@@ -85275,7 +85275,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1fdfab411e49e6943929952cffd569eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MonsterDiscoveredSound: {fileID: 8300000, guid: c98d3cc65031e4be181a2d92d1bd645a,
+  MonsterDiscoveredSound: {fileID: 8300000, guid: 1c95ea0f5798d4997a11ae144e38cec1,
     type: 3}
   FirstHolder: {fileID: 43}
 --- !u!114 &4060
@@ -85614,9 +85614,9 @@ MonoBehaviour:
   TitleImage: {fileID: 919}
   TitleSound: {fileID: 8300000, guid: 45376bd3c0314492e8a5b1c4b3a4f444, type: 3}
   VictoryImage: {fileID: 210}
-  VictoryFromAngry: {fileID: 8300000, guid: ac1eb0eaf2f6548ef8753357ecd58e42, type: 3}
-  VictoryFromBored: {fileID: 8300000, guid: 42537e75810de4b118b2364620d47e97, type: 3}
-  VictoryFromSad: {fileID: 8300000, guid: 3525b3f471d864a109986a6ae8e4a69d, type: 3}
+  VictoryFromAngry: {fileID: 8300000, guid: 547bae55108f340628faf36c780bee5f, type: 3}
+  VictoryFromBored: {fileID: 8300000, guid: 6f0d90a3c5dfd439991f378779496037, type: 3}
+  VictoryFromSad: {fileID: 8300000, guid: 24647aa4547c24a6b9282f5149e8a8e5, type: 3}
   Cheering: {fileID: 8300000, guid: a99d68238e065df4eba486a3754cb0c0, type: 3}
   PettingZones: {fileID: 1035}
   NeededPats: 5
@@ -85812,7 +85812,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mNextPanelToShow: {fileID: 0}
-  sndRUShure: {fileID: 8300000, guid: e51a449d1be78481b97e7df88ebf8b47, type: 3}
+  sndRUShure: {fileID: 8300000, guid: 3c333524997a64c6483fc3a66f2270f7, type: 3}
 --- !u!114 &4085
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -85863,14 +85863,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   GameOver: 0
   TitleImage: {fileID: 0}
-  TitleSound: {fileID: 8300000, guid: edcb9996427224678aab864ac907982f, type: 3}
+  TitleSound: {fileID: 8300000, guid: d867aaa5b78d04d26998a424fc0d85b4, type: 3}
   VictoryImage: {fileID: 627}
-  VictoryFromAngry: {fileID: 8300000, guid: ac1eb0eaf2f6548ef8753357ecd58e42, type: 3}
-  VictoryFromBored: {fileID: 8300000, guid: 42537e75810de4b118b2364620d47e97, type: 3}
-  VictoryFromSad: {fileID: 8300000, guid: 3525b3f471d864a109986a6ae8e4a69d, type: 3}
+  VictoryFromAngry: {fileID: 8300000, guid: 547bae55108f340628faf36c780bee5f, type: 3}
+  VictoryFromBored: {fileID: 8300000, guid: 6f0d90a3c5dfd439991f378779496037, type: 3}
+  VictoryFromSad: {fileID: 8300000, guid: 24647aa4547c24a6b9282f5149e8a8e5, type: 3}
   GameManager: {fileID: 5206}
   Title: {fileID: 4829}
-  StartTraceingSound: {fileID: 8300000, guid: 1b66912f5ed2040a3a40b394304f41d5, type: 3}
+  StartTraceingSound: {fileID: 8300000, guid: 7e51b93f26131415da8937e11d4e7c51, type: 3}
   LettersForTesting: []
   LettersGroup_1:
   - {fileID: 1000013600583762, guid: 4c21cd68a058c8644a370820fa6b9aff, type: 2}
@@ -85935,9 +85935,9 @@ MonoBehaviour:
   TitleImage: {fileID: 280}
   TitleSound: {fileID: 8300000, guid: 8f68e84c9f9694c5ca977d8f4634102f, type: 3}
   VictoryImage: {fileID: 1216}
-  VictoryFromAngry: {fileID: 8300000, guid: 0c7ea90baee0f450ba612b333803195f, type: 3}
-  VictoryFromBored: {fileID: 8300000, guid: cece85b430c4040f2bee348ae9c8d7cb, type: 3}
-  VictoryFromSad: {fileID: 8300000, guid: fdd83221faf064cf58a927536acf418d, type: 3}
+  VictoryFromAngry: {fileID: 8300000, guid: 547bae55108f340628faf36c780bee5f, type: 3}
+  VictoryFromBored: {fileID: 8300000, guid: 6f0d90a3c5dfd439991f378779496037, type: 3}
+  VictoryFromSad: {fileID: 8300000, guid: 24647aa4547c24a6b9282f5149e8a8e5, type: 3}
   firstShowing: 4
   rotateSpeed: 12
   shakeTime: 0.74
@@ -85966,43 +85966,27 @@ MonoBehaviour:
   - {fileID: 5015}
   CouplesGroup_1: []
   CouplesGroup_2:
-  - {fileID: 11400000, guid: c9658f5ff0fb70240af2f6ca919e0467, type: 2}
-  - {fileID: 11400000, guid: e3b0c3a9c9353cc4c8f2ce2e7a3bc013, type: 2}
-  - {fileID: 11400000, guid: cb46b566099049343b20533c26564629, type: 2}
   - {fileID: 11400000, guid: ab999519584aac543882c9baf99e2ffe, type: 2}
   - {fileID: 11400000, guid: 9d98d9459262a294e9ffc2817080a426, type: 2}
   CouplesGroup_3:
   - {fileID: 11400000, guid: 94b9d9dcc368ba747b969a7cad851db3, type: 2}
   - {fileID: 11400000, guid: 35e295315ae00794b837c563deb41a9b, type: 2}
-  - {fileID: 11400000, guid: 334051dd8b57a2642a306ba2a1a5f956, type: 2}
   - {fileID: 11400000, guid: 7e81b872c4f4a2f41830b6956b242adb, type: 2}
-  - {fileID: 11400000, guid: d0e3517cfbea11843a2e07c320e018fc, type: 2}
-  - {fileID: 11400000, guid: aee3c9bd81fce2f4a9424f356ac94cf6, type: 2}
   CouplesGroup_4:
-  - {fileID: 11400000, guid: ed120dc59d7272f4090274df82ad4083, type: 2}
+  - {fileID: 11400000, guid: 67c64afe35c75ab4b95e4a7d3a58f70e, type: 2}
   - {fileID: 11400000, guid: ac7955f0184764843ba46dcf41d227b1, type: 2}
   - {fileID: 11400000, guid: adae2a9049609784da0a32e3091611f5, type: 2}
   - {fileID: 11400000, guid: 9d5c27b6b187b5f498789012f25e27fe, type: 2}
-  - {fileID: 11400000, guid: 67c64afe35c75ab4b95e4a7d3a58f70e, type: 2}
-  - {fileID: 11400000, guid: 4c5f0a9b9fec25f41a0ce57961171caa, type: 2}
-  - {fileID: 11400000, guid: 476543213e0c3884980442e453096011, type: 2}
-  - {fileID: 11400000, guid: c7564c789c005864d9885d0eb0638132, type: 2}
-  - {fileID: 11400000, guid: ed7a4c0f223a87b4eaefbf1b5a8ac316, type: 2}
   CouplesGroup_5:
-  - {fileID: 11400000, guid: 485ea706244283948bd3b487040782ba, type: 2}
+  - {fileID: 11400000, guid: aba0686f1be94475eabeb1a9dcc7bd09, type: 2}
   - {fileID: 11400000, guid: d1123d8a38d04f4449399482feeb37ac, type: 2}
   - {fileID: 11400000, guid: 1895f2682034d3947b40fb67168b8804, type: 2}
   - {fileID: 11400000, guid: 5251b36d62ef992449f318b2e5c29354, type: 2}
   - {fileID: 11400000, guid: d6670cca00cbce142ad45dc70e155e4a, type: 2}
-  - {fileID: 11400000, guid: 97b444218bd1af441986448ad52a53bd, type: 2}
   CouplesGroup_6:
   - {fileID: 11400000, guid: 71efd32d0c48dc54a88216419e2f1e71, type: 2}
-  - {fileID: 11400000, guid: 0b20234af5618374a83dae8fd3587199, type: 2}
   - {fileID: 11400000, guid: e69c951d9f3b1424ea3965c684d5340b, type: 2}
-  - {fileID: 11400000, guid: 75802e398dd96a34ab932fb329f1d201, type: 2}
-  - {fileID: 11400000, guid: afe7ab48de93527499652ca1ddfa9b23, type: 2}
-  - {fileID: 11400000, guid: d48d796d942851e48b97e4ee2614527f, type: 2}
-  - {fileID: 11400000, guid: c7353d4c758a14803b8191b500ce6943, type: 2}
+  - {fileID: 11400000, guid: e69c951d9f3b1424ea3965c684d5340b, type: 2}
   FlipParticle: {fileID: 1685696854863294, guid: 198b8377da5357b4e97ac5ed0ca71e7d,
     type: 2}
   MatchParticle: {fileID: 1710243577141352, guid: 450751791dd3c0c4c9091d55d06bb53f,
