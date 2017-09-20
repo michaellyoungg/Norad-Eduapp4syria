@@ -1,84 +1,93 @@
-<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="1" SegmentTime="11" StoneType="1" monsterInputType="LetterInWord">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XMLLevel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+	monsterInputType="LetterInWord"
+	CollectableMonster=""
+	SegmentTime="11"
+	HideCallout="-1"
+	LettersGroup="1"
+	StoneType="1"
+>
   <Segments>
-    <Segment SegmentTime="11" spawnIds="5,75,57">
-      
+    <Segment spawnIds="5,75,57" SegmentTime="11">
+      <!-- Puzzle One -->
 	  <MonsterRequiredLetters>
-		<string>p</string>
+		<string>مَـ</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
-		<string>a</string>
-		<string>t</string>
+		<string>ـسـ</string>
+		<string>ـرَ</string>
+		<string>ح</string>
 	  </MonsterAllLetters>
 	  <Stones>
-        <string>p</string>
-		<string>t</string>
-		<string> c</string>
+        <string>مَـ</string>
+		<string>حَـ</string>
+		<string>سَـ</string>
       </Stones>
     </Segment>
-	<Segment SegmentTime="11" spawnIds="4,74,56">
-      
+	<Segment spawnIds="4,74,56" SegmentTime="11">
+      <!-- Puzzle Two -->
 	  <MonsterRequiredLetters>
-		<string>m</string>
+		<string>سَـ</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
-		<string>a</string>
-		<string>t</string>
+		<string>ـمَـ</string>
+		<string>ـر</string>
 	  </MonsterAllLetters>
 	  <Stones>
-        <string>m</string>
-		<string>p</string>
-		<string> n</string>
+        <string>سَـ</string>
+		<string>سَ</string>
+		<string>مَـ</string>
       </Stones>
     </Segment>
-	<Segment SegmentTime="11" spawnIds="89,8,95">
-      
+	<Segment spawnIds="89,8,95" SegmentTime="11">
+      <!-- Puzzle Three -->
 	  <MonsterRequiredLetters>
-		<string>c</string>
+		<string>رَ</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
-		<string>a</string>
-		<string>t</string>
+		<string>سَـ</string>
+		<string>ـمَ</string>
 	  </MonsterAllLetters>
 	  <Stones>
-        <string>c</string>
-		<string>m</string>
-		<string> p</string>
+        <string>رَ</string>
+		<string>دَ</string>
+		<string>حَـ</string>
       </Stones>
     </Segment>
-	<Segment SegmentTime="11" spawnIds="90,9,96">
-      
+	<Segment spawnIds="90,9,96" SegmentTime="11">
+      <!-- Puzzle Four -->
 	  <MonsterRequiredLetters>
-		<string>t</string>
+		<string>دَ</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
-		<string>a</string>
-		<string>p</string>
+		<string>رَ</string>
+		<string>سَ</string>
 	  </MonsterAllLetters>
 	  <Stones>
-        <string>t</string>
-		<string>c</string>
-		<string> m</string>
+        <string>دَ</string>
+		<string>رَ</string>
+		<string>مَـ</string>
       </Stones>
     </Segment>
-	<Segment SegmentTime="11" spawnIds="83,55,82,54">
-      
+	<Segment spawnIds="83,55,82,54" SegmentTime="11">
+      <!-- Puzzle Five -->
 	  <MonsterRequiredLetters>
-		<string>n</string>
+		<string>حَـ</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
-		<string>a</string>
-		<string>p</string>
+		<string>ـسَـ</string>
+		<string>ـمَ</string>
 	  </MonsterAllLetters>
 	  <Stones>
-        <string>n</string>
-        <string>p</string>
-        <string> m</string>
-		<string bonusScore="150">BonusLetter</string>
+        <string>حَـ</string>
+        <string>حَ</string>
+        <string>مَ</string>
+		<string bonusScore="150" >BonusLetter</string>
       </Stones>
     </Segment>
   </Segments>
