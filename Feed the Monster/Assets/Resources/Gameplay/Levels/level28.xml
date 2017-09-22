@@ -19,17 +19,17 @@
 	<Segment SegmentTime="10" spawnIds="">
 		
 		<MonsterRequiredLetters>
-			<string>m</string>
+			<string>hh</string>
 		</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
         	<string spawnId="19">k</string>
         	<string spawnId="18">hh</string>
-        	<string delayIn="0" delayRepet="0" loop="true" spawnId="11,86,11" speed="125">I</string>
+        	<string delayIn="0" delayRepet="0" loop="true" spawnId="11,86,11" speed="125">i</string>
         	<string delayIn="0" delayRepet="0" loop="true" spawnId="87,12,87" speed="125">ny</string>
 			<string spawnId="69">c</string>
-			<string spawnId="72">I</string>
+			<string spawnId="72">i</string>
 			<string spawnId="81">m</string>
 			<string bonusScore="275" spawnId="84">BonusLetter</string>
       	</Stones>

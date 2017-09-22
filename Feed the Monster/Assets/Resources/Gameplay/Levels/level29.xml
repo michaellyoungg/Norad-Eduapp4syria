@@ -3,7 +3,7 @@
     <Segment SegmentTime="10" spawnIds="">
     	
     	<MonsterRequiredLetters>
-    		<string>I</string>
+    		<string>i</string>
     	</MonsterRequiredLetters>
     	<MonsterAllLetters>
     	</MonsterAllLetters>
@@ -19,14 +19,14 @@
 	<Segment SegmentTime="10" spawnIds="73,27,21,76,22,26">
 		
 		<MonsterRequiredLetters>
-			<string>k</string>
+			<string>kl</string>
 		</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
         	<string>kl</string>
         	<string>w</string>
-        	<string>I</string>
+        	<string>i</string>
 			<string>ny</string>
 			<string>c</string>
 			<string>k</string>
@@ -41,7 +41,7 @@
 	  	</MonsterAllLetters>
 	  	<Stones>
 			<string spawnId="73">m</string>
-	        <string spawnId="76">I</string>
+	        <string spawnId="76">i</string>
 	        <string delayIn="0" delayRepet="0" loop="true" spawnId="66,82,66" speed="150">r</string>
 			<string spawnId="20">ny</string>
 			<string delayIn="0" delayRepet="0" loop="true" spawnId="83,67,83" speed="150">m</string>

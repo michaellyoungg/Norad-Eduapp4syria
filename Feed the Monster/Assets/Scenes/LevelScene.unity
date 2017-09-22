@@ -85935,9 +85935,9 @@ MonoBehaviour:
   TitleImage: {fileID: 280}
   TitleSound: {fileID: 8300000, guid: 8f68e84c9f9694c5ca977d8f4634102f, type: 3}
   VictoryImage: {fileID: 1216}
-  VictoryFromAngry: {fileID: 8300000, guid: 0c7ea90baee0f450ba612b333803195f, type: 3}
-  VictoryFromBored: {fileID: 8300000, guid: cece85b430c4040f2bee348ae9c8d7cb, type: 3}
-  VictoryFromSad: {fileID: 8300000, guid: fdd83221faf064cf58a927536acf418d, type: 3}
+  VictoryFromAngry: {fileID: 8300000, guid: 589227889a48543978c82f4aa250f032, type: 3}
+  VictoryFromBored: {fileID: 8300000, guid: e4ab4911c2fd643d284dea8b2ef52f38, type: 3}
+  VictoryFromSad: {fileID: 8300000, guid: 766ca1289fa7f4b6e91fc39f21f1d92c, type: 3}
   firstShowing: 4
   rotateSpeed: 12
   shakeTime: 0.74
@@ -85986,23 +85986,13 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 67c64afe35c75ab4b95e4a7d3a58f70e, type: 2}
   - {fileID: 11400000, guid: 4c5f0a9b9fec25f41a0ce57961171caa, type: 2}
   - {fileID: 11400000, guid: 476543213e0c3884980442e453096011, type: 2}
-  - {fileID: 11400000, guid: c7564c789c005864d9885d0eb0638132, type: 2}
-  - {fileID: 11400000, guid: ed7a4c0f223a87b4eaefbf1b5a8ac316, type: 2}
   CouplesGroup_5:
   - {fileID: 11400000, guid: 485ea706244283948bd3b487040782ba, type: 2}
   - {fileID: 11400000, guid: d1123d8a38d04f4449399482feeb37ac, type: 2}
-  - {fileID: 11400000, guid: 1895f2682034d3947b40fb67168b8804, type: 2}
+  - {fileID: 11400000, guid: 97b444218bd1af441986448ad52a53bd, type: 2}
   - {fileID: 11400000, guid: 5251b36d62ef992449f318b2e5c29354, type: 2}
   - {fileID: 11400000, guid: d6670cca00cbce142ad45dc70e155e4a, type: 2}
-  - {fileID: 11400000, guid: 97b444218bd1af441986448ad52a53bd, type: 2}
-  CouplesGroup_6:
-  - {fileID: 11400000, guid: 71efd32d0c48dc54a88216419e2f1e71, type: 2}
-  - {fileID: 11400000, guid: 0b20234af5618374a83dae8fd3587199, type: 2}
-  - {fileID: 11400000, guid: e69c951d9f3b1424ea3965c684d5340b, type: 2}
-  - {fileID: 11400000, guid: 75802e398dd96a34ab932fb329f1d201, type: 2}
-  - {fileID: 11400000, guid: afe7ab48de93527499652ca1ddfa9b23, type: 2}
-  - {fileID: 11400000, guid: d48d796d942851e48b97e4ee2614527f, type: 2}
-  - {fileID: 11400000, guid: c7353d4c758a14803b8191b500ce6943, type: 2}
+  CouplesGroup_6: []
   FlipParticle: {fileID: 1685696854863294, guid: 198b8377da5357b4e97ac5ed0ca71e7d,
     type: 2}
   MatchParticle: {fileID: 1710243577141352, guid: 450751791dd3c0c4c9091d55d06bb53f,

@@ -61,16 +61,17 @@
 	<Segment SegmentTime="14" spawnIds="">
 		
 		<MonsterRequiredLetters>
-			<string>l</string>
+			<string>p</string>
+			<string>h</string>
 			<string>a</string>
 		</MonsterRequiredLetters>
 		<MonsterAllLetters>
 		</MonsterAllLetters>
 		<Stones>
-			<string spawnId="26">th</string>
-			<string spawnId="8">l</string>
+			<string spawnId="26">p</string>
+			<string spawnId="8">h</string>
 			<string spawnId="9">a</string>
-			<string spawnId="27">MagnetLetter</string>
+			<string bonusScore="175" spawnId="27">BonusLetter</string>
 		</Stones>
     </Segment>
   </Segments>
