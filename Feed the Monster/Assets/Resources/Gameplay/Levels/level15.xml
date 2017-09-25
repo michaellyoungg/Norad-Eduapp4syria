@@ -1,85 +1,77 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<XMLLevel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
-	monsterInputType="Letter"
-	CollectableMonster=""
-	SegmentTime="11"
-	HideCallout="-1"
-	LettersGroup="2"
-	StoneType="1"
->
+<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="2" SegmentTime="11" StoneType="1" monsterInputType="Letter">
   <Segments>
-    <Segment spawnIds="" SegmentTime="11">
-    	<!-- Puzzle One -->
+    <Segment SegmentTime="11" spawnIds="">
+    	
     	<MonsterRequiredLetters>
-    		<string>جا</string>
+    		<string>y</string>
     	</MonsterRequiredLetters>
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string spawnId="21">جا</string>
-    		<string spawnId="18">جا</string>
-			<string spawnId="22">حا</string>
-    		<string spawnId="19">حا</string>
-			<string spawnId="60" bonusScore="200">BonusLetter</string>
+    		<string spawnId="21">h</string>
+    		<string spawnId="18">x</string>
+			<string spawnId="22">g</string>
+    		<string spawnId="19">y</string>
+			<string bonusScore="200" spawnId="60">BonusLetter</string>
     	</Stones>
 	</Segment>
-	<Segment spawnIds="" SegmentTime="11">
-		<!-- Puzzle Two -->
+	<Segment SegmentTime="11" spawnIds="">
+		
 		<MonsterRequiredLetters>
-			<string>با</string>
+			<string>y</string>
 		</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string spawnId="86">با</string>
-        	<string spawnId="1">با</string>
-        	<string spawnId="87">تا</string>
-        	<string spawnId="0">تا</string>
+        	<string spawnId="86">h</string>
+        	<string spawnId="1">w</string>
+        	<string spawnId="87">g</string>
+        	<string spawnId="0">y</string>
 			<string spawnId="60">MagnetLetter</string>
       	</Stones>
     </Segment>
-	<Segment spawnIds="" SegmentTime="11">
-		<!-- Puzzle Three -->
+	<Segment SegmentTime="11" spawnIds="">
+		
       	<MonsterRequiredLetters>
-			<string>فا</string>
+			<string>w</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string spawnId="20">فا</string>
-	        <string spawnId="61">فا</string>
-	        <string spawnId="23">كا</string>
-			<string spawnId="59">كا</string>
+			<string spawnId="20">y</string>
+	        <string spawnId="61">x</string>
+	        <string spawnId="23">y</string>
+			<string spawnId="59">w</string>
       	</Stones>
 	</Segment>
-	<Segment spawnIds="" SegmentTime="11">
-		<!-- Puzzle Four -->
+	<Segment SegmentTime="11" spawnIds="">
+		
       	<MonsterRequiredLetters>
-			<string>تا</string>
+			<string>g</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string spawnId="69">تا</string>
-	        <string spawnId="72">تا</string>
-	        <string spawnId="11">ما</string>
-			<string spawnId="8">ما</string>
-			<string spawnId="12" bonusScore="125">BonusLetter</string>
-			<string spawnId="9" bonusScore="125">BonusLetter</string>
+	        <string spawnId="69">x</string>
+	        <string spawnId="72">y</string>
+	        <string spawnId="11">h</string>
+			<string spawnId="8">g</string>
+			<string bonusScore="125" spawnId="12">BonusLetter</string>
+			<string bonusScore="125" spawnId="9">BonusLetter</string>
       	</Stones>
     </Segment>
-	<Segment spawnIds="" SegmentTime="11">
-		<!-- Puzzle Five -->
+	<Segment SegmentTime="11" spawnIds="">
+		
       	<MonsterRequiredLetters>
-			<string>كا</string>
+			<string>g</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string spawnId="15">كا</string>
-	        <string spawnId="14">كا</string>
-	        <string spawnId="12">تا</string>
-			<string spawnId="7">تا</string>
+	        <string spawnId="15">w</string>
+	        <string spawnId="14">x</string>
+	        <string spawnId="12">w</string>
+			<string spawnId="7">g</string>
 			<string spawnId="11">FireWrongLetter</string>
 			<string spawnId="6">FireWrongLetter</string>
       	</Stones>

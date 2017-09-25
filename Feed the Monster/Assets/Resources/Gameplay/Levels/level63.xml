@@ -1,101 +1,93 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<XMLLevel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
-	monsterInputType="SoundWord"
-	CollectableMonster=""
-	SegmentTime="11"
-	HideCallout="1"
-	LettersGroup="5"
-	StoneType="1"
->
+<XMLLevel CollectableMonster="" HideCallout="1" LettersGroup="5" SegmentTime="11" StoneType="1" monsterInputType="SoundWord">
 	<Segments>
-		<Segment spawnIds="" SegmentTime="11">
-			<!-- Puzzle One -->
+		<Segment SegmentTime="11" spawnIds="">
+			
 			<MonsterRequiredLetters>
-				<string>رَ</string>
-				<string>كَـ</string>
-				<string>ـضَ</string>
-			</MonsterRequiredLetters>
+				<string>q</string>
+				<string>u</string>
+				<string>f</string>
+			<string>u</string><string>l</string></MonsterRequiredLetters>
 			<MonsterAllLetters>
 			</MonsterAllLetters>
 			<Stones>
-				<string spawnId="72">رَ</string>
-				<string spawnId="81">كَـ</string>
-				<string spawnId="8">ـضَ</string>
-				<string spawnId="9">ـزَ</string>
-				<string spawnId="69">لا</string>
-				<string spawnId="84">ـصَ</string>
+				<string spawnId="72">c</string>
+				<string spawnId="81">q</string>
+				<string spawnId="8">u</string>
+				<string spawnId="9">f</string>
+				<string spawnId="69">u</string>
+				<string spawnId="84">l</string>
 			</Stones>
     </Segment>
-	<Segment spawnIds="72,81,8,9,69,84" SegmentTime="11">
-		<!-- Puzzle Two -->
+	<Segment SegmentTime="11" spawnIds="72,81,8,9,69,84">
+		
 		<MonsterRequiredLetters>
-			<string>غَـ</string>
-			<string>ـضِـ</string>
-			<string>ـبَ</string>
+			<string>d</string>
+			<string>u</string>
+			<string>n</string>
 		</MonsterRequiredLetters>
 		<MonsterAllLetters>
 		</MonsterAllLetters>
 		<Stones>
-			<string>غَـ</string>
-			<string>ـضِـ</string>
-			<string>ـبَ</string>
-			<string>عا</string>
-			<string>شا</string>
-			<string>نِ</string>
+			<string>r</string>
+			<string>q</string>
+			<string>r</string>
+			<string>d</string>
+			<string>u</string>
+			<string>n</string>
 		</Stones>
     </Segment>
-	<Segment spawnIds="72,81,8,9,69,84" SegmentTime="11">
-		<!-- Puzzle Three -->
+	<Segment SegmentTime="11" spawnIds="72,81,8,9,69,84">
+		
 		<MonsterRequiredLetters>
-			<string>كَـ</string>
-			<string>ـذَ</string>
-			<string>بَ</string>
+			<string>r</string>
+			<string>u</string>
+			<string>n</string>
 		</MonsterRequiredLetters>
 		<MonsterAllLetters>
 		</MonsterAllLetters>
 		<Stones>
-			<string>كَـ</string>
-			<string>ـذَ</string>
-			<string>بَ</string>
-			<string>نِ</string>
-			<string>غَـ</string>
-			<string>بُـ</string>
+			<string>q</string>
+			<string>d</string>
+			<string>d</string>
+			<string>r</string>
+			<string>u</string>
+			<string>n</string>
 		</Stones>
     </Segment>
-	<Segment spawnIds="72,81,8,9,69,84" SegmentTime="11">
-		<!-- Puzzle Four -->
+	<Segment SegmentTime="11" spawnIds="72,81,8,9,69,84">
+		
 		<MonsterRequiredLetters>
-			<string>مَـ</string>
-			<string>ـضَـ</string>
-			<string>ـغَ</string>
+			<string>d</string>
+			<string>u</string>
+			<string>n</string>
 		</MonsterRequiredLetters>
 		<MonsterAllLetters>
 		</MonsterAllLetters>
 		<Stones>
-			<string>مَـ</string>
-			<string>ـضَـ</string>
-			<string>ـغَ</string>      
-			<string>ـعَ</string>
-			<string>ضو</string>
-			<string>فِ</string>
+			<string>c</string>
+			<string>f</string>
+			<string>f</string>      
+			<string>d</string>
+			<string>u</string>
+			<string>n</string>
 		</Stones>
 	</Segment>
-	<Segment spawnIds="72,81,8,9,69,84" SegmentTime="11">
-		<!-- Puzzle Five -->
+	<Segment SegmentTime="11" spawnIds="72,81,8,9,69,84">
+		
 		<MonsterRequiredLetters>
-			<string>حَـ</string>
-			<string>ـضَـ</string>
-			<string>ـنَ</string>
-		</MonsterRequiredLetters>
+			<string>u</string>
+			<string>b</string>
+			<string>a</string>
+		<string>x</string></MonsterRequiredLetters>
 		<MonsterAllLetters>
 		</MonsterAllLetters>
 		<Stones>
-			<string>حَـ</string>
-			<string>ـضَـ</string>
-			<string>ـنَ</string>
-			<string>طُ</string>
-			<string>خُـ</string>
-			<string>كا</string>
+			<string>d</string>
+			<string>r</string>
+			<string>u</string>
+			<string>b</string>
+			<string>a</string>
+			<string>x</string>
 		</Stones>
     </Segment>
   </Segments>

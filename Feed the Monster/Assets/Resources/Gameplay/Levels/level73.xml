@@ -1,99 +1,90 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<XMLLevel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
-	monsterInputType="LetterInWord"
-	CollectableMonster=""
-	SegmentTime="9"
-	HideCallout="1"
-	LettersGroup="6"
-	StoneType="2"
->
+<XMLLevel CollectableMonster="" HideCallout="1" LettersGroup="6" SegmentTime="9" StoneType="2" monsterInputType="LetterInWord">
   <Segments>
-    <Segment spawnIds="" SegmentTime="9">
-      <!-- Puzzle One -->
+    <Segment SegmentTime="9" spawnIds="">
+      
 	  <MonsterRequiredLetters>
-		<string>ـدا</string>
+		<string>d</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
-		<string>حَـ</string>
 		<string>X</string>
-		<string>ئِق</string>
+		<string>u</string>
+		<string>n</string>
 	  </MonsterAllLetters>
 	  <Stones>
-        <string spawnId="79">ـدا</string>
-        <string spawnId="78">ـرا</string>
-        <string spawnId="87">جا</string>
-		<string spawnId="86">ـكا</string>
-		<string spawnId="60">غَ</string>
+        <string spawnId="79">f</string>
+        <string spawnId="78">u</string>
+        <string spawnId="87">r</string>
+		<string spawnId="86">f</string>
+		<string spawnId="60">d</string>
       </Stones>
     </Segment>
-	<Segment spawnIds="" SegmentTime="9">
-      <!-- Puzzle Two -->
+	<Segment SegmentTime="9" spawnIds="">
+      
 	  <MonsterRequiredLetters>
-		<string>ـحا</string>
+		<string>q</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
-		<string>يُـ</string>
 		<string>X</string>
-		<string>فِـ</string>
-		<string>ـظُ</string>
-	  </MonsterAllLetters>
+		<string>u</string>
+		<string>f</string>
+		<string>u</string>
+	  <string>l</string></MonsterAllLetters>
 	  <Stones>
-        <string spawnId="87">ـحا</string>
-        <string spawnId="86">ـكا</string>
-        <string spawnId="78">ـخا</string>
-		<string spawnId="79">يا</string>
+        <string spawnId="87">f</string>
+        <string spawnId="86">f</string>
+        <string spawnId="78">c</string>
+		<string spawnId="79">q</string>
       </Stones>
     </Segment>
-	<Segment spawnIds="" SegmentTime="9">
-      <!-- Puzzle Three -->
+	<Segment SegmentTime="9" spawnIds="">
+      
 	  <MonsterRequiredLetters>
-		<string>يَشْـ</string>
+		<string>d</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
-		<string>ـرَ</string>
-		<string>بُ</string>
+		<string>u</string>
+		<string>n</string>
 	  </MonsterAllLetters>
 	  <Stones>
-        <string spawnId="17">يَشْـ</string>
-        <string spawnId="93">يَسْـ</string>
-        <string spawnId="94">يَدْ</string>
-		<string spawnId="16">يَصْـ</string>
+        <string spawnId="17">f</string>
+        <string spawnId="93">f</string>
+        <string spawnId="94">c</string>
+		<string spawnId="16">d</string>
       </Stones>
     </Segment>
-	<Segment spawnIds="" SegmentTime="9">
-      <!-- Puzzle Four -->
+	<Segment SegmentTime="9" spawnIds="">
+      
 	  <MonsterRequiredLetters>
-		<string>يات</string>
+		<string>f</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
-		<string>حِـ</string>
-		<string>ـكا</string>
 		<string>X</string>
+		<string>u</string>
+		<string>r</string>
 	  </MonsterAllLetters>
 	  <Stones>
-        <string spawnId="7">يات</string>
-        <string spawnId="78">ـياب</string>
-        <string spawnId="79">ـياد</string>
-		<string spawnId="6">ـهام</string>
+        <string spawnId="7">d</string>
+        <string spawnId="78">q</string>
+        <string spawnId="79">r</string>
+		<string spawnId="6">f</string>
       </Stones>
     </Segment>
-	<Segment spawnIds="" SegmentTime="9">
-      <!-- Puzzle Five -->
+	<Segment SegmentTime="9" spawnIds="">
+      
 	  <MonsterRequiredLetters>
-		<string>ـثا</string>
+		<string>r</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
-		<string>تَـ</string>
 		<string>X</string>
-		<string>ءَ</string>
-		<string>بَ</string>
-	  </MonsterAllLetters>
+		<string>u</string>
+		<string>n</string>
+		</MonsterAllLetters>
 	  <Stones>
-        <string spawnId="20">ـثا</string>
-        <string spawnId="23">ـخا</string>
-        <string spawnId="74">يا</string>
-		<string spawnId="75">ـكا</string>
+        <string spawnId="20">q</string>
+        <string spawnId="23">q</string>
+        <string spawnId="74">q</string>
+		<string spawnId="75">r</string>
       </Stones>
     </Segment>
   </Segments>
