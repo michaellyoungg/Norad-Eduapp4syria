@@ -1,106 +1,98 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<XMLLevel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
-	monsterInputType="SoundWord"
-	CollectableMonster=""
-	SegmentTime="10"
-	HideCallout="1"
-	LettersGroup="6"
-	StoneType="1"
->
+<XMLLevel CollectableMonster="" HideCallout="1" LettersGroup="6" SegmentTime="10" StoneType="1" monsterInputType="SoundWord">
 	<Segments>
-		<Segment spawnIds="" SegmentTime="10">
-			<!-- Puzzle One -->
+		<Segment SegmentTime="10" spawnIds="">
+			
 			<MonsterRequiredLetters>
-				<string>يَشْـ</string>
-				<string>ـرَ</string>
-				<string>بُ</string>
-			</MonsterRequiredLetters>
+				<string>ş</string>
+				<string>o</string>
+				<string>k</string>
+			<string>e</string></MonsterRequiredLetters>
 			<MonsterAllLetters>
 			</MonsterAllLetters>
 			<Stones>
-				<string spawnId="81">يَشْـ</string>
-				<string spawnId="55">ـرَ</string>
-				<string spawnId="90">بُ</string>
-				<string spawnId="60">يَصْـ</string>
-				<string spawnId="89">زَ</string>
-				<string spawnId="54">نُ</string>
-				<string spawnId="84">تُ</string>
+				<string spawnId="81">ç</string>
+				<string spawnId="55">t</string>
+				<string spawnId="90">j</string>
+				<string spawnId="60">ş</string>
+				<string spawnId="89">o</string>
+				<string spawnId="54">k</string>
+				<string spawnId="84">e</string>
 			</Stones>
     </Segment>
-	<Segment spawnIds="81,55,90,60,89,54,84" SegmentTime="10">
-		<!-- Puzzle Two -->
+	<Segment SegmentTime="10" spawnIds="81,55,90,60,89,54,84">
+		
 		<MonsterRequiredLetters>
-			<string>حَـ</string>
-			<string>ـدا</string>
-			<string>ئِق</string>
-		</MonsterRequiredLetters>
+			<string>ş</string>
+			<string>o</string>
+			<string>k</string>
+		<string>e</string></MonsterRequiredLetters>
 		<MonsterAllLetters>
 		</MonsterAllLetters>
 		<Stones>
-			<string>حَـ</string>
-			<string>ـدا</string>
-			<string>ئِق</string>
-			<string>خْـ</string>
-			<string>با</string>
-			<string>ـيا</string>
-			<string>ـبو</string>
+			<string>ç</string>
+			<string>j</string>
+			<string>ç</string>
+			<string>ş</string>
+			<string>o</string>
+			<string>k</string>
+			<string>e</string>
 		</Stones>
     </Segment>
-	<Segment spawnIds="81,55,90,60,89,54,84" SegmentTime="10">
-		<!-- Puzzle Three -->
+	<Segment SegmentTime="10" spawnIds="81,55,90,60,89,54,84">
+		
 		<MonsterRequiredLetters>
-			<string>حَـ</string>
-			<string>ـرَ</string>
-			<string>ثَ</string>
-		</MonsterRequiredLetters>
+			<string>t</string>
+			<string>o</string>
+			<string>k</string>
+		<string>a</string><string>t</string></MonsterRequiredLetters>
 		<MonsterAllLetters>
 		</MonsterAllLetters>
 		<Stones>
-			<string>حَـ</string>
-			<string>ـرَ</string>
-			<string>ثَ</string>
-			<string>خْـ</string>
-			<string>عا</string>
-			<string>ذَ</string>
-			<string>تَ</string>
+			<string>ç</string>
+			<string>ç</string>
+			<string>t</string>
+			<string>o</string>
+			<string>k</string>
+			<string>a</string>
+			<string>t</string>
 		</Stones>
     </Segment>
-	<Segment spawnIds="81,55,90,60,89,54,84" SegmentTime="10">
-		<!-- Puzzle Four -->
+	<Segment SegmentTime="10" spawnIds="81,55,90,60,89,54,84">
+		
 		<MonsterRequiredLetters>
-			<string>ظَـ</string>
-			<string>ـهَـ</string>
-			<string>ـرَ</string>
+			<string>k</string>
+			<string>o</string>
+			<string>ç</string>
 		</MonsterRequiredLetters>
 		<MonsterAllLetters>
 		</MonsterAllLetters>
 		<Stones>
-			<string>ظَـ</string>
-			<string>ـهَـ</string>
-			<string>ـرَ</string>
-			<string>طِئ</string>       
-			<string>طا</string>
-			<string>هِـ</string>
-			<string>زَ</string>
+			<string>j</string>
+			<string>t</string>
+			<string>ş</string>
+			<string>j</string>       
+			<string>k</string>
+			<string>o</string>
+			<string>ç</string>
 		</Stones>
 	</Segment>
-	<Segment spawnIds="81,55,90,60,89,54,84" SegmentTime="10">
-		<!-- Puzzle Five -->
+	<Segment SegmentTime="10" spawnIds="81,55,90,60,89,54,84">
+		
 		<MonsterRequiredLetters>
-			<string>حِـ</string>
-			<string>ـكا</string>
-			<string>يات</string>
-		</MonsterRequiredLetters>
+			<string>j</string>
+			<string>o</string>
+			<string>k</string>
+		<string>e</string><string>r</string></MonsterRequiredLetters>
 		<MonsterAllLetters>
 		</MonsterAllLetters>
 		<Stones>
-			<string>حِـ</string>
-			<string>ـكا</string>
-			<string>يات</string>
-			<string>يا</string>
-			<string>خْـ</string>
-			<string>لا</string>
-			<string>ـياد</string>
+			<string>ç</string>
+			<string>ş</string>
+			<string>j</string>
+			<string>o</string>
+			<string>k</string>
+			<string>e</string>
+			<string>r</string>
 		</Stones>
     </Segment>
   </Segments>
