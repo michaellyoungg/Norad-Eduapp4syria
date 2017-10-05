@@ -15,7 +15,7 @@ public class PauseMaker : MonoBehaviour {
 
 	void OnEnable()
 	{
-		//GameplayController.Instance.IsPause = true;
+		GameplayController.Instance.IsPause = true;
 		if (GameplayController.Instance != null) {
 			GameplayController.Instance.IsPausePopup = true;
 		}
@@ -23,7 +23,7 @@ public class PauseMaker : MonoBehaviour {
 
 	void OnDisable()
 	{
-//		GameplayController.Instance.IsPause = false;
+		GameplayController.Instance.IsPause = false;
 		if (GameplayController.Instance != null) {
 			GameplayController.Instance.IsPausePopup = false;
 		}

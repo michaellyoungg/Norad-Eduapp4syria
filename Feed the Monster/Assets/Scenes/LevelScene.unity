@@ -85112,7 +85112,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5996e848dd6dd95469423bf25979bd27, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TitleSound: {fileID: 8300000, guid: 6988610494faf48fcb960ada9f42d21e, type: 3}
+  TitleSound: {fileID: 8300000, guid: 4bca57fe6a329483fb3190dd220bf6d7, type: 3}
   profiles:
   - {fileID: 4512}
   - {fileID: 4886}
@@ -86238,7 +86238,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   CurrentActive: {fileID: 0}
   CheatButton: {fileID: 36}
-  NumOfLevels: 51
+  NumOfLevels: 76
   DefaultLevelTempletes: {fileID: 11400000, guid: 912abc312cf981b46926d742a5f8a283,
     type: 2}
   LetterPrefab_1:
@@ -86434,9 +86434,9 @@ MonoBehaviour:
   PuzzleCountdown: {fileID: 4083}
   LevelEndPopup: {fileID: 385932676}
   ScreenTransitionEffect: {fileID: 51}
-  DEBUG_ADD_ALL_MONSTERS: 1
+  DEBUG_ADD_ALL_MONSTERS: 0
   DEBUG_CLEAR_PLAYERPREFS: 0
-  DEBUG_OPEN_ALL_LEVELS_PLAYERPREFS: 1
+  DEBUG_OPEN_ALL_LEVELS_PLAYERPREFS: 0
   DEBUG_USU_ONLINE_XMLS: 0
   ClickSound: {fileID: 8300000, guid: 2851a9ddacf9d0045b8ca3a5f55b2213, type: 3}
 --- !u!114 &4097
