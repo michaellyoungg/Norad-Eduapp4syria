@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='utf-8'?>
 <XMLLevel CollectableMonster="Hypnosis" HideCallout="-1" LettersGroup="2" SegmentTime="11" StoneType="1" monsterInputType="Letter">
   <Segments>
     <Segment SegmentTime="11" spawnIds="">
@@ -9,9 +8,9 @@
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string spawnId="86">s</string>
+    		<string spawnId="86">y</string>
     		<string spawnId="94">r</string>
-			<string spawnId="87">r</string>
+			<string spawnId="87">o</string>
 			<string spawnId="93">t</string>
     	</Stones>
 	</Segment>
@@ -24,37 +23,37 @@
 	  	</MonsterAllLetters>
 	  	<Stones>
         	<string spawnId="5">r</string>
-        	<string spawnId="74">y</string>
-			<string spawnId="4">t</string>
+        	<string spawnId="74">o</string>
+			<string spawnId="4">y</string>
 			<string spawnId="75">s</string>
       	</Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="">
 		
       	<MonsterRequiredLetters>
-			<string>y</string>
+			<string>s</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string spawnId="2">o</string>
-	        <string spawnId="89">d</string>
-			<string spawnId="93">r</string>
-			<string spawnId="58">y</string>	
+			<string spawnId="2">d</string>
+	        <string spawnId="89">r</string>
+			<string spawnId="93">t</string>
+			<string spawnId="58">s</string>	
       	</Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="">
 		
       	<MonsterRequiredLetters>
-			<string>t</string>
+			<string>r</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string spawnId="20">o</string>
-	        <string spawnId="23">s</string>
+	        <string spawnId="20">s</string>
+	        <string spawnId="23">d</string>
 			<string spawnId="9">d</string>
-			<string spawnId="28">t</string>
+			<string spawnId="28">r</string>
 			<string bonusScore="100" spawnId="8">BonusLetter</string>
 			<string bonusScore="100" spawnId="25">BonusLetter</string>
       	</Stones>
@@ -62,15 +61,15 @@
 	<Segment SegmentTime="11" spawnIds="">
 		
       	<MonsterRequiredLetters>
-			<string>y</string>
+			<string>s</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
 			<string spawnId="20">r</string>
-			<string spawnId="23">d</string>
-			<string spawnId="9">s</string>
-			<string spawnId="28">y</string>
+			<string spawnId="23">r</string>
+			<string spawnId="9">y</string>
+			<string spawnId="28">s</string>
 			<string spawnId="8">FireWrongLetter</string>
 			<string spawnId="25">FireWrongLetter</string>
       	</Stones>

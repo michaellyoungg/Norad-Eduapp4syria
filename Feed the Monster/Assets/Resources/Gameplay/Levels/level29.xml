@@ -1,39 +1,56 @@
-<?xml version='1.0' encoding='utf-8'?>
 <XMLLevel CollectableMonster="Larva" HideCallout="5" LettersGroup="3" SegmentTime="10" StoneType="1" monsterInputType="Letter">
   <Segments>
     <Segment SegmentTime="10" spawnIds="">
     	
     	<MonsterRequiredLetters>
-    		<string>b</string>
+    		<string>i</string>
     	</MonsterRequiredLetters>
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string spawnId="73">i</string>
+    		<string spawnId="73">n</string>
     		<string spawnId="27">f</string>
-    		<string spawnId="21">n</string>
+    		<string spawnId="21">x </string>
 			<string spawnId="76">n</string>
-			<string spawnId="22">i</string>
-			<string spawnId="26">b</string>
+			<string spawnId="22">x </string>
+			<string spawnId="26">i</string>
     	</Stones>
 	</Segment>
 	<Segment SegmentTime="10" spawnIds="73,27,21,76,22,26">
 		
 		<MonsterRequiredLetters>
-			<string>n</string>
+			<string>x</string>
 		</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string>i</string>
-        	<string>x</string>
-        	<string>x</string>
-			<string>i</string>
-			<string>f</string>
-			<string>n</string>
-      	</Stones>
+        	<string>n</string>
+        	<string>f</string>
+        	<string>n</string>
+			<string>b</string>
+			<string>b</string>
+			<string>x</string>
+      	<string spawnId="28"> </string></Stones>
     </Segment>
 	<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>x</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string spawnId="73">j</string>
+	        <string spawnId="76">x </string>
+	        <string delayIn="0" delayRepet="0" loop="true" spawnId="66,82,66" speed="150">f</string>
+			<string spawnId="20">f</string>
+			<string delayIn="0" delayRepet="0" loop="true" spawnId="83,67,83" speed="150">b</string>
+			<string spawnId="23">j</string>
+			<string spawnId="15">x</string>
+			<string bonusScore="275" spawnId="14">BonusLetter</string>
+      	</Stones>
+	</Segment>
+	<Segment SegmentTime="10" spawnIds="73,27,21,76,22,26">
 		
       	<MonsterRequiredLetters>
 			<string>b</string>
@@ -41,44 +58,26 @@
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string spawnId="73">j</string>
-	        <string spawnId="76">j</string>
-	        <string delayIn="0" delayRepet="0" loop="true" spawnId="66,82,66" speed="150">n</string>
-			<string spawnId="20">n</string>
-			<string delayIn="0" delayRepet="0" loop="true" spawnId="83,67,83" speed="150">f</string>
-			<string spawnId="23">x</string>
-			<string spawnId="15">b</string>
-			<string bonusScore="275" spawnId="14">BonusLetter</string>
-      	</Stones>
-	</Segment>
-	<Segment SegmentTime="10" spawnIds="73,27,21,76,22,26">
-		
-      	<MonsterRequiredLetters>
-			<string>i</string>
-	  	</MonsterRequiredLetters>
-	  	<MonsterAllLetters>
-	  	</MonsterAllLetters>
-	  	<Stones>
-	        <string>b</string>
-	        <string>b</string>
-	        <string>x</string>
-			<string>x</string>
-			<string>j</string>
-			<string>i</string>
+	        <string>x </string>
+	        <string>x </string>
+	        <string>i</string>
+			<string>f</string>
+			<string>f</string>
+			<string>b</string>
       	</Stones>
     </Segment>
 	<Segment SegmentTime="10" spawnIds="">
 		
       	<MonsterRequiredLetters>
-			<string>f</string>
+			<string>n</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string spawnId="28">j</string>
-	        <string spawnId="25">n</string>
+	        <string spawnId="28">f</string>
+	        <string spawnId="25">j</string>
 	        <string bonusScore="275" delayIn="0" delayRepet="0" loop="true" spawnId="94,93,94" speed="150">BonusLetter</string>
-			<string spawnId="5">f</string>
+			<string spawnId="5">n</string>
 			<string bonusScore="275" delayIn="0" delayRepet="0" loop="true" spawnId="36,45,36" speed="150">BonusLetter</string>
 			</Stones>
 	</Segment>
