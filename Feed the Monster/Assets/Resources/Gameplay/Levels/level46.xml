@@ -3,24 +3,68 @@
     <Segment SegmentTime="10" spawnIds="5,4,74,75,56,57,87,86,60">
       
 	  <MonsterRequiredLetters>
-		<string>o</string>
+		<string>d</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
-		<string>n</string>
 		<string>y</string>
-	  <string>o</string></MonsterAllLetters>
-	  <Stones>
-        <string>f v sh ny dh</string>
-        <string>f v sh ny dh</string>
-        <string>f v sh ny dh</string>
-		<string>f v sh ny dh</string>
-		<string>f v sh ny dh</string>
-        <string>f v sh ny dh</string>
-		<string>f v sh ny dh</string>
-		<string>f v sh ny dh</string>
 		<string>o</string>
-      </Stones>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>o</string>
+        <string>ny</string>
+        <string>o</string>
+		<string>sh</string>
+		<string>dh</string>
+        <string>v</string>
+		<string>ny</string>
+		<string>sh</string>
+		<string>d</string>
+      <string spawnId="28">h</string></Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="5,4,74,75,56,57,87,86,60">
+      
+	  <MonsterRequiredLetters>
+		<string>d</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>y</string>
+		<string>o</string>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="11">ny</string>
+        <string spawnId="15">sh</string>
+        <string spawnId="19">ny</string>
+		<string spawnId="12">f</string>
+		<string spawnId="14">v</string>
+        <string spawnId="18">v</string>
+		<string spawnId="21">sh</string>
+		<string spawnId="22">o</string>
+		<string spawnId="26">d</string>
+      <string spawnId="28">h</string></Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="5,4,74,75,56,57,87,86,60">
+      
+	  <MonsterRequiredLetters>
+		<string>s</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>y</string>
+		<string>o</string>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>f</string>
+        <string>o</string>
+        <string>f</string>
+		<string>ny</string>
+		<string>dh</string>
+        <string>ny</string>
+		<string>dh</string>
+		<string>sh</string>
+		<string>s</string>
+      <string spawnId="24">h</string></Stones>
     </Segment>
 	<Segment SegmentTime="10" spawnIds="5,4,74,75,56,57,87,86,60">
       
@@ -29,84 +73,42 @@
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
-		</MonsterAllLetters>
-	  <Stones>
-        <string spawnId="11">f v sh ny dh</string>
-        <string spawnId="15">o</string>
-        <string spawnId="19">f v sh ny dh</string>
-		<string spawnId="12">o</string>
-		<string spawnId="14">o</string>
-        <string spawnId="18">f v sh ny dh</string>
-		<string spawnId="21">o</string>
-		<string spawnId="22">o</string>
-		<string spawnId="26">f</string>
-      <string spawnId="24"> </string><string spawnId="24">v</string><string spawnId="20"> </string><string spawnId="28">s</string><string spawnId="20">h</string><string spawnId="26"> </string><string spawnId="22">n</string><string spawnId="24">y</string><string spawnId="24"> </string><string spawnId="24">d</string><string spawnId="20">h</string></Stones>
-    </Segment>
-	<Segment SegmentTime="10" spawnIds="5,4,74,75,56,57,87,86,60">
-      
-	  <MonsterRequiredLetters>
-		<string>o</string>
-	  </MonsterRequiredLetters>
-	  <MonsterAllLetters>
-		<string>X</string>
 		<string>n</string>
 		<string>y</string>
 	  <string>o</string></MonsterAllLetters>
 	  <Stones>
-        <string>f v sh ny dh</string>
-        <string>f v sh ny dh</string>
-        <string>f v sh ny dh</string>
-		<string>f v sh ny dh</string>
-		<string>f v sh ny dh</string>
-        <string>f v sh ny dh</string>
-		<string>f v sh ny dh</string>
-		<string>f v sh ny dh</string>
-		<string>o</string>
+        <string spawnId="20">ny</string>
+        <string spawnId="33">dh</string>
+        <string spawnId="23">v</string>
+		<string spawnId="28">o</string>
+		<string spawnId="25">v</string>
+		<string spawnId="32">o</string>
+		<string spawnId="21">ny</string>
+		<string spawnId="22">v</string>
+		<string spawnId="12">f</string>
       </Stones>
     </Segment>
 	<Segment SegmentTime="10" spawnIds="5,4,74,75,56,57,87,86,60">
       
 	  <MonsterRequiredLetters>
-		<string>o</string>
+		<string>s</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
-		<string>n</string>
 		<string>y</string>
-	  <string>o</string></MonsterAllLetters>
-	  <Stones>
-        <string spawnId="20">f v sh ny dh</string>
-        <string spawnId="33">f v sh ny dh</string>
-        <string spawnId="23">f v sh ny dh</string>
-		<string spawnId="28">f v sh ny dh</string>
-		<string spawnId="25">f v sh ny dh</string>
-		<string spawnId="32">f v sh ny dh</string>
-		<string spawnId="21">f v sh ny dh</string>
-		<string spawnId="22">f v sh ny dh</string>
-		<string spawnId="12">o</string>
-      </Stones>
-    </Segment>
-	<Segment SegmentTime="10" spawnIds="5,4,74,75,56,57,87,86,60">
-      
-	  <MonsterRequiredLetters>
 		<string>o</string>
-	  </MonsterRequiredLetters>
-	  <MonsterAllLetters>
-		<string>X</string>
-		<string>n</string>
-		<string>y</string>
-	  <string>o</string></MonsterAllLetters>
+	  </MonsterAllLetters>
 	  <Stones>
-        <string>f v sh ny dh</string>
-        <string>f v sh ny dh</string>
-        <string>f v sh ny dh</string>
-		<string>f v sh ny dh</string>
-		<string>f v sh ny dh</string>
-		<string>f v sh ny dh</string>
-		<string>f v sh ny dh</string>
-		<string>f v sh ny dh</string>
-		<string>o</string>
-      </Stones>
+        <string>o</string>
+        <string>o</string>
+        <string>f</string>
+		<string>ny</string>
+		<string>sh</string>
+		<string>f</string>
+		<string>sh</string>
+		<string>ny</string>
+		<string>s</string>
+      <string spawnId="26">h</string></Stones>
     </Segment>
   </Segments>
 </XMLLevel>

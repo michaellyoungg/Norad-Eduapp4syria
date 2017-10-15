@@ -4,15 +4,15 @@
 			
 			<MonsterRequiredLetters>
 				<string>j</string>
-				<string>a</string>
-			<string>n</string><string>a</string></MonsterRequiredLetters>
+				<string>u</string>
+			<string>z</string><string>i</string></MonsterRequiredLetters>
 			<MonsterAllLetters>
 			</MonsterAllLetters>
 			<Stones>
 				<string>j</string>
-				<string>a</string>
-				<string>n</string>
-				<string>a</string>
+				<string>u</string>
+				<string>z</string>
+				<string>i</string>
 				<string bonusScore="275" spawnId="60">BonusLetter</string>
 			</Stones>
     </Segment>
@@ -38,16 +38,16 @@
 		
 		<MonsterRequiredLetters>
 			<string>j</string>
-			<string>a</string>
-		<string>n</string><string>a</string></MonsterRequiredLetters>
+			<string>u</string>
+		<string>z</string><string>i</string></MonsterRequiredLetters>
 		<MonsterAllLetters>
 		</MonsterAllLetters>
 		<Stones>
-			<string>f v sh ny dh</string>
+			<string>sh</string>
 			<string>j</string>
-			<string>a</string>
-			<string>n</string>
-			<string>a</string>
+			<string>u</string>
+			<string>z</string>
+			<string>i</string>
 		</Stones>
     </Segment>
 	<Segment SegmentTime="13" spawnIds="20,75,74,0,1">
@@ -60,7 +60,7 @@
 		<MonsterAllLetters>
 		</MonsterAllLetters>
 		<Stones>
-			<string>o</string>
+			<string>f</string>
 			<string>z</string>
 			<string>u</string>
 			<string>r</string>
@@ -71,18 +71,18 @@
 	<Segment SegmentTime="13" spawnIds="95,96,8,9,26">
 		
 		<MonsterRequiredLetters>
+			<string>j</string>
+			<string>a</string>
 			<string>z</string>
-			<string>u</string>
-			<string>r</string>
-		<string>u</string></MonsterRequiredLetters>
+		<string>a</string></MonsterRequiredLetters>
 		<MonsterAllLetters>
 		</MonsterAllLetters>
 		<Stones>
-			<string>f v sh ny dh</string>
+			<string>dh</string>
+			<string>j</string>
+			<string>a</string>
 			<string>z</string>
-			<string>u</string>
-			<string>r</string>
-			<string>u</string>
+			<string>a</string>
 			<string spawnId="27">MagnetLetter</string>
 		</Stones>
     </Segment>
