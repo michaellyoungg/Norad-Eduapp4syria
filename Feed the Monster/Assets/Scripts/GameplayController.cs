@@ -303,7 +303,7 @@ public class GameplayController : MonoBehaviour {
 						for (int i=0; i<CurrentSegment.MonsterRequiredLetters.Length; i++) {
 							if (letter.text.text == CurrentSegment.MonsterRequiredLetters[i]) {
 								if (i > 0) {
-									for (int k=i; k>=0; k--) {
+									for (int k=0; k< i; k++) {
 										if (k != i && FindLetterInGame(CurrentSegment.MonsterRequiredLetters[k]) == null) {
 											if (letter.State == LetterController.LetterState.Idle && NeedShowLetterWarning ())
 												letter.SetState (LetterController.LetterState.Warning);
@@ -716,7 +716,7 @@ public class GameplayController : MonoBehaviour {
 			SpawnIds = new List<int> (System.Array.ConvertAll<string, int> (CurrentSegment.SpawnIds.Trim ().Split(','), int.Parse));
 		}
 
-		for ( int i=CurrentSegment.Stones.Length-1; i>=0; i--) {
+		for ( int i= 0; i < CurrentSegment.Stones.Length; i++) {
 			Stone stone = CurrentSegment.Stones[i];
 			if (stone.chanceToShow != 0f && stone.chanceToShow < 100f) {
 				if (stone.chanceToShow > (UnityEngine.Random.value * 100f)) {
