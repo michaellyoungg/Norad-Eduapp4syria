@@ -3,66 +3,66 @@
     <Segment SegmentTime="11" spawnIds="67,45,79">
     	
     	<MonsterRequiredLetters>
-    		<string>c</string>
+    		<string>g</string>
     	</MonsterRequiredLetters>
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string>c</string>
-    		<string>t</string>
-    		<string>p</string>
-    	</Stones>
+    		<string>d</string>
+    		<string>gh</string>
+    		<string>g</string>
+    	<string spawnId="24">b</string></Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="66,36,78">
 		
 		<MonsterRequiredLetters>
-			<string>p</string>
+			<string>d</string>
 		</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string>p</string>
-        	<string>m</string>
-        	<string>a</string>
+        	<string>g</string>
+        	<string>gh</string>
+        	<string>d</string>
       	</Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="18,21,26">
 		
       	<MonsterRequiredLetters>
-			<string>t</string>
+			<string>g</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string>t</string>
-	        <string>c</string>
-	        <string> p</string>
+			<string>d</string>
+	        <string>d</string>
+	        <string>g</string>
       	</Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="19,22,27">
 		
       	<MonsterRequiredLetters>
-			<string>a</string>
+			<string>g</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>a</string>
-	        <string>p</string>
-	        <string> m</string>
+	        <string>b</string>
+	        <string>b</string>
+	        <string>g</string>
       	</Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="87,27,26,86">
 		
       	<MonsterRequiredLetters>
-			<string>m</string>
+			<string>A</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>m</string>
-	        <string>t</string>
-	        <string>a</string>
+	        <string>gb</string>
+	        <string>gh</string>
+	        <string>A</string>
 			<string bonusScore="125">BonusLetter</string>
       	</Stones>
 	</Segment>
