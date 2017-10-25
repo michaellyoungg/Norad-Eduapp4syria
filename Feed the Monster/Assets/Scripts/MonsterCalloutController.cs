@@ -239,9 +239,7 @@ public class MonsterCalloutController : MonoBehaviour {
 		case MonsterInputType.Letter:
 		case MonsterInputType.SoundLetter:
 			string ltr = GameplayController.Instance.CurrentSegment.MonsterRequiredLetters [0];
-			#if UNITY_IOS || UNITY_EDITOR_OSX || UNITY_STANDALONE_OSX
 			ltr = ltr.Normalize(NormalizationForm.FormD);
-			#endif
 			url = "Sounds/Voice/Letters/" + RTL.Clean(ltr);
 			voice = Resources.Load (url) as AudioClip;
 //			var ss = Resources.Load (url);
@@ -256,9 +254,7 @@ public class MonsterCalloutController : MonoBehaviour {
 		case MonsterInputType.LetterInWord:
 			//			voice = Resources.Load ("Sounds/Voice/Letters/" + Common.Instance.GetIsolatedForm(GameplayController.Instance.CurrentSegment.MonsterRequiredLetters[0])) as AudioClip;
 			fileName = ArabicBaseForm.Extract (RTL.Clean(GameplayController.Instance.CurrentSegment.MonsterRequiredLetters [0]));
-			#if UNITY_IOS || UNITY_EDITOR_OSX || UNITY_STANDALONE_OSX
 			fileName  = fileName.Normalize(NormalizationForm.FormD);
-			#endif
 			url = "Sounds/Voice/Letters/" + fileName;
 			voice = Resources.Load (url) as AudioClip;
 			if (voice != null) {
@@ -273,9 +269,7 @@ public class MonsterCalloutController : MonoBehaviour {
 			foreach (string letter in GameplayController.Instance.CurrentSegment.MonsterRequiredLetters) {
 				word += letter;
 			}
-			#if UNITY_IOS || UNITY_EDITOR_OSX || UNITY_STANDALONE_OSX
 			word = word.Normalize(NormalizationForm.FormD);
-			#endif
 			url = "Sounds/Voice/Words/" + ArabicBaseForm.Extract (RTL.Clean(word));
 
 			voice = Resources.Load (url) as AudioClip;
