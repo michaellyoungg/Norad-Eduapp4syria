@@ -1,6 +1,6 @@
 <XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="2" SegmentTime="14" StoneType="2" monsterInputType="Word">
 	<Segments>
-		<Segment SegmentTime="14" spawnIds="21,60,22">
+		<Segment SegmentTime="14" spawnIds="28,60,22">
 			
 			<MonsterRequiredLetters>
 				<string>j</string>
@@ -12,7 +12,7 @@
 				<string>j</string>
 				<string>u</string>
 				<string>z</string>
-			<string spawnId="28">i</string></Stones>
+			<string spawnId="32">i</string></Stones>
     </Segment>
 	<Segment SegmentTime="14" spawnIds="89,8,95">
 		
@@ -40,7 +40,7 @@
 			<string>j</string>
 			<string>u</string>
 			<string>z</string>
-		<string spawnId="22">i</string></Stones>
+		<string spawnId="32">i</string></Stones>
     </Segment>
 	<Segment SegmentTime="14" spawnIds="">
 		
@@ -54,6 +54,7 @@
 			<string spawnId="93">j</string>
 			<string spawnId="28">a</string>
 			<string spawnId="94">n</string>
+			<string spawnId="32">a</string>
 			<string bonusScore="275" spawnId="25">BonusLetter</string>
 		</Stones>
 	</Segment>
@@ -70,6 +71,7 @@
 			<string spawnId="93">j</string>
 			<string spawnId="94">a</string>
 			<string spawnId="28">z</string>
+			<string spawnId="32">a</string>
 			<string spawnId="25">MagnetLetter</string>
 		</Stones>
     </Segment>
