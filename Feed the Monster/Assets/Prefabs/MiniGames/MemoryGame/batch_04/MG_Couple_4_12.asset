@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b835939c0e838634992b0a12c9a2a4bc, type: 3}
+  m_Name: MG_Couple_4_12
+  m_EditorClassIdentifier: 
+  image1: {fileID: 21300000, guid: 79a4147411c4742e8ba8140da2f11d5e, type: 3}
+  image2: {fileID: 21300000, guid: b4ec87e5631d1455c8ec1f113d44907f, type: 3}
+  matchClip: {fileID: 8300000, guid: 442d32462d848479ea2380c33cab7a99, type: 3}
