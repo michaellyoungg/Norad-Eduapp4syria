@@ -1,4 +1,4 @@
-<XMLLevel CollectableMonster="Larva" HideCallout="5" LettersGroup="3" SegmentTime="10" StoneType="1" monsterInputType="Letter">
+<XMLLevel CollectableMonster="Larva" HideCallout="5" LettersGroup="1" SegmentTime="10" StoneType="3" monsterInputType="Letter">
   <Segments>
     <Segment SegmentTime="10" spawnIds="">
     	
@@ -10,9 +10,9 @@
     	<Stones>
     		<string spawnId="73">n</string>
     		<string spawnId="27">f</string>
-    		<string spawnId="21">x </string>
+    		<string spawnId="21">x</string>
 			<string spawnId="76">n</string>
-			<string spawnId="22">x </string>
+			<string spawnId="22">x</string>
 			<string spawnId="26">i</string>
     	</Stones>
 	</Segment>
@@ -30,7 +30,7 @@
 			<string>b</string>
 			<string>b</string>
 			<string>x</string>
-      	<string spawnId="28"> </string></Stones>
+      	<string spawnId="28">s</string></Stones>
     </Segment>
 	<Segment SegmentTime="10" spawnIds="">
 		
@@ -41,7 +41,7 @@
 	  	</MonsterAllLetters>
 	  	<Stones>
 			<string spawnId="73">j</string>
-	        <string spawnId="76">x </string>
+	        <string spawnId="76">x</string>
 	        <string delayIn="0" delayRepet="0" loop="true" spawnId="66,82,66" speed="150">f</string>
 			<string spawnId="20">f</string>
 			<string delayIn="0" delayRepet="0" loop="true" spawnId="83,67,83" speed="150">b</string>
@@ -58,8 +58,8 @@
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>x </string>
-	        <string>x </string>
+	        <string>x</string>
+	        <string>x</string>
 	        <string>i</string>
 			<string>f</string>
 			<string>f</string>

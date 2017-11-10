@@ -86243,7 +86243,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   CurrentActive: {fileID: 0}
   CheatButton: {fileID: 36}
-  NumOfLevels: 51
+  NumOfLevels: 77
   DefaultLevelTempletes: {fileID: 11400000, guid: 912abc312cf981b46926d742a5f8a283,
     type: 2}
   LetterPrefab_1:
@@ -86439,9 +86439,9 @@ MonoBehaviour:
   PuzzleCountdown: {fileID: 4083}
   LevelEndPopup: {fileID: 385932676}
   ScreenTransitionEffect: {fileID: 51}
-  DEBUG_ADD_ALL_MONSTERS: 1
+  DEBUG_ADD_ALL_MONSTERS: 0
   DEBUG_CLEAR_PLAYERPREFS: 0
-  DEBUG_OPEN_ALL_LEVELS_PLAYERPREFS: 1
+  DEBUG_OPEN_ALL_LEVELS_PLAYERPREFS: 0
   DEBUG_USU_ONLINE_XMLS: 0
   ClickSound: {fileID: 8300000, guid: 2851a9ddacf9d0045b8ca3a5f55b2213, type: 3}
 --- !u!114 &4097
