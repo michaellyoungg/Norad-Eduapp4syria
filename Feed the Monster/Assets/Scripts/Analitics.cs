@@ -26,10 +26,9 @@ public class Analitics : MonoBehaviour
 		}*/
 	}
 
-
 	public void treckScreen (string screenName)
 	{
-		Firebase.Analytics.FirebaseAnalytics.SetCurrentScreen (screenName, null);
+		//Firebase.Analytics.FirebaseAnalytics.SetCurrentScreen (screenName, null);
 	}
 
 
@@ -40,7 +39,7 @@ public class Analitics : MonoBehaviour
 
 	public void treckEvent (AnaliticsCategory category, string action, string label, long value = 0)
 	{
-		Firebase.Analytics.FirebaseAnalytics.LogEvent (category.ToString (), new Firebase.Analytics.Parameter[] {
+		/*Firebase.Analytics.FirebaseAnalytics.LogEvent (category.ToString (), new Firebase.Analytics.Parameter[] {
 			new Firebase.Analytics.Parameter (
 				"action", action
 			),
@@ -50,7 +49,7 @@ public class Analitics : MonoBehaviour
 			new Firebase.Analytics.Parameter (
 				"value", value
 			)
-		});
+		});*/
 	}
 
 
