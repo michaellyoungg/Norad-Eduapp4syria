@@ -86446,9 +86446,9 @@ MonoBehaviour:
   PuzzleCountdown: {fileID: 4083}
   LevelEndPopup: {fileID: 385932676}
   ScreenTransitionEffect: {fileID: 51}
-  DEBUG_ADD_ALL_MONSTERS: 0
+  DEBUG_ADD_ALL_MONSTERS: 1
   DEBUG_CLEAR_PLAYERPREFS: 0
-  DEBUG_OPEN_ALL_LEVELS_PLAYERPREFS: 0
+  DEBUG_OPEN_ALL_LEVELS_PLAYERPREFS: 1
   DEBUG_USU_ONLINE_XMLS: 0
   ClickSound: {fileID: 8300000, guid: 2851a9ddacf9d0045b8ca3a5f55b2213, type: 3}
 --- !u!114 &4097
@@ -88489,7 +88489,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 61afe9f29b53642b8bb1336c65772512, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 05a6886fb5d154a6faae4490b4d1d667, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -94750,7 +94750,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 39925f0d5bbd24d9284589450aee81ad, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 410a3c376feea4dcb8f22751f0cc84e4, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
