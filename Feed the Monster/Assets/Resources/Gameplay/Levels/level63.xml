@@ -1,0 +1,91 @@
+<XMLLevel CollectableMonster="" HideCallout="1" LettersGroup="5" SegmentTime="11" StoneType="1" monsterInputType="SoundWord">
+	<Segments>
+		<Segment SegmentTime="11" spawnIds="">
+			
+			<MonsterRequiredLetters>
+				<string>з</string>
+				<string>и</string>
+				<string>м</string>
+			<string>и</string></MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string spawnId="72">ч</string>
+				<string spawnId="81">У</string>
+				<string spawnId="8">з</string>
+				<string spawnId="9">и</string>
+				<string spawnId="69">м</string>
+				<string spawnId="84">и</string>
+			</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="72,81,8,9,69,84">
+		
+		<MonsterRequiredLetters>
+			<string>з</string>
+			</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ґ</string>
+			<string>ч</string>
+			<string>ю</string>
+			<string>с</string>
+			<string>с</string>
+			<string>з</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="72,81,8,9,69,84">
+		
+		<MonsterRequiredLetters>
+			<string>м</string>
+			<string>и</string>
+			</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>л</string>
+			<string>л</string>
+			<string>ю</string>
+			<string>У</string>
+			<string>м</string>
+			<string>и</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="72,81,8,9,69,84">
+		
+		<MonsterRequiredLetters>
+			<string>з</string>
+			<string>и</string>
+			<string>м</string>
+		<string>и</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>с</string>
+			<string>У</string>
+			<string>з</string>      
+			<string>и</string>
+			<string>м</string>
+			<string>и</string>
+		</Stones>
+	</Segment>
+	<Segment SegmentTime="11" spawnIds="72,81,8,9,69,84">
+		
+		<MonsterRequiredLetters>
+			<string>х</string>
+			<string>м</string>
+			<string>и</string>
+		<string>з</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ґ</string>
+			<string>ґ</string>
+			<string>х</string>
+			<string>м</string>
+			<string>и</string>
+			<string>з</string>
+		</Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

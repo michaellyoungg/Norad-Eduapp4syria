@@ -3,67 +3,67 @@
     <Segment SegmentTime="11" spawnIds="28,94,7">
     	
     	<MonsterRequiredLetters>
-    		<string>m</string>
+    		<string>б</string>
     	</MonsterRequiredLetters>
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string>m</string>
-    		<string>p</string>
-			<string> t</string>
+    		<string>т</string>
+    		<string>т</string>
+			<string>б</string>
     	</Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="25,93,6">
 		
 		<MonsterRequiredLetters>
-			<string>c</string>
+			<string>А</string>
 		</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string>c</string>
-        	<string>m</string>
-			<string> p</string>
+        	<string>я</string>
+        	<string>б</string>
+			<string>А</string>
       	</Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="59,78,6">
 		
       	<MonsterRequiredLetters>
-			<string>n</string>
+			<string>я</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string>n</string>
-	        <string>c</string>
-			<string> t</string>
+			<string>ж</string>
+	        <string>ж</string>
+			<string>я</string>
       	</Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="61,79,7">
 		
       	<MonsterRequiredLetters>
-			<string>t</string>
+			<string>т</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>t</string>
-	        <string>n</string>
-			<string> p</string>
+	        <string>А</string>
+	        <string>А</string>
+			<string>т</string>
 			
       	</Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="94,93,59,61">
 		
       	<MonsterRequiredLetters>
-			<string>p</string>
+			<string>т</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>p</string>
-	        <string>t</string>
-			<string> c</string>
+	        <string>б</string>
+	        <string>я</string>
+			<string>т</string>
 			<string bonusScore="100">BonusLetter</string>
       	</Stones>
 	</Segment>
