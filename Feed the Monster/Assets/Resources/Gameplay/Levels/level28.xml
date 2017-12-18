@@ -3,85 +3,85 @@
     <Segment SegmentTime="10" spawnIds="">
     	
     	<MonsterRequiredLetters>
-    		<string>І</string>
+    		<string>п</string>
     	</MonsterRequiredLetters>
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string spawnId="22">к</string>
+    		<string spawnId="22">ї</string>
     		<string spawnId="4">п</string>
-    		<string spawnId="76">ц</string>
+    		<string spawnId="76">к</string>
     		<string spawnId="21">п</string>
 			<string spawnId="5">ц</string>
-			<string spawnId="73">І</string>	
+			<string spawnId="73">п</string>	
     	</Stones>
 	</Segment>
 	<Segment SegmentTime="10" spawnIds="">
 		
 		<MonsterRequiredLetters>
-			<string>ї</string>
+			<string>і</string>
 		</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string spawnId="19">к</string>
-        	<string spawnId="18">І</string>
-        	<string delayIn="0" delayRepet="0" loop="true" spawnId="11,86,11" speed="125">к</string>
-        	<string delayIn="0" delayRepet="0" loop="true" spawnId="87,12,87" speed="125">ц</string>
-			<string spawnId="69">п</string>
-			<string spawnId="72">к</string>
-			<string spawnId="81">ї</string>
+        	<string spawnId="19">п</string>
+        	<string spawnId="18">ц</string>
+        	<string delayIn="0" delayRepet="0" loop="true" spawnId="11,86,11" speed="125">і</string>
+        	<string delayIn="0" delayRepet="0" loop="true" spawnId="87,12,87" speed="125">і</string>
+			<string spawnId="69">к</string>
+			<string spawnId="72">ї</string>
+			<string spawnId="81">і</string>
 			<string bonusScore="275" spawnId="84">BonusLetter</string>
       	</Stones>
     </Segment>
 	<Segment SegmentTime="10" spawnIds="">
 		
       	<MonsterRequiredLetters>
-			<string>к</string>
+			<string>ї</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string spawnId="25">ц</string>
-	        <string spawnId="45">І</string>
-	        <string spawnId="93">ц</string>
-			<string spawnId="94">ї</string>
-			<string spawnId="36">ї</string>
-			<string spawnId="28">к</string>
+			<string spawnId="25">к</string>
+	        <string spawnId="45">і</string>
+	        <string spawnId="93">п</string>
+			<string spawnId="94">к</string>
+			<string spawnId="36">к</string>
+			<string spawnId="28">ї</string>
       	</Stones>
 	</Segment>
 	<Segment SegmentTime="10" spawnIds="">
 		
       	<MonsterRequiredLetters>
-			<string>к</string>
+			<string>п</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string spawnId="58">п</string>
+	        <string spawnId="58">ц</string>
 	        <string delayIn="0" delayRepet="0" loop="true" spawnId="45,36,45" speed="150">ї</string>
-	        <string spawnId="62">п</string>
-			<string delayIn="0" delayRepet="0" loop="true" spawnId="93,94,93" speed="150">п</string>
-			<string spawnId="66">І</string>
-			<string spawnId="67">п</string>
-			<string spawnId="27">к</string>
+	        <string spawnId="62">ї</string>
+			<string delayIn="0" delayRepet="0" loop="true" spawnId="93,94,93" speed="150">ц</string>
+			<string spawnId="66">і</string>
+			<string spawnId="67">к</string>
+			<string spawnId="27">п</string>
 			<string bonusScore="275" spawnId="26">BonusLetter</string>
       	</Stones>
     </Segment>
 	<Segment SegmentTime="10" spawnIds="">
 		
       	<MonsterRequiredLetters>
-			<string>ц</string>
+			<string>к</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string spawnId="90">к</string>
-	        <string spawnId="55">к</string>
-	        <string spawnId="96">ї</string>
-			<string spawnId="89">І</string>
-			<string spawnId="54">І</string>
-			<string spawnId="95">ц</string>
+	        <string spawnId="90">ц</string>
+	        <string spawnId="55">і</string>
+	        <string spawnId="96">ц</string>
+			<string spawnId="89">п</string>
+			<string spawnId="54">п</string>
+			<string spawnId="95">к</string>
       	</Stones>
 	</Segment>
   </Segments>

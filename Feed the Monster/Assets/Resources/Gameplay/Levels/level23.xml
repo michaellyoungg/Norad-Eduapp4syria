@@ -3,17 +3,16 @@
 		<Segment SegmentTime="13" spawnIds="">
 			
 			<MonsterRequiredLetters>
-				<string>х</string>
 				<string>м</string>
 				<string>и</string>
-			<string>з</string></MonsterRequiredLetters>
+				</MonsterRequiredLetters>
 			<MonsterAllLetters>
 			</MonsterAllLetters>
 			<Stones>
-				<string spawnId="74">х</string>
-				<string spawnId="56">м</string>
-				<string spawnId="57">и</string>
-				<string spawnId="75">з</string>
+				<string spawnId="74">ш</string>
+				<string spawnId="56">р</string>
+				<string spawnId="57">м</string>
+				<string spawnId="75">и</string>
 				<string bonusScore="275" spawnId="60">BonusLetter</string>
 			</Stones>
     </Segment>
@@ -26,8 +25,8 @@
 		<MonsterAllLetters>
 		</MonsterAllLetters>
 		<Stones>
-			<string spawnId="74">Е</string>
-			<string spawnId="56">Е</string>
+			<string spawnId="74">н</string>
+			<string spawnId="56">н</string>
 			<string spawnId="57">м</string>
 			<string spawnId="75">и</string>
 			<string spawnId="60">MagnetLetter</string>
@@ -41,9 +40,9 @@
 		<MonsterAllLetters>
 		</MonsterAllLetters>
 		<Stones>
-			<string spawnId="75">р</string>
-			<string spawnId="57">ш</string>
-			<string spawnId="56">Е</string>
+			<string spawnId="75">е</string>
+			<string spawnId="57">є</string>
+			<string spawnId="56">в</string>
 			<string spawnId="74">з</string>
 			<string bonusScore="275" spawnId="60">BonusLetter</string>
 		</Stones>
@@ -51,14 +50,16 @@
 	<Segment SegmentTime="13" spawnIds="">
 		
 		<MonsterRequiredLetters>
-			<string>з</string>
-			</MonsterRequiredLetters>
+			<string>х</string>
+			<string>м</string>
+			<string>и</string>
+		<string>з</string></MonsterRequiredLetters>
 		<MonsterAllLetters>
 		</MonsterAllLetters>
 		<Stones>
-			<string spawnId="75">н</string>
-			<string spawnId="57">є</string>
-			<string spawnId="56">в</string>
+			<string spawnId="75">х</string>
+			<string spawnId="57">м</string>
+			<string spawnId="56">и</string>
 			<string spawnId="74">з</string>
 			<string spawnId="60">MagnetLetter</string>
 		</Stones>

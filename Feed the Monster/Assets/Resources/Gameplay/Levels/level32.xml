@@ -3,7 +3,7 @@
     <Segment SegmentTime="10" spawnIds="59,64,78,17,16,79,63,61">
       
 	  <MonsterRequiredLetters>
-		<string>ц</string>
+		<string>п</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
@@ -11,81 +11,61 @@
 		<string>п</string>
 	  </MonsterAllLetters>
 	  <Stones>
-        <string>п</string>
-        <string>ї</string>
-        <string>ї</string>
+        <string>к</string>
+        <string>к</string>
+        <string>ц</string>
+		<string>і</string>
 		<string>п</string>
-		<string>п</string>
         <string>ї</string>
-		<string>ї</string>
 		<string>ц</string>
+		<string>п</string>
       </Stones>
     </Segment>
 	<Segment SegmentTime="10" spawnIds="59,64,78,17,16,79,63,61">
       
 	  <MonsterRequiredLetters>
-		<string>ї</string>
-	  </MonsterRequiredLetters>
-	  <MonsterAllLetters>
-		<string>X</string>
-		<string>ї</string>
-		</MonsterAllLetters>
-	  <Stones>
-        <string>ц</string>
-        <string>ц</string>
-        <string>к</string>
-		<string>п</string>
-		<string>п</string>
-        <string>І</string>
-		<string>п</string>
-		<string>ї</string>
-      </Stones>
-    </Segment>
-	<Segment SegmentTime="10" spawnIds="">
-      
-	  <MonsterRequiredLetters>
 		<string>п</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
 		<string>і</string>
-		<string>к</string>
+		<string>п</string>
 	  </MonsterAllLetters>
 	  <Stones>
-        <string spawnId="69">п</string>
-        <string spawnId="84">к</string>
-        <string delayIn="0" delayRepet="0" loop="true" spawnId="11,86,11" speed="150">к</string>
-		<string spawnId="81">п</string>
-		<string delayIn="0" delayRepet="0" loop="true" spawnId="87,12,87" speed="150">к</string>
-        <string spawnId="72">ц</string>
-		<string spawnId="19">І</string>
+        <string>к</string>
+        <string>ї</string>
+        <string>ї</string>
+		<string>ц</string>
+		<string>і</string>
+        <string>ї</string>
+		<string>п</string>
+		<string>п</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ц</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>і</string>
+		<string>п</string>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="69">ї</string>
+        <string spawnId="84">ц</string>
+        <string delayIn="0" delayRepet="0" loop="true" spawnId="11,86,11" speed="150">п</string>
+		<string spawnId="81">к</string>
+		<string delayIn="0" delayRepet="0" loop="true" spawnId="87,12,87" speed="150">ї</string>
+        <string spawnId="72">к</string>
+		<string spawnId="19">ц</string>
 		<string bonusScore="275" spawnId="18">BonusLetter</string>
       </Stones>
     </Segment>
 	<Segment SegmentTime="10" spawnIds="59,64,78,17,16,79,63,61">
       
 	  <MonsterRequiredLetters>
-		<string>п</string>
-	  </MonsterRequiredLetters>
-	  <MonsterAllLetters>
-		<string>X</string>
-		<string>і</string>
-		<string>к</string>
-	  </MonsterAllLetters>
-	  <Stones>
-        <string>ї</string>
-        <string>ї</string>
-        <string>ц</string>
-		<string>п</string>
-		<string>п</string>
-		<string>ї</string>
-		<string>ц</string>
-		<string>к</string>
-      </Stones>
-    </Segment>
-	<Segment SegmentTime="10" spawnIds="59,64,78,17,16,79,63,61">
-      
-	  <MonsterRequiredLetters>
 		<string>ї</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
@@ -93,14 +73,33 @@
 		<string>ї</string>
 		</MonsterAllLetters>
 	  <Stones>
+        <string>і</string>
         <string>ц</string>
-        <string>к</string>
-        <string>к</string>
-		<string>п</string>
+        <string>ї</string>
+		<string>і</string>
 		<string>к</string>
+		<string>ц</string>
 		<string>к</string>
-		<string>І</string>
 		<string>ї</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="59,64,78,17,16,79,63,61">
+      
+	  <MonsterRequiredLetters>
+		<string>і</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		</MonsterAllLetters>
+	  <Stones>
+        <string>і</string>
+        <string>ц</string>
+        <string>ї</string>
+		<string>ц</string>
+		<string>ц</string>
+		<string>ц</string>
+		<string>ц</string>
+		<string>і</string>
       </Stones>
     </Segment>
   </Segments>
