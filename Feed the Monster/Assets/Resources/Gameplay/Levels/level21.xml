@@ -8,10 +8,10 @@
 	  <MonsterAllLetters>
 		<string>X</string>
 		<string>b</string>
-	  <string>a</string></MonsterAllLetters>
+	  <string>e</string></MonsterAllLetters>
 	  <Stones>
-        <string>ŋ</string>
-		<string>p</string>
+        <string>b</string>
+		<string>b</string>
         <string>e</string>
       </Stones>
     </Segment>
@@ -23,10 +23,10 @@
 	  <MonsterAllLetters>
 		<string>X</string>
 		<string>b</string>
-	  <string>a</string></MonsterAllLetters>
+	  <string>e</string></MonsterAllLetters>
 	  <Stones>
-        <string spawnId="4">ŋ</string>
-        <string spawnId="54">p</string>
+        <string spawnId="4">p</string>
+        <string spawnId="54">ŋ</string>
 		<string spawnId="58">e</string>
       </Stones>
     </Segment>
@@ -38,10 +38,10 @@
 	  <MonsterAllLetters>
 		<string>X</string>
 		<string>b</string>
-	  <string>e</string></MonsterAllLetters>
+	  <string>a</string></MonsterAllLetters>
 	  <Stones>
+        <string>b</string>
         <string>e</string>
-        <string>p</string>
 		<string>e</string>
       </Stones>
     </Segment>
@@ -53,10 +53,10 @@
 	  <MonsterAllLetters>
 		<string>X</string>
 		<string>b</string>
-	  <string>e</string></MonsterAllLetters>
+	  <string>a</string></MonsterAllLetters>
 	  <Stones>
         <string spawnId="8">e</string>
-        <string spawnId="9">p</string>
+        <string spawnId="9">ŋ</string>
         <string spawnId="60">e</string>
       </Stones>
     </Segment>
@@ -68,10 +68,10 @@
 	  <MonsterAllLetters>
 		<string>X</string>
 		<string>b</string>
-	  <string>e</string></MonsterAllLetters>
+	  <string>a</string></MonsterAllLetters>
 	  <Stones>
-        <string>ŋ</string>
-        <string>b</string>
+        <string>p</string>
+        <string>p</string>
 		<string>e</string>
 		<string bonusScore="250">BonusLetter</string>
       </Stones>

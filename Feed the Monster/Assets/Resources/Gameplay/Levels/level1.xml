@@ -3,40 +3,40 @@
     <Segment SegmentTime="11" spawnIds="28,94,7">
     	
     	<MonsterRequiredLetters>
-    		<string>a</string>
+    		<string>w</string>
     	</MonsterRequiredLetters>
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string>w</string>
-    		<string>w</string>
-			<string>a</string>
+    		<string>a</string>
+    		<string>c</string>
+			<string>w</string>
     	</Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="25,93,6">
 		
 		<MonsterRequiredLetters>
-			<string>a</string>
+			<string>y</string>
 		</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
+        	<string>h</string>
         	<string>c</string>
-        	<string>c</string>
-			<string>a</string>
+			<string>y</string>
       	</Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="59,78,6">
 		
       	<MonsterRequiredLetters>
-			<string>y</string>
+			<string>c</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string>h</string>
-	        <string>c</string>
-			<string>y</string>
+			<string>w</string>
+	        <string>h</string>
+			<string>c</string>
       	</Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="61,79,7">
@@ -47,8 +47,8 @@
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>y</string>
-	        <string>h</string>
+	        <string>a</string>
+	        <string>w</string>
 			<string>a</string>
 			
       	</Stones>
@@ -61,8 +61,8 @@
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>h</string>
 	        <string>w</string>
+	        <string>h</string>
 			<string>w</string>
 			<string bonusScore="100">BonusLetter</string>
       	</Stones>
