@@ -3,105 +3,105 @@
     <Segment SegmentTime="10" spawnIds="">
       
 	  <MonsterRequiredLetters>
-		<string>b</string>
+		<string>k</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
-		<string>u</string>
-		<string>g</string>
-	  </MonsterAllLetters>
-	  <Stones>
-        <string spawnId="86">t</string>
-        <string spawnId="68">r</string>
-        <string spawnId="65">t</string>
-		<string spawnId="87">c</string>
-		<string spawnId="93">u</string>
-		<string spawnId="36">(g)</string>
-		<string spawnId="84">n</string>
-		<string spawnId="45">b</string>
-      </Stones>
-    </Segment>
-	<Segment SegmentTime="10" spawnIds="">
-      
-	  <MonsterRequiredLetters>
-		<string>t</string>
-	  </MonsterRequiredLetters>
-	  <MonsterAllLetters>
-		<string>X</string>
-		<string>u</string>
-		<string>g</string>
-	  </MonsterAllLetters>
-	  <Stones>
-        <string spawnId="18">u</string>
-        <string spawnId="72">u</string>
-        <string delayIn="0" delayRepet="0" loop="true" spawnId="11,86,11" speed="150">u</string>
-		<string spawnId="81">b</string>
-		<string delayIn="0" delayRepet="0" loop="true" spawnId="87,12,87" speed="150">(g)</string>
-		<string spawnId="84">b</string>
-		<string spawnId="19">t</string>
-		<string bonusScore="275" spawnId="69">BonusLetter</string>
-      </Stones>
-    </Segment>
-	<Segment SegmentTime="10" spawnIds="86,68,65,87,93,36,84,45">
-      
-	  <MonsterRequiredLetters>
-		<string>t</string>
-	  </MonsterRequiredLetters>
-	  <MonsterAllLetters>
-		<string>X</string>
-		<string>u</string>
-		<string>b</string>
-	  </MonsterAllLetters>
-	  <Stones>
-        <string>n</string>
-        <string>(g)</string>
-        <string>b</string>
-		<string>u</string>
-		<string>n</string>
-		<string>u</string>
-		<string>u</string>
-		<string>t</string>
-      </Stones>
-    </Segment>
-	<Segment SegmentTime="10" spawnIds="86,68,65,87,93,36,84,45">
-      
-	  <MonsterRequiredLetters>
-		<string>b</string>
-	  </MonsterRequiredLetters>
-	  <MonsterAllLetters>
-		<string>X</string>
-		<string>u</string>
-		<string>t</string>
-	  </MonsterAllLetters>
-	  <Stones>
-        <string>t</string>
-        <string>c</string>
-        <string>c</string>
-		<string>t</string>
+		<string>í</string>
 		<string>c</string>
-		<string>u</string>
-		<string>n</string>
-		<string>b</string>
+	  <string>h</string></MonsterAllLetters>
+	  <Stones>
+        <string spawnId="86">i</string>
+        <string spawnId="68">ngh</string>
+        <string spawnId="65">k</string>
+		<string spawnId="87">ngh</string>
+		<string spawnId="93">p</string>
+		<string spawnId="36">ngh</string>
+		<string spawnId="84">p</string>
+		<string spawnId="45">k</string>
       </Stones>
     </Segment>
 	<Segment SegmentTime="10" spawnIds="">
       
 	  <MonsterRequiredLetters>
-		<string>t</string>
+		<string>n</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
-		<string>u</string>
-		<string>b</string>
+		<string>ị</string>
+		<string>c</string>
+	  <string>h</string></MonsterAllLetters>
+	  <Stones>
+        <string spawnId="18">ngh</string>
+        <string spawnId="72">ch</string>
+        <string delayIn="0" delayRepet="0" loop="true" spawnId="11,86,11" speed="150">gh</string>
+		<string spawnId="81">ngh</string>
+		<string delayIn="0" delayRepet="0" loop="true" spawnId="87,12,87" speed="150">i</string>
+		<string spawnId="84">ngh</string>
+		<string spawnId="19">n</string>
+		<string bonusScore="275" spawnId="69">BonusLetter</string>
+      <string spawnId="28">g</string><string spawnId="26">h</string></Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="86,68,65,87,93,36,84,45">
+      
+	  <MonsterRequiredLetters>
+		<string>n</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>ị</string>
+		<string>c</string>
+	  <string>h</string></MonsterAllLetters>
+	  <Stones>
+        <string>i</string>
+        <string>ngh</string>
+        <string>k</string>
+		<string>k</string>
+		<string>p</string>
+		<string>i</string>
+		<string>i</string>
+		<string>n</string>
+      <string spawnId="28">g</string><string spawnId="22">h</string></Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="86,68,65,87,93,36,84,45">
+      
+	  <MonsterRequiredLetters>
+		<string>c</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>í</string>
+		<string>p</string>
 	  </MonsterAllLetters>
 	  <Stones>
-        <string spawnId="24">b</string>
-        <string spawnId="29">c</string>
-        <string delayIn="0" delayRepet="0" loop="true" spawnId="45,36,45" speed="150">u</string>
-		<string spawnId="66">c</string>
-		<string delayIn="0" delayRepet="0" loop="true" spawnId="93,94,93" speed="150">u</string>
-		<string spawnId="67">c</string>
-		<string spawnId="61">t</string>
+        <string>k</string>
+        <string>k</string>
+        <string>k</string>
+		<string>k</string>
+		<string>ch</string>
+		<string>ch</string>
+		<string>k</string>
+		<string>c</string>
+      <string spawnId="28">h</string></Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>p</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>í</string>
+		<string>c</string>
+	  <string>h</string></MonsterAllLetters>
+	  <Stones>
+        <string spawnId="24">gh</string>
+        <string spawnId="29">i</string>
+        <string delayIn="0" delayRepet="0" loop="true" spawnId="45,36,45" speed="150">ch</string>
+		<string spawnId="66">ngh</string>
+		<string delayIn="0" delayRepet="0" loop="true" spawnId="93,94,93" speed="150">gh</string>
+		<string spawnId="67">k</string>
+		<string spawnId="61">p</string>
 		<string bonusScore="275" spawnId="59">BonusLetter</string>
       </Stones>
     </Segment>
