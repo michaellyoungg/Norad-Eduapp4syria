@@ -8,64 +8,64 @@
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string>n</string>
-    		<string>n</string>
+    		<string>a</string>
+    		<string>a</string>
 			<string>p</string>
-    	<string spawnId="20">h</string></Stones>
+    	</Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="25,93,6">
 		
 		<MonsterRequiredLetters>
-			<string>A</string>
+			<string>n</string>
 		</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string>ny</string>
-        	<string>m</string>
-			<string>A</string>
-      	</Stones>
+        	<string>ph</string>
+        	<string>a</string>
+			<string>n</string>
+	</Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="59,78,6">
 		
       	<MonsterRequiredLetters>
-			<string>p</string>
+			<string>a</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string>t</string>
-	        <string>ny</string>
-			<string>p</string>
+			<string>c</string>
+	        <string>m</string>
+			<string>a</string>
       	</Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="61,79,7">
 		
       	<MonsterRequiredLetters>
-			<string>t</string>
+			<string>c</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>ny</string>
-	        <string>ny</string>
-			<string>t</string>
+	        <string>a</string>
+	        <string>m</string>
+			<string>c</string>
 			
       	</Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="94,93,59,61">
 		
       	<MonsterRequiredLetters>
-			<string>A</string>
+			<string>n</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>ph</string>
-	        <string>t</string>
-			<string>A</string>
+	        <string>ny</string>
+	        <string>p</string>
+			<string>n</string>
 			<string bonusScore="100">BonusLetter</string>
-      	</Stones>
+			</Stones>
 	</Segment>
   </Segments>
 </XMLLevel>
