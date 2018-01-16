@@ -81757,7 +81757,7 @@ MonoBehaviour:
   GameFailMusic: {fileID: 8300000, guid: d9e6671c2414c784eab09fa7bcf1c42e, type: 3}
   GameLostFanfare: {fileID: 8300000, guid: fa62a551c3b125f4b829c0a5fd8595fe, type: 3}
   GameWonFanfare: {fileID: 8300000, guid: eb0188a951d327a45adcbfa38e711263, type: 3}
-  SoundEvolve: {fileID: 8300000, guid: b0efec2e9c95342c4afa824596b4ef1f, type: 3}
+  SoundEvolve: {fileID: 8300000, guid: 0e5d621966e3c42b39deebc8718dff8b, type: 3}
   SoundScoreCount: {fileID: 8300000, guid: e304589b7b107b349b203d699f2ca5d4, type: 3}
   SoundBarFull: {fileID: 8300000, guid: 42b5ff3aa958df648b6aaedd9bcce607, type: 3}
 --- !u!114 &3864
@@ -85935,9 +85935,9 @@ MonoBehaviour:
   TitleImage: {fileID: 280}
   TitleSound: {fileID: 8300000, guid: 8f68e84c9f9694c5ca977d8f4634102f, type: 3}
   VictoryImage: {fileID: 1216}
-  VictoryFromAngry: {fileID: 8300000, guid: 0c7ea90baee0f450ba612b333803195f, type: 3}
-  VictoryFromBored: {fileID: 8300000, guid: cece85b430c4040f2bee348ae9c8d7cb, type: 3}
-  VictoryFromSad: {fileID: 8300000, guid: fdd83221faf064cf58a927536acf418d, type: 3}
+  VictoryFromAngry: {fileID: 8300000, guid: 6c02bb4dccd974be688465086ec2fbd1, type: 3}
+  VictoryFromBored: {fileID: 8300000, guid: 00ee64c84674b4c12b6860bd852f849a, type: 3}
+  VictoryFromSad: {fileID: 8300000, guid: 73379cde6d7b64189b669e1fe1ec06c7, type: 3}
   firstShowing: 4
   rotateSpeed: 12
   shakeTime: 0.74
@@ -85948,7 +85948,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: ab0320b88b3847641baf0c539e728c3d, type: 3}
   - {fileID: 21300000, guid: 1a395b0bd64e98246b3979ac29c664fb, type: 3}
   CardFlipSFX: {fileID: 8300000, guid: 4baedfe2ce87a2f4895b818e7e0a5a87, type: 3}
-  CardMatchSFX: {fileID: 0}
+  CardMatchSFX: {fileID: 8300000, guid: fee168ac202d540e8860eaf28040ec8a, type: 3}
   CardNotMatchSFX: {fileID: 8300000, guid: 548d44340415ab44894231158663ca40, type: 3}
   Title: {fileID: 4398}
   cards:
@@ -86456,9 +86456,9 @@ MonoBehaviour:
   PuzzleCountdown: {fileID: 4083}
   LevelEndPopup: {fileID: 385932676}
   ScreenTransitionEffect: {fileID: 51}
-  DEBUG_ADD_ALL_MONSTERS: 0
+  DEBUG_ADD_ALL_MONSTERS: 1
   DEBUG_CLEAR_PLAYERPREFS: 0
-  DEBUG_OPEN_ALL_LEVELS_PLAYERPREFS: 0
+  DEBUG_OPEN_ALL_LEVELS_PLAYERPREFS: 1
   DEBUG_USU_ONLINE_XMLS: 0
   ClickSound: {fileID: 8300000, guid: 2851a9ddacf9d0045b8ca3a5f55b2213, type: 3}
 --- !u!114 &4097
@@ -94760,7 +94760,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 39925f0d5bbd24d9284589450aee81ad, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 389f82a5c29604aa29976fb3bcf77885, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1

@@ -3,26 +3,26 @@
     <Segment SegmentTime="11" spawnIds="">
       
 	  <MonsterRequiredLetters>
-		<string>m</string>
+		<string>l</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
 		<string>e</string>
-	  <string>r</string><string>e</string></MonsterAllLetters>
+	  <string>e</string></MonsterAllLetters>
 	  <Stones>
-        <string spawnId="28">j</string>
-        <string spawnId="63">l</string>
+        <string spawnId="28">f</string>
+        <string spawnId="63">h</string>
         <string spawnId="25">k</string>
-		<string spawnId="64">j</string>
-		<string spawnId="91">l</string>
-        <string spawnId="92">m</string>
+		<string spawnId="64">e</string>
+		<string spawnId="91">k</string>
+        <string spawnId="92">l</string>
 		<string spawnId="60">MagnetLetter</string>
       </Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="">
       
 	  <MonsterRequiredLetters>
-		<string>E</string>
+		<string>l</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
@@ -30,18 +30,18 @@
 		<string>e</string>
 	  </MonsterAllLetters>
 	  <Stones>
-        <string spawnId="3">f</string>
-        <string spawnId="59">l</string>
-        <string spawnId="2">f</string>
-		<string spawnId="61">j</string>
+        <string spawnId="3">m</string>
+        <string spawnId="59">f</string>
+        <string spawnId="2">m</string>
+		<string spawnId="61">h</string>
 		<string spawnId="54">m</string>
-        <string spawnId="55">E</string>
+        <string spawnId="55">l</string>
       </Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="">
       
 	  <MonsterRequiredLetters>
-		<string>k</string>
+		<string>f</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
@@ -49,50 +49,50 @@
 		<string>e</string>
 	  </MonsterAllLetters>
 	  <Stones>
-        <string spawnId="16">l</string>
-        <string spawnId="80">l</string>
-        <string spawnId="66">f</string>
-		<string spawnId="77">j</string>
-		<string spawnId="67">m</string>
+        <string spawnId="16">e</string>
+        <string spawnId="80">m</string>
+        <string spawnId="66">e</string>
+		<string spawnId="77">l</string>
+		<string spawnId="67">h</string>
+        <string spawnId="17">f</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>l</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>e</string>
+		<string>e</string>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="77">m</string>
         <string spawnId="17">k</string>
-      </Stones>
-    </Segment>
-	<Segment SegmentTime="11" spawnIds="">
-      
-	  <MonsterRequiredLetters>
-		<string>j</string>
-	  </MonsterRequiredLetters>
-	  <MonsterAllLetters>
-		<string>X</string>
-		<string>e</string>
-		<string>e</string>
-	  </MonsterAllLetters>
-	  <Stones>
-        <string spawnId="77">l</string>
-        <string spawnId="17">h</string>
         <string spawnId="67">h</string>
-		<string spawnId="16">f</string>
-		<string spawnId="66">f</string>
-		<string spawnId="80">j</string>
+		<string spawnId="16">h</string>
+		<string spawnId="66">h</string>
+		<string spawnId="80">l</string>
       </Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="2,3,90,89,93,94">
       
 	  <MonsterRequiredLetters>
-		<string>k</string>
+		<string>m</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
 		<string>e</string>
-		<string>e</string>
-	  </MonsterAllLetters>
+		<string>r</string>
+	  <string>e</string></MonsterAllLetters>
 	  <Stones>
-        <string>f</string>
-        <string>f</string>
-        <string>E</string>
-		<string>h</string>
+        <string>e</string>
+        <string>k</string>
+        <string>l</string>
+		<string>m</string>
 		<string>l</string>
-		<string>k</string>
+		<string>m</string>
 		<string bonusScore="125" chanceToShow="60" spawnId="86">BonusLetter</string>
 		<string bonusScore="125" chanceToShow="60" spawnId="87">BonusLetter</string>
       </Stones>
