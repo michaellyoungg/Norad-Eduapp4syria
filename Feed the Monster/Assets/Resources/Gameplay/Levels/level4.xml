@@ -3,27 +3,27 @@
     <Segment SegmentTime="11" spawnIds="67,45,79">
     	
     	<MonsterRequiredLetters>
-    		<string>j</string>
+    		<string>y</string>
     	</MonsterRequiredLetters>
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string>g</string>
-    		<string>gb</string>
-    		<string>j</string>
+    		<string>h</string>
+    		<string>k</string>
+    		<string>y</string>
     	</Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="66,36,78">
 		
 		<MonsterRequiredLetters>
-			<string>h</string>
+			<string>r</string>
 		</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string>s</string>
         	<string>b</string>
-        	<string>h</string>
+        	<string>s</string>
+        	<string>r</string>
       	</Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="18,21,26">
@@ -34,37 +34,37 @@
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string>k</string>
-	        <string>gb</string>
+			<string>j</string>
+	        <string>h</string>
 	        <string>s</string>
       	</Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="19,22,27">
 		
       	<MonsterRequiredLetters>
-			<string>r</string>
+			<string>a</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
+	        <string>j</string>
 	        <string>gb</string>
-	        <string>gb</string>
-	        <string>r</string>
+	        <string>a</string>
       	</Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="87,27,26,86">
 		
       	<MonsterRequiredLetters>
-			<string>k</string>
+			<string>gb</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
+	        <string>j</string>
 	        <string>gb</string>
-	        <string>g</string>
-	        <string>k</string>
+	        <string>gb</string>
 			<string bonusScore="125">BonusLetter</string>
-      	</Stones>
+		</Stones>
 	</Segment>
   </Segments>
 </XMLLevel>
