@@ -3,95 +3,92 @@
     <Segment SegmentTime="11" spawnIds="">
       
 	  <MonsterRequiredLetters>
-		<string>f</string>
+		<string>च</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
-		<string>i</string>
-	  <string>n</string></MonsterAllLetters>
+		<string>ि</string>
+	  </MonsterAllLetters>
 	  <Stones>
-        <string spawnId="28">l</string>
-        <string spawnId="63">l</string>
-        <string spawnId="25">s</string>
-		<string spawnId="64">n</string>
-		<string spawnId="91">p</string>
-        <string spawnId="92">f</string>
+        <string spawnId="28">च</string>
+        <string spawnId="63">छ</string>
+        <string spawnId="25">ङ</string>
+		<string spawnId="64">ज</string>
+		<string spawnId="91">ज</string>
+        <string spawnId="92">च</string>
 		<string spawnId="60">MagnetLetter</string>
       </Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="">
       
 	  <MonsterRequiredLetters>
-		<string>s</string>
+		<string>च</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
-		<string>i</string>
-		<string>p</string>
-	  </MonsterAllLetters>
+		<string>ि</string>
+		</MonsterAllLetters>
 	  <Stones>
-        <string spawnId="3">i</string>
-        <string spawnId="59">f</string>
-        <string spawnId="2">i</string>
-		<string spawnId="61">f</string>
-		<string spawnId="54">n</string>
-        <string spawnId="55">s</string>
+        <string spawnId="3">ङ</string>
+        <string spawnId="59">छ</string>
+        <string spawnId="2">च</string>
+		<string spawnId="61">ज</string>
+		<string spawnId="54">आ</string>
+        <string spawnId="55">च</string>
       </Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="">
       
 	  <MonsterRequiredLetters>
-		<string>p</string>
+		<string>ज</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
-		<string>i</string>
-		<string>n</string>
-	  </MonsterAllLetters>
+		<string>ि</string>
+		</MonsterAllLetters>
 	  <Stones>
-        <string spawnId="16">(z)</string>
-        <string spawnId="80">i</string>
-        <string spawnId="66">(z)</string>
-		<string spawnId="77">l</string>
-		<string spawnId="67">n</string>
-        <string spawnId="17">p</string>
+        <string spawnId="16">ङ</string>
+        <string spawnId="80">आ</string>
+        <string spawnId="66">च</string>
+		<string spawnId="77">छ</string>
+		<string spawnId="67">च</string>
+        <string spawnId="17">ज</string>
       </Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="">
       
 	  <MonsterRequiredLetters>
-		<string>n</string>
+		<string>ज</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
-		<string>i</string>
-		<string>p</string>
-	  </MonsterAllLetters>
+		<string>ि</string>
+		</MonsterAllLetters>
 	  <Stones>
-        <string spawnId="77">s</string>
-        <string spawnId="17">s</string>
-        <string spawnId="67">p</string>
-		<string spawnId="16">(z)</string>
-		<string spawnId="66">(z)</string>
-		<string spawnId="80">n</string>
+        <string spawnId="77">ङ</string>
+        <string spawnId="17">आ</string>
+        <string spawnId="67">आ</string>
+		<string spawnId="16">आ</string>
+		<string spawnId="66">ङ</string>
+		<string spawnId="80">ज</string>
       </Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="2,3,90,89,93,94">
       
 	  <MonsterRequiredLetters>
-		<string>i</string>
+		<string>ज</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
-		<string>f</string>
+		<string>ि</string>
 		</MonsterAllLetters>
 	  <Stones>
-        <string>p</string>
-        <string>(z)</string>
-        <string>f</string>
-		<string>n</string>
-		<string>p</string>
-		<string>i</string>
+        <string>छ</string>
+        <string>ङ</string>
+        <string>छ</string>
+		<string>ङ</string>
+		<string>ङ</string>
+		<string>ज</string>
 		<string bonusScore="125" chanceToShow="60" spawnId="86">BonusLetter</string>
 		<string bonusScore="125" chanceToShow="60" spawnId="87">BonusLetter</string>
       </Stones>
