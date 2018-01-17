@@ -3,88 +3,90 @@
     <Segment SegmentTime="9" spawnIds="">
       
 	  <MonsterRequiredLetters>
-		<string>w</string>
+		<string>d</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
-		<string>e</string>
-		<string>d</string>
-	  </MonsterAllLetters>
+		<string>o</string>
+		<string>r</string>
+	  <string>o</string></MonsterAllLetters>
 	  <Stones>
-        <string spawnId="79">t</string>
-        <string spawnId="78">t</string>
-        <string spawnId="87">d</string>
+        <string spawnId="79">f</string>
+        <string spawnId="78">o</string>
+        <string spawnId="87">r</string>
 		<string spawnId="86">n</string>
-		<string spawnId="60">w</string>
-      </Stones>
+		<string spawnId="60">d</string>
+      <string spawnId="24">z</string></Stones>
     </Segment>
 	<Segment SegmentTime="9" spawnIds="">
       
 	  <MonsterRequiredLetters>
-		<string>w</string>
-	  </MonsterRequiredLetters>
-	  <MonsterAllLetters>
-		<string>X</string>
-		<string>e</string>
 		<string>t</string>
-		</MonsterAllLetters>
-	  <Stones>
-        <string spawnId="87">d</string>
-        <string spawnId="86">d</string>
-        <string spawnId="78">g</string>
-		<string spawnId="79">w</string>
-      </Stones>
-    </Segment>
-	<Segment SegmentTime="9" spawnIds="">
-      
-	  <MonsterRequiredLetters>
-		<string>d</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
-		<string>e</string>
-		<string>n</string>
+		<string>o</string>
+		<string>r</string>
+		<string>a</string>
 	  </MonsterAllLetters>
 	  <Stones>
-        <string spawnId="17">n</string>
-        <string spawnId="93">n</string>
-        <string spawnId="94">n</string>
-		<string spawnId="16">d</string>
-      </Stones>
-    </Segment>
-	<Segment SegmentTime="9" spawnIds="">
-      
-	  <MonsterRequiredLetters>
-		<string>d</string>
-	  </MonsterRequiredLetters>
-	  <MonsterAllLetters>
-		<string>X</string>
-		<string>e</string>
-		<string>n</string>
-	  </MonsterAllLetters>
-	  <Stones>
-        <string spawnId="7">w</string>
+        <string spawnId="87">f</string>
+        <string spawnId="86">r</string>
         <string spawnId="78">n</string>
-        <string spawnId="79">w</string>
+		<string spawnId="79">t</string>
+      <string spawnId="28">y</string></Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>t</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>o</string>
+		<string>r</string>
+	  <string>a</string></MonsterAllLetters>
+	  <Stones>
+        <string spawnId="17">r</string>
+        <string spawnId="93">n</string>
+        <string spawnId="94">ty</string>
+		<string spawnId="16">t</string>
+      <string spawnId="28">y</string></Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>d</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>o</string>
+		<string>f</string>
+	  <string>o</string></MonsterAllLetters>
+	  <Stones>
+        <string spawnId="7">r</string>
+        <string spawnId="78">n</string>
+        <string spawnId="79">f</string>
 		<string spawnId="6">d</string>
       </Stones>
     </Segment>
 	<Segment SegmentTime="9" spawnIds="">
       
 	  <MonsterRequiredLetters>
-		<string>g</string>
+		<string>t</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
-		<string>e</string>
-		<string>t</string>
-		</MonsterAllLetters>
+		<string>o</string>
+		<string>r</string>
+		<string>a</string>
+	  </MonsterAllLetters>
 	  <Stones>
-        <string spawnId="20">w</string>
-        <string spawnId="23">e</string>
-        <string spawnId="74">t</string>
-		<string spawnId="75">g</string>
-      </Stones>
+        <string spawnId="20">ty</string>
+        <string spawnId="23">r</string>
+        <string spawnId="74">ty</string>
+		<string spawnId="75">t</string>
+      <string spawnId="20">y</string></Stones>
     </Segment>
   </Segments>
 </XMLLevel>
