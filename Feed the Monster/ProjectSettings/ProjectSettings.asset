@@ -16,7 +16,7 @@ PlayerSettings:
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13333334, g: 0.17254902, b: 0.21176471, a: 1}
   m_ShowUnitySplashScreen: 1
-  m_ShowUnitySplashLogo: 1
+  m_ShowUnitySplashLogo: 0
   m_SplashScreenOverlayOpacity: 0
   m_SplashScreenAnimation: 0
   m_SplashScreenLogoStyle: 0
@@ -38,12 +38,10 @@ PlayerSettings:
     width: 1
     height: 1
   m_SplashScreenLogos:
-  - logo: {fileID: 21300000, guid: e3e782f2e3283478d97a96bc3403bbbb, type: 3}
+  - logo: {fileID: 21300000, guid: 09441ffa2b45847279a59b733565ec06, type: 3}
     duration: 2
-  m_SplashScreenBackgroundLandscape: {fileID: 1, guid: 00000000000000000000000000000000,
-    type: 0}
-  m_SplashScreenBackgroundPortrait: {fileID: 1, guid: 00000000000000000000000000000000,
-    type: 0}
+  m_SplashScreenBackgroundLandscape: {fileID: 0}
+  m_SplashScreenBackgroundPortrait: {fileID: 0}
   m_VirtualRealitySplashScreen: {fileID: 0}
   m_HolographicTrackingLossScreen: {fileID: 0}
   defaultScreenWidth: 450
@@ -123,7 +121,7 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
-  bundleIdentifier: com.eduapp4syria.feedthemonsterENGLISH
+  bundleIdentifier: com.eduapp4syria.feedthemonsterTagalog
   bundleVersion: 1
   preloadedAssets: []
   metroInputSource: 0
@@ -131,7 +129,7 @@ PlayerSettings:
   xboxOneDisableKinectGpuReservation: 0
   protectGraphicsMemory: 0
   useHDRDisplay: 0
-  AndroidBundleVersionCode: 3
+  AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 16
   AndroidPreferredInstallLocation: 0
   aotOptions: 
@@ -227,7 +225,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: 53f816301d6084e7fa55fac1fb7e6ad8, type: 3}
+      m_Icon: {fileID: 2800000, guid: 65a55e5186bc24734b4a9835fa01e514, type: 3}
       m_Width: 128
       m_Height: 128
   m_BuildTargetBatching: []

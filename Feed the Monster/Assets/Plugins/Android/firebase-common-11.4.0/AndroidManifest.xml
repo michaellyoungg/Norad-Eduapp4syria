@@ -3,6 +3,6 @@
     <uses-sdk android:minSdkVersion="14"/>
     <application>
 
-        <provider android:authorities="com.eduapp4syria.feedthemonsterENGLISH.firebaseinitprovider" android:name="com.google.firebase.provider.FirebaseInitProvider" android:exported="false" android:initOrder="100"/>
+        <provider android:authorities="com.eduapp4syria.feedthemonsterTagalog.firebaseinitprovider" android:name="com.google.firebase.provider.FirebaseInitProvider" android:exported="false" android:initOrder="100"/>
     </application>
 </manifest>
