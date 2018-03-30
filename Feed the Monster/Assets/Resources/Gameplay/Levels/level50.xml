@@ -1,96 +1,88 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<XMLLevel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
-	monsterInputType="SoundWord"
-	CollectableMonster=""
-	SegmentTime="12"
-	HideCallout="2"
-	LettersGroup="4"
-	StoneType="1"
->
+<XMLLevel CollectableMonster="" HideCallout="2" LettersGroup="4" SegmentTime="12" StoneType="1" monsterInputType="SoundWord">
 	<Segments>
-		<Segment spawnIds="90,55,96,91,93" SegmentTime="12">
-			<!-- Puzzle One -->
+		<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+			
 			<MonsterRequiredLetters>
-				<string>فَـ</string>
-				<string>ـحَـ</string>
-				<string>ـصَ</string>
-			</MonsterRequiredLetters>
+				<string>ب</string>
+				<string>ا</string>
+				<string>ب</string>
+			<string>ا</string></MonsterRequiredLetters>
 			<MonsterAllLetters>
 			</MonsterAllLetters>
 			<Stones>
-				<string>فَـ</string>
-				<string>ـحَـ</string>
-				<string>ـصَ</string>
-				<string>خَـ</string>
-				<string>قَـ</string>
+				<string>ر</string>
+				<string>ب</string>
+				<string>ا</string>
+				<string>ب</string>
+				<string>ا</string>
 			</Stones>
     </Segment>
-	<Segment spawnIds="90,55,96,91,93" SegmentTime="12">
-		<!-- Puzzle Two -->
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
 		<MonsterRequiredLetters>
-			<string>طَـ</string>
-			<string>ـبَـ</string>
-			<string>ـعَ</string>
-		</MonsterRequiredLetters>
+			<string>م</string>
+			<string>ا</string>
+			<string>د</string>
+		<string>ر</string></MonsterRequiredLetters>
 		<MonsterAllLetters>
 		</MonsterAllLetters>
 		<Stones>
-			<string>طَـ</string>
-			<string>ـبَـ</string>
-			<string>ـعَ</string>
-			<string>ـرَ</string>
-			<string>قَ</string>
+			<string>ی</string>
+			<string>م</string>
+			<string>ا</string>
+			<string>د</string>
+			<string>ر</string>
 		</Stones>
     </Segment>
-	<Segment spawnIds="90,55,96,91,93" SegmentTime="12">
-		<!-- Puzzle Three -->
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
 		<MonsterRequiredLetters>
-			<string>بُرْ</string>
-			<string>تُـ</string>
-			<string>ـقال</string>
-		</MonsterRequiredLetters>
+			<string>پ</string>
+			<string>ا</string>
+			<string>ن</string>
+		<string>د</string><string>ا</string></MonsterRequiredLetters>
 		<MonsterAllLetters>
 		</MonsterAllLetters>
 		<Stones>
-			<string>بُرْ</string>
-			<string>تُـ</string>
-			<string>ـقال</string>
-			<string>ف</string>
-			<string>صَـ</string>
+			<string>پ</string>
+			<string>ا</string>
+			<string>ن</string>
+			<string>د</string>
+			<string>ا</string>
 		</Stones>
     </Segment>
-	<Segment spawnIds="90,55,96,91,93" SegmentTime="12">
-		<!-- Puzzle Four -->
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
 		<MonsterRequiredLetters>
-			<string>خَـ</string>
-			<string>ـلَـ</string>
-			<string>ـطَ</string>
-		</MonsterRequiredLetters>
+			<string>پ</string>
+			<string>ا</string>
+			<string>ن</string>
+		<string>د</string><string>ا</string></MonsterRequiredLetters>
 		<MonsterAllLetters>
 		</MonsterAllLetters>
 		<Stones>
-			<string>خَـ</string>
-			<string>ـلَـ</string>
-			<string>ـطَ</string>       
-			<string>ل</string>
-			<string>طا</string>
+			<string>پ</string>
+			<string>ا</string>
+			<string>ن</string>       
+			<string>د</string>
+			<string>ا</string>
 		</Stones>
 	</Segment>
-	<Segment spawnIds="90,55,96,91,93" SegmentTime="12">
-		<!-- Puzzle Five -->
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
 		<MonsterRequiredLetters>
-			<string>قَـ</string>
-			<string>ـرَ</string>
-			<string>عَ</string>
-		</MonsterRequiredLetters>
+			<string>س</string>
+			<string>ا</string>
+			<string>ر</string>
+		<string>ا</string></MonsterRequiredLetters>
 		<MonsterAllLetters>
 		</MonsterAllLetters>
 		<Stones>
-			<string>قَـ</string>
-			<string>ـرَ</string>
-			<string>عَ</string>
-			<string>ز</string>
-			<string>ـعَ</string>
+			<string>ب</string>
+			<string>س</string>
+			<string>ا</string>
+			<string>ر</string>
+			<string>ا</string>
 		</Stones>
     </Segment>
   </Segments>

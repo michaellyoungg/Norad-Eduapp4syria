@@ -1,91 +1,83 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<XMLLevel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
-	monsterInputType="SoundLetter"
-	CollectableMonster=""
-	SegmentTime="10"
-	HideCallout="5"
-	LettersGroup="3"
-	StoneType="1"
->
+<XMLLevel CollectableMonster="" HideCallout="5" LettersGroup="3" SegmentTime="10" StoneType="1" monsterInputType="SoundLetter">
   <Segments>
-    <Segment spawnIds="" SegmentTime="10">
-    	<!-- Puzzle One -->
+    <Segment SegmentTime="10" spawnIds="">
+    	
     	<MonsterRequiredLetters>
-    		<string>نُ</string>
+    		<string>ت</string>
     	</MonsterRequiredLetters>
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string spawnId="69">نُ</string>
-    		<string spawnId="9">نُ</string>
-			<string spawnId="81">نُ</string>
-			<string spawnId="72">تُ</string>
-			<string spawnId="8">تُ</string>
-			<string spawnId="84">تُ</string>
+    		<string spawnId="69">ق</string>
+    		<string spawnId="9">ب</string>
+			<string spawnId="81">ج</string>
+			<string spawnId="72">چ</string>
+			<string spawnId="8">م</string>
+			<string spawnId="84">ت</string>
     	</Stones>
 	</Segment>
-	<Segment spawnIds="69,9,81,72,8,84" SegmentTime="10">
-		<!-- Puzzle Two -->
+	<Segment SegmentTime="10" spawnIds="69,9,81,72,8,84">
+		
 		<MonsterRequiredLetters>
-			<string>وُ</string>
+			<string>م</string>
 		</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string>وُ</string>
-        	<string>وُ</string>
-			<string>وُ</string>
-        	<string>وَ</string>
-			<string>وَ</string>
-			<string>وَ</string>
+        	<string>چ</string>
+        	<string>م</string>
+			<string>م</string>
+        	<string>ب</string>
+			<string>م</string>
+			<string>م</string>
       	</Stones>
     </Segment>
-	<Segment spawnIds="" SegmentTime="10">
-		<!-- Puzzle Three -->
+	<Segment SegmentTime="10" spawnIds="">
+		
       	<MonsterRequiredLetters>
-			<string>شُ</string>
+			<string>ب</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string spawnId="89">شُ</string>
-	        <string spawnId="95">شُ</string>
-			<string spawnId="55">شُ</string>
-	        <string spawnId="54">ش</string>
-			<string spawnId="96">ش</string>
-			<string spawnId="90">ش</string>
+			<string spawnId="89">ق</string>
+	        <string spawnId="95">ت</string>
+			<string spawnId="55">ج</string>
+	        <string spawnId="54">ب</string>
+			<string spawnId="96">ت</string>
+			<string spawnId="90">ب</string>
       	</Stones>
 	</Segment>
-	<Segment spawnIds="89,95,55,54,96,90" SegmentTime="10">
-		<!-- Puzzle Four -->
+	<Segment SegmentTime="10" spawnIds="89,95,55,54,96,90">
+		
       	<MonsterRequiredLetters>
-			<string>زُ</string>
+			<string>ب</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>زُ</string>
-	        <string>زُ</string>
-			<string>زُ</string>
-	        <string>رُ</string>
-			<string>رُ</string>
-			<string>رُ</string>
+	        <string>ا</string>
+	        <string>ا</string>
+			<string>ب</string>
+	        <string>ب</string>
+			<string>ب</string>
+			<string>ب</string>
       	</Stones>
     </Segment>
-	<Segment spawnIds="" SegmentTime="10">
-		<!-- Puzzle Five -->
+	<Segment SegmentTime="10" spawnIds="">
+		
       	<MonsterRequiredLetters>
-			<string>عُ</string>
+			<string>م</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string spawnId="59">عُ</string>
-	        <string spawnId="6">عُ</string>
-	        <string spawnId="94">عُ</string>
-			<string spawnId="93">حُ</string>
-			<string spawnId="61">حُ</string>
-			<string spawnId="7">حُ</string>
+	        <string spawnId="59">م</string>
+	        <string spawnId="6">ق</string>
+	        <string spawnId="94">ب</string>
+			<string spawnId="93">ق</string>
+			<string spawnId="61">م</string>
+			<string spawnId="7">م</string>
       	</Stones>
 	</Segment>
   </Segments>

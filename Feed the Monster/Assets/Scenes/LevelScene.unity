@@ -65315,7 +65315,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: f9bbcf1d4e3ad3146b1fc966ad13f922, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 75cd691bba1d540fea5f418ed90bb93f, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -95374,7 +95374,7 @@ Prefab:
     - target: {fileID: 114418645699438230, guid: 5111f1f92fa78aa40a692591b2a6aab8,
         type: 2}
       propertyPath: DEBUG_OPEN_ALL_LEVELS_PLAYERPREFS
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 114418645699438230, guid: 5111f1f92fa78aa40a692591b2a6aab8,
         type: 2}
@@ -95384,7 +95384,7 @@ Prefab:
     - target: {fileID: 114418645699438230, guid: 5111f1f92fa78aa40a692591b2a6aab8,
         type: 2}
       propertyPath: DEBUG_ADD_ALL_MONSTERS
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5111f1f92fa78aa40a692591b2a6aab8, type: 2}

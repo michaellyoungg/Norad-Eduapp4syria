@@ -4,6 +4,7 @@ using UnityEngine.EventSystems;
 using UnityEngine.UI;
 using System;
 using System.Collections.Generic;
+using System.Text;
 
 public class MonsterCalloutController : MonoBehaviour {
 	public const int ANIMATION_IDLE = 0, ANIMATION_EATING = 1, ANIMATION_ANGRY = 2, ANIMATION_HAPPY = 3;
@@ -252,6 +253,9 @@ public class MonsterCalloutController : MonoBehaviour {
 			//			voice = Resources.Load ("Sounds/Voice/Letters/" + Common.Instance.GetIsolatedForm(GameplayController.Instance.CurrentSegment.MonsterRequiredLetters[0])) as AudioClip;
 			fileName = ArabicBaseForm.Extract (RTL.Clean(GameplayController.Instance.CurrentSegment.MonsterRequiredLetters [0]));
 			url = "Sounds/Voice/Letters/" + fileName;
+			#if UNITY_IOS || UNITY_EDITOR_OSX || UNITY_STANDALONE_OSX
+			url= url.Normalize(NormalizationForm.FormD);
+			#endif
 			voice = Resources.Load (url) as AudioClip;
 			if (voice != null) {
 				AudioController.Instance.PlaySound (voice, 1, monster.Pitch);
@@ -266,7 +270,9 @@ public class MonsterCalloutController : MonoBehaviour {
 				word += letter;
 			}
 			url = "Sounds/Voice/Words/" + ArabicBaseForm.Extract (RTL.Clean(word));
-
+			#if UNITY_IOS || UNITY_EDITOR_OSX || UNITY_STANDALONE_OSX
+			url= url.Normalize(NormalizationForm.FormD);
+			#endif
 			voice = Resources.Load (url) as AudioClip;
 			if (voice != null) {
 				AudioController.Instance.PlaySound (voice, 1, monster.Pitch);
