@@ -3,83 +3,83 @@
 		<Segment SegmentTime="13" spawnIds="">
 			
 			<MonsterRequiredLetters>
-				<string>آ</string>
-				<string>ه</string>
-				<string>ن</string>
-			<string>گ</string></MonsterRequiredLetters>
+				<string>ا</string>
+				<string>َ</string>
+				<string>ژ</string>
+			</MonsterRequiredLetters>
 			<MonsterAllLetters>
 			</MonsterAllLetters>
 			<Stones>
-				<string spawnId="77">آ</string>
-				<string spawnId="83">ه</string>
-				<string spawnId="80">ن</string>
+				<string spawnId="77">ا</string>
+				<string spawnId="83">َ</string>
+				<string spawnId="80">ژ</string>
 				<string bonusScore="175" spawnId="82">BonusLetter</string>
-			<string spawnId="60">گ</string></Stones>
+			</Stones>
     </Segment>
 	<Segment SegmentTime="13" spawnIds="">
 		
 		<MonsterRequiredLetters>
-			<string>آ</string>
-			<string>ژ</string>
-			<string>ی</string>
-		<string>ر</string></MonsterRequiredLetters>
-		<MonsterAllLetters>
-		</MonsterAllLetters>
-		<Stones>
-			<string spawnId="77">آ</string>
-			<string spawnId="83">ژ</string>
-			<string spawnId="80">ی</string>
-			<string spawnId="82">MagnetLetter</string>
-		<string spawnId="60">ر</string></Stones>
-    </Segment>
-	<Segment SegmentTime="13" spawnIds="">
-		
-		<MonsterRequiredLetters>
-			<string>آ</string>
-			<string>ه</string>
-			<string>ن</string>
-		<string>گ</string></MonsterRequiredLetters>
-		<MonsterAllLetters>
-		</MonsterAllLetters>
-		<Stones>
-			<string spawnId="94">آ</string>
-			<string spawnId="59">ه</string>
-			<string spawnId="93">ن</string>
-			<string bonusScore="175" spawnId="61">BonusLetter</string>
-		<string spawnId="32">گ</string></Stones>
-    </Segment>
-	<Segment SegmentTime="13" spawnIds="">
-		
-		<MonsterRequiredLetters>
-			<string>آ</string>
-			<string>ب</string>
-			<string>ی</string>
+			<string>ا</string>
+			<string>َ</string>
+			<string>د</string>
 		</MonsterRequiredLetters>
 		<MonsterAllLetters>
 		</MonsterAllLetters>
 		<Stones>
-			<string spawnId="94">آ</string>
-			<string spawnId="59">ب</string>
-			<string spawnId="93">ی</string>
+			<string spawnId="77">ا</string>
+			<string spawnId="83">َ</string>
+			<string spawnId="80">د</string>
+			<string spawnId="82">MagnetLetter</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="13" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>ا</string>
+			<string>َ</string>
+			<string>ذ</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string spawnId="94">ا</string>
+			<string spawnId="59">َ</string>
+			<string spawnId="93">ذ</string>
+			<string bonusScore="175" spawnId="61">BonusLetter</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="13" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>ا</string>
+			<string>َ</string>
+			<string>م</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string spawnId="94">ا</string>
+			<string spawnId="59">َ</string>
+			<string spawnId="93">م</string>
 			<string spawnId="61">MagnetLetter</string>
 		</Stones>
 	</Segment>
 	<Segment SegmentTime="13" spawnIds="">
 		
 		<MonsterRequiredLetters>
-			<string>آ</string>
-			<string>ژ</string>
-			<string>ی</string>
-		<string>ر</string></MonsterRequiredLetters>
+			<string>ا</string>
+			<string>َ</string>
+			<string>د</string>
+		</MonsterRequiredLetters>
 		<MonsterAllLetters>
 		</MonsterAllLetters>
 		<Stones>
-			<string spawnId="55">آ</string>
-			<string spawnId="60">ژ</string>
-			<string spawnId="82">ی</string>
+			<string spawnId="55">ا</string>
+			<string spawnId="60">َ</string>
+			<string spawnId="82">د</string>
 			<string spawnId="83">MagnetLetter</string>
 			<string bonusScore="175" spawnId="54">BonusLetter</string>
-		<string spawnId="32">ر</string></Stones>
+		</Stones>
     </Segment>
   </Segments>
 </XMLLevel>

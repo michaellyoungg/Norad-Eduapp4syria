@@ -3,81 +3,81 @@
     <Segment SegmentTime="10" spawnIds="">
     	
     	<MonsterRequiredLetters>
-    		<string>ق</string>
+    		<string>ا</string>
     	</MonsterRequiredLetters>
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string spawnId="73">ا</string>
-    		<string spawnId="27">ب</string>
-    		<string spawnId="21">ا</string>
-			<string spawnId="76">ا</string>
-			<string spawnId="22">م</string>
-			<string spawnId="26">ق</string>
-    	</Stones>
+    		<string spawnId="73">ظ</string>
+    		<string spawnId="27">خ</string>
+    		<string spawnId="21">خ</string>
+			<string spawnId="76">ط</string>
+			<string spawnId="22">ض</string>
+			<string spawnId="26">ا</string>
+		</Stones>
 	</Segment>
 	<Segment SegmentTime="10" spawnIds="73,27,21,76,22,26">
 		
 		<MonsterRequiredLetters>
-			<string>م</string>
+			<string>ا</string>
 		</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string>م</string>
-        	<string>م</string>
-        	<string>ق</string>
-			<string>ق</string>
-			<string>ت</string>
-			<string>م</string>
-      	</Stones>
+        	<string>ط</string>
+        	<string>ھ</string>
+        	<string>ط</string>
+			<string>ح</string>
+			<string>خ</string>
+			<string>ا</string>
+		</Stones>
     </Segment>
 	<Segment SegmentTime="10" spawnIds="">
 		
       	<MonsterRequiredLetters>
-			<string>ب</string>
+			<string>ظ</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string spawnId="73">چ</string>
-	        <string spawnId="76">ب</string>
-	        <string delayIn="0" delayRepet="0" loop="true" spawnId="66,82,66" speed="150">ب</string>
-			<string spawnId="20">ج</string>
-			<string delayIn="0" delayRepet="0" loop="true" spawnId="83,67,83" speed="150">چ</string>
-			<string spawnId="23">ت</string>
-			<string spawnId="15">ب</string>
+			<string spawnId="73">اِ</string>
+	        <string spawnId="76">ھ</string>
+	        <string delayIn="0" delayRepet="0" loop="true" spawnId="66,82,66" speed="150">ظ</string>
+			<string spawnId="20">ظ</string>
+			<string delayIn="0" delayRepet="0" loop="true" spawnId="83,67,83" speed="150">اِ</string>
+			<string spawnId="23">ف</string>
+			<string spawnId="15">ظ</string>
 			<string bonusScore="275" spawnId="14">BonusLetter</string>
       	</Stones>
 	</Segment>
 	<Segment SegmentTime="10" spawnIds="73,27,21,76,22,26">
 		
       	<MonsterRequiredLetters>
-			<string>ب</string>
+			<string>ی</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>چ</string>
-	        <string>چ</string>
-	        <string>ب</string>
-			<string>ق</string>
-			<string>ق</string>
-			<string>ب</string>
+	        <string>اِ</string>
+	        <string>خ</string>
+	        <string>ض</string>
+			<string>اِ</string>
+			<string>ح</string>
+			<string>ی</string>
       	</Stones>
     </Segment>
 	<Segment SegmentTime="10" spawnIds="">
 		
       	<MonsterRequiredLetters>
-			<string>ت</string>
+			<string>ف</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string spawnId="28">ا</string>
-	        <string spawnId="25">ب</string>
+	        <string spawnId="28">خ</string>
+	        <string spawnId="25">ی</string>
 	        <string bonusScore="275" delayIn="0" delayRepet="0" loop="true" spawnId="94,93,94" speed="150">BonusLetter</string>
-			<string spawnId="5">ت</string>
+			<string spawnId="5">ف</string>
 			<string bonusScore="275" delayIn="0" delayRepet="0" loop="true" spawnId="36,45,36" speed="150">BonusLetter</string>
 		</Stones>
 	</Segment>

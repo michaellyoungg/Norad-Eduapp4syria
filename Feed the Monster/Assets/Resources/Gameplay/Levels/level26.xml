@@ -3,49 +3,49 @@
     <Segment SegmentTime="10" spawnIds="">
     	
     	<MonsterRequiredLetters>
-    		<string>ا</string>
+    		<string>ھ</string>
     	</MonsterRequiredLetters>
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string spawnId="86">ب</string>
-    		<string spawnId="75">ب</string>
-    		<string spawnId="87">ت</string>
-			<string spawnId="93">ج</string>
-			<string spawnId="74">ق</string>
-			<string spawnId="94">ا</string>
+    		<string spawnId="86">ھ</string>
+    		<string spawnId="75">ف</string>
+    		<string spawnId="87">ط</string>
+			<string spawnId="93">ط</string>
+			<string spawnId="74">ھ</string>
+			<string spawnId="94">ھ</string>
     	</Stones>
 	</Segment>
 	<Segment SegmentTime="10" spawnIds="86,75,87,93,74,94">
 		
 		<MonsterRequiredLetters>
-			<string>ت</string>
+			<string>ی</string>
 		</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string>ب</string>
-        	<string>ب</string>
-        	<string>ب</string>
-			<string>م</string>
-			<string>ب</string>
-			<string>ت</string>
+        	<string>ی</string>
+        	<string>ی</string>
+        	<string>ف</string>
+			<string>ض</string>
+			<string>ط</string>
+			<string>ی</string>
       	</Stones>
     </Segment>
 	<Segment SegmentTime="10" spawnIds="">
 		
       	<MonsterRequiredLetters>
-			<string>ق</string>
+			<string>خ</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string spawnId="73">چ</string>
-	        <string spawnId="76">ب</string>
-	        <string delayIn="0" delayRepet="0" loop="true" spawnId="66,82,66" speed="125">ب</string>
-			<string spawnId="20">ق</string>
-			<string delayIn="0" delayRepet="0" loop="true" spawnId="83,67,83" speed="25">ج</string>
-			<string spawnId="23">ق</string>
+			<string spawnId="73">ظ</string>
+	        <string spawnId="76">ظ</string>
+	        <string delayIn="0" delayRepet="0" loop="true" spawnId="66,82,66" speed="125">ض</string>
+			<string spawnId="20">ض</string>
+			<string delayIn="0" delayRepet="0" loop="true" spawnId="83,67,83" speed="25">ی</string>
+			<string spawnId="23">خ</string>
 			<string spawnId="15">MagnetLetter</string>
 			<string bonusScore="275" spawnId="14">BonusLetter</string>
       	</Stones>
@@ -53,17 +53,17 @@
 	<Segment SegmentTime="10" spawnIds="">
 		
       	<MonsterRequiredLetters>
-			<string>ت</string>
+			<string>ی</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string spawnId="73">م</string>
-	        <string spawnId="76">ت</string>
-	        <string delayIn="0" delayRepet="0" loop="true" spawnId="66,82,66" speed="125">ق</string>
-			<string spawnId="20">چ</string>
-			<string delayIn="0" delayRepet="0" loop="true" spawnId="83,67,83" speed="25">ب</string>
-			<string spawnId="23">ت</string>
+	        <string spawnId="73">ی</string>
+	        <string spawnId="76">ف</string>
+	        <string delayIn="0" delayRepet="0" loop="true" spawnId="66,82,66" speed="125">ھ</string>
+			<string spawnId="20">خ</string>
+			<string delayIn="0" delayRepet="0" loop="true" spawnId="83,67,83" speed="25">ض</string>
+			<string spawnId="23">ی</string>
 			<string spawnId="14">MagnetLetter</string>
 			<string bonusScore="275" spawnId="15">BonusLetter</string>
       	</Stones>
@@ -71,15 +71,15 @@
 	<Segment SegmentTime="10" spawnIds="">
 		
       	<MonsterRequiredLetters>
-			<string>ب</string>
+			<string>ح</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string spawnId="65">ب</string>
-	        <string spawnId="68">م</string>
-	        <string spawnId="6">چ</string>
-			<string spawnId="7">ب</string>
+	        <string spawnId="65">ض</string>
+	        <string spawnId="68">ط</string>
+	        <string spawnId="6">ی</string>
+			<string spawnId="7">ح</string>
 			<string delayIn="0" delayRepet="0" loop="true" spawnId="77,80,77" speed="150">BonusLetter</string>
 			<string delayIn="0" delayRepet="0" loop="true" spawnId="24,29,24" speed="150">BonusLetter</string>
       	</Stones>

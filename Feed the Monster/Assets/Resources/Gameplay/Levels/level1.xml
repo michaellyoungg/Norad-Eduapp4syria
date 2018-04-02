@@ -3,67 +3,67 @@
     <Segment SegmentTime="11" spawnIds="28,94,7">
     	
     	<MonsterRequiredLetters>
-    		<string>ژ</string>
+    		<string>ا</string>
     	</MonsterRequiredLetters>
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string>ت</string>
-    		<string>ی</string>
-			<string>ژ</string>
-    	</Stones>
+    		<string>ر</string>
+    		<string>پ</string>
+			<string>ا</string>
+		</Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="25,93,6">
 		
 		<MonsterRequiredLetters>
-			<string>ت</string>
+			<string>پ</string>
 		</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string>آ</string>
-        	<string>ه</string>
-			<string>ت</string>
+        	<string>ژ</string>
+        	<string>اَ</string>
+			<string>پ</string>
       	</Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="59,78,6">
 		
       	<MonsterRequiredLetters>
-			<string>ش</string>
+			<string>ز</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string>ی</string>
-	        <string>ه</string>
-			<string>ش</string>
+			<string>د</string>
+	        <string>ر</string>
+			<string>ز</string>
       	</Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="61,79,7">
 		
       	<MonsterRequiredLetters>
-			<string>ژ</string>
+			<string>ذ</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>ه</string>
-	        <string>ژ</string>
-			<string>ژ</string>
+	        <string>د</string>
+	        <string>اَ</string>
+			<string>ذ</string>
 			
       	</Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="94,93,59,61">
 		
       	<MonsterRequiredLetters>
-			<string>ه</string>
+			<string>ن</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>آ</string>
-	        <string>ه</string>
-			<string>ه</string>
+	        <string>ذ</string>
+	        <string>ن</string>
+			<string>ن</string>
 			<string bonusScore="100">BonusLetter</string>
       	</Stones>
 	</Segment>

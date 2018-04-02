@@ -3,92 +3,90 @@
 		<Segment SegmentTime="12" spawnIds="">
 			
 			<MonsterRequiredLetters>
-				<string>د</string>
 				<string>ا</string>
-				<string>ن</string>
-			<string>ه</string></MonsterRequiredLetters>
+				<string>ی</string>
+				<string>ک</string>
+			</MonsterRequiredLetters>
 			<MonsterAllLetters>
 			</MonsterAllLetters>
 			<Stones>
-				<string spawnId="58">ی</string>
-				<string spawnId="6">س</string>
-				<string spawnId="62">ب</string>
-				<string spawnId="63">د</string>
+				<string spawnId="58">ہ</string>
+				<string spawnId="6">ر</string>
+				<string spawnId="62">ہ</string>
+				<string spawnId="63">ہ</string>
 				<string spawnId="7">ا</string>
-				<string spawnId="64">ن</string>
-				<string spawnId="93">ه</string>
+				<string spawnId="64">ی</string>
+				<string spawnId="93">ک</string>
 				<string bonusScore="275" spawnId="94">BonusLetter</string>
 			</Stones>
     </Segment>
 	<Segment SegmentTime="12" spawnIds="">
 		
 		<MonsterRequiredLetters>
-			<string>خ</string>
-			<string>ا</string>
-		<string>ل</string><string>ه</string></MonsterRequiredLetters>
+			<string>م</string>
+			<string>ے</string>
+		</MonsterRequiredLetters>
 		<MonsterAllLetters>
 		</MonsterAllLetters>
 		<Stones>
-			<string spawnId="93">ب</string>
-			<string spawnId="70">خ</string>
-			<string spawnId="60">ا</string>
-			<string spawnId="71">ل</string>
-			<string spawnId="94">ه</string>
+			<string spawnId="93">ک</string>
+			<string spawnId="70">ہ</string>
+			<string spawnId="60">ی</string>
+			<string spawnId="71">م</string>
+			<string spawnId="94">ے</string>
 		</Stones>
     </Segment>
 	<Segment SegmentTime="12" spawnIds="">
 		
 		<MonsterRequiredLetters>
-			<string>د</string>
-			<string>ا</string>
-			<string>ن</string>
-		<string>ه</string></MonsterRequiredLetters>
+			<string>ک</string>
+			<string>ے</string>
+			</MonsterRequiredLetters>
 		<MonsterAllLetters>
 		</MonsterAllLetters>
 		<Stones>
-			<string spawnId="5">ُ</string>
+			<string spawnId="5">ی</string>
 			<string spawnId="86">ی</string>
-			<string spawnId="23">ر</string>
-			<string spawnId="87">د</string>
-			<string spawnId="4">ا</string>
-			<string spawnId="91">ن</string>
-			<string spawnId="92">ه</string>
+			<string spawnId="23">ی</string>
+			<string spawnId="87">ی</string>
+			<string spawnId="4">ی</string>
+			<string spawnId="91">ک</string>
+			<string spawnId="92">ے</string>
 			<string bonusScore="275" spawnId="20">BonusLetter</string>	
 		</Stones>
     </Segment>
 	<Segment SegmentTime="12" spawnIds="">
 		
 		<MonsterRequiredLetters>
-			<string>س</string>
-			<string>ا</string>
-		<string>د</string><string>ه</string></MonsterRequiredLetters>
+			<string>ک</string>
+			<string>ے</string>
+		</MonsterRequiredLetters>
 		<MonsterAllLetters>
 		</MonsterAllLetters>
 		<Stones>
-			<string spawnId="93">ر</string>
-			<string spawnId="70">س</string>
-			<string spawnId="60">ا</string>
-			<string spawnId="71">د</string>
-			<string spawnId="94">ه</string>
+			<string spawnId="93">ا</string>
+			<string spawnId="70">ی</string>
+			<string spawnId="60">ر</string>
+			<string spawnId="71">ک</string>
+			<string spawnId="94">ے</string>
 		</Stones>
 	</Segment>
 	<Segment SegmentTime="12" spawnIds="">
 		
 		<MonsterRequiredLetters>
-			<string>خ</string>
-			<string>ا</string>
-			<string>ن</string>
-		<string>ه</string></MonsterRequiredLetters>
+			<string>ت</string>
+			<string>ے</string>
+			</MonsterRequiredLetters>
 		<MonsterAllLetters>
 		</MonsterAllLetters>
 		<Stones>
-			<string spawnId="63">ُ</string>
-			<string spawnId="62">ُ</string>
-			<string spawnId="58">د</string>
-			<string spawnId="79">خ</string>
-			<string spawnId="45">ا</string>
-			<string spawnId="64">ن</string>
-			<string spawnId="36">ه</string>
+			<string spawnId="63">ی</string>
+			<string spawnId="62">ی</string>
+			<string spawnId="58">ہ</string>
+			<string spawnId="79">ی</string>
+			<string spawnId="45">ہ</string>
+			<string spawnId="64">ت</string>
+			<string spawnId="36">ے</string>
 			<string bonusScore="275" spawnId="78">BonusLetter</string>
 		</Stones>
     </Segment>
