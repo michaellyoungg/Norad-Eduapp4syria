@@ -26,10 +26,10 @@
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
 
     <permission
-        android:name="com.eduapp4syria.feedthemonsterFarsi.permission.C2D_MESSAGE"
+        android:name="com.eduapp4syria.feedthemonsterUrdu.permission.C2D_MESSAGE"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.eduapp4syria.feedthemonsterFarsi.permission.C2D_MESSAGE" />
+    <uses-permission android:name="com.eduapp4syria.feedthemonsterUrdu.permission.C2D_MESSAGE" />
 
     <application>
         <receiver
@@ -39,7 +39,7 @@
             <intent-filter>
                 <action android:name="com.google.android.c2dm.intent.RECEIVE" />
 
-                <category android:name="com.eduapp4syria.feedthemonsterFarsi" />
+                <category android:name="com.eduapp4syria.feedthemonsterUrdu" />
             </intent-filter>
         </receiver>
 

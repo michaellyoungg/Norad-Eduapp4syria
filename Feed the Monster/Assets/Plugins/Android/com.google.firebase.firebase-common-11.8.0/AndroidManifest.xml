@@ -7,7 +7,7 @@
     <application>
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="com.eduapp4syria.feedthemonsterFarsi.firebaseinitprovider"
+            android:authorities="com.eduapp4syria.feedthemonsterUrdu.firebaseinitprovider"
             android:exported="false"
             android:initOrder="100" />
     </application>
