@@ -6,7 +6,7 @@
 				<string>ا</string>
 				<string>ِ</string>
 				<string>ی</string>
-			<string>ن</string></MonsterRequiredLetters>
+			<string>ذ</string></MonsterRequiredLetters>
 			<MonsterAllLetters>
 			</MonsterAllLetters>
 			<Stones>
@@ -14,25 +14,8 @@
 				<string>ا</string>
 				<string>ِ</string>
 				<string>ی</string>
-				<string>ن</string>
+				<string>ذ</string>
 			</Stones>
-    </Segment>
-	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
-		
-		<MonsterRequiredLetters>
-			<string>ا</string>
-			<string>ِ</string>
-			<string>ی</string>
-		<string>ج</string></MonsterRequiredLetters>
-		<MonsterAllLetters>
-		</MonsterAllLetters>
-		<Stones>
-			<string>ر</string>
-			<string>ا</string>
-			<string>ِ</string>
-			<string>ی</string>
-			<string>ج</string>
-		</Stones>
     </Segment>
 	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
 		
@@ -44,7 +27,7 @@
 		<MonsterAllLetters>
 		</MonsterAllLetters>
 		<Stones>
-			<string>ر</string>
+			<string>ک</string>
 			<string>ا</string>
 			<string>ِ</string>
 			<string>ی</string>
@@ -57,15 +40,32 @@
 			<string>ا</string>
 			<string>ِ</string>
 			<string>ی</string>
-		<string>م</string></MonsterRequiredLetters>
+		<string>ج</string></MonsterRequiredLetters>
 		<MonsterAllLetters>
 		</MonsterAllLetters>
 		<Stones>
-			<string>ہ</string>
+			<string>ک</string>
+			<string>ا</string>
+			<string>ِ</string>
+			<string>ی</string>
+			<string>ج</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
+		<MonsterRequiredLetters>
+			<string>ا</string>
+			<string>ِ</string>
+			<string>ی</string>
+		<string>و</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ک</string>
 			<string>ا</string>
 			<string>ِ</string>       
 			<string>ی</string>
-			<string>م</string>
+			<string>و</string>
 		</Stones>
 	</Segment>
 	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
@@ -74,7 +74,7 @@
 			<string>ا</string>
 			<string>ِ</string>
 			<string>ی</string>
-		<string>م</string></MonsterRequiredLetters>
+		<string>ص</string></MonsterRequiredLetters>
 		<MonsterAllLetters>
 		</MonsterAllLetters>
 		<Stones>
@@ -82,7 +82,7 @@
 			<string>ا</string>
 			<string>ِ</string>
 			<string>ی</string>
-			<string>م</string>
+			<string>ص</string>
 		</Stones>
     </Segment>
   </Segments>
