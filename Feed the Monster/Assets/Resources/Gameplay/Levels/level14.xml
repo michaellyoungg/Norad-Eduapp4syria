@@ -3,29 +3,29 @@
     <Segment SegmentTime="11" spawnIds="">
     	
     	<MonsterRequiredLetters>
-    		<string>n</string>
+    		<string>ল</string>
     	</MonsterRequiredLetters>
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string spawnId="89">s</string>
-    		<string spawnId="80">p</string>
-    		<string spawnId="90">p</string>
-			<string spawnId="77">n</string>
+    		<string spawnId="89">ষ</string>
+    		<string spawnId="80">র</string>
+    		<string spawnId="90">আ</string>
+			<string spawnId="77">ল</string>
     	</Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="">
 		
 		<MonsterRequiredLetters>
-			<string>n</string>
+			<string>র</string>
 		</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string spawnId="76">i</string>
-        	<string spawnId="73">f</string>
-        	<string spawnId="71">i</string>
-			<string spawnId="79">n</string>
+        	<string spawnId="76">ঙ</string>
+        	<string spawnId="73">আ</string>
+        	<string spawnId="71">আ</string>
+			<string spawnId="79">র</string>
 			<string bonusScore="100" spawnId="70">BonusLetter</string>
 			<string bonusScore="100" spawnId="78">BonusLetter</string>
       	</Stones>
@@ -33,45 +33,45 @@
 	<Segment SegmentTime="11" spawnIds="">
 		
       	<MonsterRequiredLetters>
-			<string>p</string>
+			<string>ঢ়</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string spawnId="76">s</string>
-	        <string spawnId="73">(z)</string>
-	        <string spawnId="7">s</string>
-			<string spawnId="9">p</string>
+			<string spawnId="76">র</string>
+	        <string spawnId="73">ষ</string>
+	        <string spawnId="7">ষ</string>
+			<string spawnId="9">ঢ়</string>
 			<string spawnId="6">FireWrongLetter</string>
 			<string spawnId="8">FireWrongLetter</string>
-      	</Stones>
+		</Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="5,4,78,79">
 		
       	<MonsterRequiredLetters>
-			<string>p</string>
+			<string>র</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>n</string>
-	        <string>s</string>
-	        <string>f</string>
-			<string>p</string>
+	        <string>আ</string>
+	        <string>আ</string>
+	        <string>ঢ়‌</string>
+			<string>র</string>
       	</Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="">
 		
       	<MonsterRequiredLetters>
-			<string>i</string>
+			<string>ল</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string spawnId="0">n</string>
-	        <string spawnId="57">(z)</string>
-	        <string spawnId="56">n</string>
-			<string spawnId="1">i</string>
+	        <string spawnId="0">ষ</string>
+	        <string spawnId="57">ষ</string>
+	        <string spawnId="56">ল</string>
+			<string spawnId="1">ল</string>
 			
       	</Stones>
 	</Segment>
