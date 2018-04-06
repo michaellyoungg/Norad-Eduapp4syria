@@ -2,6 +2,7 @@ fileFormatVersion: 2
 guid: 015ef18e20f24535830f59eda9e70830
 labels:
 - gvh
+- gvh_dotnet-3.5
 timeCreated: 1500423342
 licenseType: Pro
 PluginImporter:
@@ -9,7 +10,6 @@ PluginImporter:
   iconMap: {}
   executionOrder: {}
   isPreloaded: 0
-  isOverridable: 0
   platformData:
     Any:
       enabled: 1
@@ -18,10 +18,6 @@ PluginImporter:
       enabled: 1
       settings:
         DefaultValueInitialized: true
-    WindowsStoreApps:
-      enabled: 0
-      settings:
-        CPU: AnyCPU
   userData: 
   assetBundleName: 
   assetBundleVariant: 
