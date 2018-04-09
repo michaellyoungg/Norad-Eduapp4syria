@@ -3,67 +3,67 @@
     <Segment SegmentTime="11" spawnIds="28,94,7">
     	
     	<MonsterRequiredLetters>
-    		<string>p</string>
+    		<string>র</string>
     	</MonsterRequiredLetters>
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string>n</string>
-    		<string>a</string>
-			<string>p</string>
+    		<string>ট</string>
+    		<string>ত</string>
+			<string>র</string>
     	</Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="25,93,6">
 		
 		<MonsterRequiredLetters>
-			<string>c</string>
+			<string>য়</string>
 		</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string>a</string>
-        	<string>t</string>
-			<string>c</string>
+        	<string>র</string>
+        	<string>ক্ষ</string>
+			<string>য়</string>
       	</Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="59,78,6">
 		
       	<MonsterRequiredLetters>
-			<string>t</string>
+			<string>ক</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string>m</string>
-	        <string>n</string>
-			<string>t</string>
-      	</Stones>
+			<string>র</string>
+	        <string>র</string>
+			<string>ক</string>
+      	<string spawnId="28">্</string><string spawnId="26">ষ</string></Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="61,79,7">
 		
       	<MonsterRequiredLetters>
-			<string>m</string>
+			<string>য়</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>t</string>
-	        <string>a</string>
-			<string>m</string>
+	        <string>র</string>
+	        <string>র</string>
+			<string>য়</string>
 			
       	</Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="94,93,59,61">
 		
       	<MonsterRequiredLetters>
-			<string>c</string>
+			<string>র</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>t</string>
-	        <string>a</string>
-			<string>c</string>
+	        <string>র</string>
+	        <string>ত</string>
+			<string>র</string>
 			<string bonusScore="100">BonusLetter</string>
       	</Stones>
 	</Segment>
