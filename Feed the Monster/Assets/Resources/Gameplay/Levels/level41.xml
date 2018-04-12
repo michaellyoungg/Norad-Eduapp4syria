@@ -3,95 +3,84 @@
     <Segment SegmentTime="10" spawnIds="">
     	
     	<MonsterRequiredLetters>
-    		<string>ঈ</string>
+    		<string>s</string>
     	</MonsterRequiredLetters>
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string spawnId="5">রী</string>
-    		<string spawnId="21">ঈ</string>
-			<string spawnId="86">তী</string>
-			<string spawnId="75">ণ</string>
-			<string spawnId="4">বী</string>
-			<string spawnId="87">বী</string>
-			<string spawnId="22">তী</string>
-			<string spawnId="74">ত</string>
-			<string spawnId="60">ঈ</string>
+    		<string spawnId="5">o</string>
+    		<string spawnId="21">q</string>
+			<string spawnId="86">q</string>
+			<string spawnId="75">v</string>
+			<string spawnId="4">q</string>
+			<string spawnId="87">o</string>
+			<string spawnId="22">os</string>
+			<string spawnId="74">or</string>
+			<string spawnId="60">s</string>
     	</Stones>
 	</Segment>
 	<Segment SegmentTime="10" spawnIds="">
 		
 		<MonsterRequiredLetters>
-			<string>শ</string>
+			<string>c</string>
 		</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string spawnId="95">শ</string>
-        	<string spawnId="12">ত</string>
-        	<string spawnId="54">শী</string>
-        	<string spawnId="96">ঈ</string>
-			<string spawnId="69">ণ</string>
-			<string spawnId="55">ণী</string>
-			<string spawnId="11">শ</string>
-			<string spawnId="72">শ</string>
-      	<string spawnId="30">ী</string></Stones>
+        	<string spawnId="95">q</string>
+        	<string spawnId="12">or</string>
+        	<string spawnId="54">os</string>
+        	<string spawnId="96">v</string>
+			<string spawnId="69">o</string>
+			<string spawnId="55">r</string>
+			<string spawnId="30">c</string></Stones>
     </Segment>
 	<Segment SegmentTime="10" spawnIds="4,5,21,22,60,74,75,86,87">
 		
       	<MonsterRequiredLetters>
-			<string>ত</string>
+			<string>q</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string>বী</string>
-	        <string>র</string>
-			<string>রী</string>
-	        <string>তী</string>
-			<string>ঈ</string>
-			<string>ত</string>
-			<string>র</string>
-			<string>তী</string>
-			<string>ত</string>
-      	</Stones>
+			<string>os</string>
+	        <string>c</string>
+			<string>or</string>
+	        <string>v</string>
+			<string>or</string>
+			<string spawnId="28">o</string><string spawnId="26">v</string><string spawnId="22">q</string></Stones>
 	</Segment>
 	<Segment SegmentTime="10" spawnIds="">
 		
       	<MonsterRequiredLetters>
-			<string>ণ</string>
+			<string>s</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string spawnId="73">রী</string>
-	        <string spawnId="76">ত</string>
-	        <string spawnId="89">শ</string>
-			<string spawnId="90">তী</string>
-			<string spawnId="93">ত</string>
-			<string spawnId="94">ণ</string>
+	        <string spawnId="73">o</string>
+	        <string spawnId="76">c</string>
+	        <string spawnId="89">o</string>
+			<string spawnId="90">s</string>
 			<string spawnId="74">Shield</string>
 			<string bonusScore="275" spawnId="75">BonusLetter</string>
-      	<string spawnId="30">ী</string></Stones>
+      	<string spawnId="24" /><string spawnId="30">s</string></Stones>
     </Segment>
 	<Segment SegmentTime="10" spawnIds="">
 		
       	<MonsterRequiredLetters>
-			<string>ণ</string>
+			<string>v</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string spawnId="60">তী</string>
-	        <string spawnId="74">রী</string>
-			<string spawnId="22">র</string>
-	        <string spawnId="87">ঈ</string>
-			<string spawnId="4">শী</string>
-			<string spawnId="75">বী</string>
-			<string spawnId="86">ণ</string>
-			<string spawnId="21">ণ</string>
-			<string spawnId="5">ণ</string>
-      	</Stones>
+	        <string spawnId="60">r</string>
+	        <string spawnId="74">v</string>
+			<string spawnId="22">or</string>
+	        <string spawnId="87">v</string>
+			<string spawnId="4">s</string>
+			<string spawnId="75">or</string>
+			<string spawnId="24">r</string><string spawnId="22">v</string></Stones>
 	</Segment>
   </Segments>
 </XMLLevel>

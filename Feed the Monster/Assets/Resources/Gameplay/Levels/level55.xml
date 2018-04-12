@@ -3,99 +3,69 @@
     <Segment SegmentTime="9" spawnIds="">
     	
     	<MonsterRequiredLetters>
-    		<string>র</string>
+    		<string>n</string>
     	</MonsterRequiredLetters>
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string spawnId="20">শু</string>
-    		<string spawnId="75">দ</string>
-			<string spawnId="15">শ</string>
-    		<string spawnId="23">শু</string>
-			<string spawnId="74">র</string>
-			<string spawnId="14">ডু</string>
-			<string spawnId="11">ড</string>
-			<string spawnId="12">দ</string>
-			<string spawnId="60">র</string>
-    	<string spawnId="26">ু</string></Stones>
+    		<string spawnId="28">m</string><string spawnId="20">b</string><string spawnId="20">b</string><string spawnId="24">m</string><string spawnId="30">l</string><string spawnId="24">n</string></Stones>
 	</Segment>
 	<Segment SegmentTime="9" spawnIds="">
 		
 		<MonsterRequiredLetters>
-			<string>ধ</string>
+			<string>n</string>
 		</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string spawnId="76">ড</string>
-        	<string spawnId="58">রু</string>
-        	<string spawnId="3">দ</string>
-			<string spawnId="70">ডু</string>
-			<string spawnId="2">উ</string>
-			<string spawnId="62">ধু</string>
-			<string spawnId="73">ডু</string>
-			<string spawnId="78">শু</string>
-			<string spawnId="71">ধ</string>
+        	<string spawnId="76">m</string>
+        	<string spawnId="58">né</string>
+        	<string spawnId="3">l</string>
+			<string spawnId="70">n</string>
+			<string spawnId="2">n</string>
+			<string spawnId="62">né</string>
+			<string spawnId="73">n</string>
+			<string spawnId="78">é</string>
+			<string spawnId="71">n</string>
 			<string bonusScore="275" spawnId="79">BonusLetter</string>
-      	<string spawnId="20">ু</string></Stones>
+      	<string spawnId="28">é</string></Stones>
     </Segment>
 	<Segment SegmentTime="9" spawnIds="20,75,15,23,74,14,11,12,60">
 		
       	<MonsterRequiredLetters>
-			<string>ধ</string>
+			<string>m</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string>শু</string>
-	        <string>ধু</string>
-			<string>ধু</string>
-			<string>রু</string>
-			<string>শু</string>
-			<string>রু</string>
-			<string>ধু</string>
-			<string>ডু</string>
-			<string>ধ</string>
-      	</Stones>
+			<string>n</string>
+	        <string spawnId="20">b</string><string spawnId="28">né</string><string spawnId="20">l</string><string spawnId="28">n</string><string spawnId="20">né</string><string spawnId="30">m</string><string spawnId="20">m</string></Stones>
 	</Segment>
 	<Segment SegmentTime="9" spawnIds="">
 		
       	<MonsterRequiredLetters>
-			<string>ড</string>
+			<string>b</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string spawnId="76">দু</string>
-	        <string spawnId="58">দ</string>
-	        <string spawnId="3">ধু</string>
-			<string spawnId="70">ধু</string>
-			<string spawnId="2">ধু</string>
-			<string spawnId="62">র</string>
-			<string spawnId="73">ড</string>
-			<string spawnId="78">র</string>
-			<string spawnId="71">ড</string>
+	        <string spawnId="76">l</string>
+	        <string spawnId="58">é</string>
+	        <string spawnId="3">m</string>
+			<string spawnId="70">né</string>
 			<string bonusScore="275" spawnId="79">BonusLetter</string>
-      	</Stones>
+      	<string spawnId="20" /><string spawnId="28">m</string><string spawnId="22">b</string></Stones>
     </Segment>
 	<Segment SegmentTime="9" spawnIds="20,75,15,23,74,14,11,12,60">
 		
       	<MonsterRequiredLetters>
-			<string>র</string>
+			<string>n</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>শু</string>
-	        <string>দু</string>
-	        <string>শ</string>
-			<string>দু</string>
-			<string>ধু</string>
-			<string>উ</string>
-			<string>ধ</string>
-			<string>র</string>
-			<string>র</string>
-      	</Stones>
+	        <string>c</string>
+	        <string spawnId="30">m</string><string spawnId="30">n</string><string spawnId="26">b</string><string spawnId="28">c</string><string spawnId="24">n</string><string spawnId="22">é</string></Stones>
 	</Segment>
   </Segments>
 </XMLLevel>

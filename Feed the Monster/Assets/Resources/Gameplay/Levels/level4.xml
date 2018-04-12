@@ -3,68 +3,68 @@
     <Segment SegmentTime="11" spawnIds="67,45,79">
     	
     	<MonsterRequiredLetters>
-    		<string>র</string>
+    		<string>c</string>
     	</MonsterRequiredLetters>
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string>ত</string>
-    		<string>য়</string>
-    		<string>র</string>
+    		<string>la</string>
+    		<string>m</string>
+    		<string>c</string>
     	</Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="66,36,78">
 		
 		<MonsterRequiredLetters>
-			<string>ক</string>
+			<string>m</string>
 		</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string>প</string>
-        	<string>অ</string>
-        	<string>ক</string>
-      	<string spawnId="28">্</string><string spawnId="22">ষ</string></Stones>
+        	<string>a</string>
+        	<string>c</string>
+        	<string>m</string>
+      	<string spawnId="20">a</string></Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="18,21,26">
 		
       	<MonsterRequiredLetters>
-			<string>প</string>
+			<string>c</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string>ম</string>
-	        <string>ট</string>
-	        <string>প</string>
+			<string>la</string>
+	        <string>s</string>
+	        <string>c</string>
       	</Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="19,22,27">
 		
       	<MonsterRequiredLetters>
-			<string>ক</string>
+			<string>c</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>ম</string>
-	        <string>য়</string>
-	        <string>ক</string>
-      	<string spawnId="24">্</string><string spawnId="24">ষ</string></Stones>
+	        <string>c</string>
+	        <string>s</string>
+	        <string>c</string>
+      	</Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="87,27,26,86">
 		
       	<MonsterRequiredLetters>
-			<string>ট</string>
+			<string>t</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>ক্ষ</string>
-	        <string>প</string>
-	        <string>ট</string>
+	        <string>c</string>
+	        <string>m</string>
+	        <string>t</string>
 			<string bonusScore="125">BonusLetter</string>
-      	</Stones>
+      	<string spawnId="28">a</string></Stones>
 	</Segment>
   </Segments>
 </XMLLevel>

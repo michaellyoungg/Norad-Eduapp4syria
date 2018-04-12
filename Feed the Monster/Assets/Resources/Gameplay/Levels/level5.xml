@@ -3,62 +3,60 @@
     <Segment SegmentTime="11" spawnIds="6,7">
     	
     	<MonsterRequiredLetters>
-    		<string>ট</string>
+    		<string>l</string>
     	</MonsterRequiredLetters>
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string>ট</string>
-    		<string>ট</string>
-    	</Stones>
+    		<string>c</string>
+    		<string>l</string>
+    	<string spawnId="24">a</string></Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="91,92">
 		
 		<MonsterRequiredLetters>
-			<string>র</string>
+			<string>m</string>
 		</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string>ম</string>
-        	<string>র</string>
-      	</Stones>
+        	<string>c</string>
+        	<string>m</string>
+      	<string spawnId="26">a</string></Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="8,9">
 		
       	<MonsterRequiredLetters>
-			<string>র</string>
+			<string>r</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string>প</string>
-	        <string>র</string>
+			<string>m</string>
+	        <string>r</string>
       	</Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="93,94">
 		
       	<MonsterRequiredLetters>
-			<string>ম</string>
+			<string>c</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>ট</string>
-	        <string>ম</string>
+	        <string>c</string>
+	        <string>c</string>
       	</Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="21,22,60">
 		
       	<MonsterRequiredLetters>
-			<string>র</string>
-	  	</MonsterRequiredLetters>
+			</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>প</string>
-	        <string>র</string>
-			<string bonusScore="125">BonusLetter</string>
+	        <string>m</string>
+	        <string bonusScore="125">BonusLetter</string>
       	</Stones>
 	</Segment>
   </Segments>

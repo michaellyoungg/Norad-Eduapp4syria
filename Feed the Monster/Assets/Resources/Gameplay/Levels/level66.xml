@@ -3,96 +3,82 @@
     <Segment SegmentTime="9" spawnIds="">
     	
     	<MonsterRequiredLetters>
-    		<string>ত</string>
+    		<string>u</string>
     	</MonsterRequiredLetters>
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string spawnId="21">তূ</string>
-    		<string spawnId="92">ভ</string>
-			<string spawnId="89">দ</string>
-    		<string spawnId="2">প</string>
-			<string spawnId="60">ক</string>
-			<string spawnId="90">ঊ</string>
-			<string spawnId="3">কূ</string>
-			<string spawnId="91">দূ</string>
-			<string spawnId="22">ত</string>
-    	<string spawnId="20">ূ</string></Stones>
+    		<string spawnId="21">in</string>
+    		<string spawnId="92">i</string>
+			<string spawnId="89">am</string>
+    		<string spawnId="2">um</string>
+			<string spawnId="60">m</string>
+			<string spawnId="90">om</string>
+			<string spawnId="3">on</string>
+			<string spawnId="91">u</string>
+			<string spawnId="22">u</string>
+    	<string spawnId="20">n</string></Stones>
 	</Segment>
 	<Segment SegmentTime="9" spawnIds="">
 		
 		<MonsterRequiredLetters>
-			<string>দ</string>
+			<string>a</string>
 		</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string spawnId="22">রূ</string>
-        	<string spawnId="91">দূ</string>
-			<string spawnId="3">তূ</string>
-        	<string spawnId="90">দ</string>
-			<string spawnId="60">তূ</string>
-			<string spawnId="2">কূ</string>
-			<string spawnId="89">কূ</string>
-			<string spawnId="92">র</string>
-			<string spawnId="21">দ</string>
-      	<string spawnId="22">ূ</string></Stones>
+        	<string spawnId="22">u</string><string spawnId="20">on</string><string spawnId="26">im</string><string spawnId="26">u</string><string spawnId="22">in</string><string spawnId="30">am</string><string spawnId="26">un</string><string spawnId="26">a</string><string spawnId="20">m</string></Stones>
     </Segment>
 	<Segment SegmentTime="9" spawnIds="22,91,3,90,60,2,89,92,21">
 		
       	<MonsterRequiredLetters>
-			<string>ত</string>
+			<string>m</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string>তূ</string>
-	        <string>ভ</string>
-			<string>প</string>
-	        <string>দূ</string>
-			<string>ক</string>
-			<string>ভূ</string>
-			<string>পূ</string>
-			<string>ভ</string>
-			<string>ত</string>
-      	<string spawnId="30">ূ</string></Stones>
+			<string>u</string>
+	        <string>m</string>
+			<string>in</string>
+	        <string>im</string>
+			<string>on</string>
+			<string>on</string>
+			<string>un</string>
+			<string spawnId="22">m</string></Stones>
 	</Segment>
 	<Segment SegmentTime="9" spawnIds="22,91,3,90,60,2,89,92,21">
 		
       	<MonsterRequiredLetters>
-			<string>র</string>
+			<string>i</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>কূ</string>
-	        <string>র</string>
-			<string>প</string>
-			<string>পূ</string>
-			<string>রূ</string>
-			<string>দূ</string>
-			<string>তূ</string>
-			<string>পূ</string>
-			<string>র</string>
-      	<string spawnId="28">ূ</string></Stones>
+	        <string>m</string>
+	        <string>u</string>
+			<string>um</string>
+			<string>m</string>
+			<string>u</string>
+			<string>m</string>
+			<string spawnId="26">in</string><string spawnId="20">i</string></Stones>
     </Segment>
 	<Segment SegmentTime="9" spawnIds="22,91,3,90,60,2,89,92,21">
 		
       	<MonsterRequiredLetters>
-			<string>র</string>
+			<string>i</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>দ</string>
-	        <string>প</string>
-			<string>প</string>
-			<string>তূ</string>
-			<string>তূ</string>
-			<string>ভ</string>
-			<string>ক</string>
-			<string>র</string>
-			<string>র</string>
+	        <string>u</string>
+	        <string>im</string>
+			<string>om</string>
+			<string>a</string>
+			<string>om</string>
+			<string>u</string>
+			<string>am</string>
+			<string>a</string>
+			<string>i</string>
       	</Stones>
 	</Segment>
   </Segments>
