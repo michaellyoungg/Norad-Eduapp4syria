@@ -99,7 +99,7 @@ MonoBehaviour:
   GameFailMusic: {fileID: 8300000, guid: d9e6671c2414c784eab09fa7bcf1c42e, type: 3}
   GameLostFanfare: {fileID: 8300000, guid: fa62a551c3b125f4b829c0a5fd8595fe, type: 3}
   GameWonFanfare: {fileID: 8300000, guid: eb0188a951d327a45adcbfa38e711263, type: 3}
-  SoundEvolve: {fileID: 8300000, guid: 5f64cb9a0442e449bbb21f035caf7aec, type: 3}
+  SoundEvolve: {fileID: 8300000, guid: c374f91acf8d04567ac91cb3873087f3, type: 3}
   SoundScoreCount: {fileID: 8300000, guid: e304589b7b107b349b203d699f2ca5d4, type: 3}
   SoundBarFull: {fileID: 8300000, guid: 42b5ff3aa958df648b6aaedd9bcce607, type: 3}
 --- !u!114 &9
@@ -2101,7 +2101,7 @@ MonoBehaviour:
   monsterBar: {fileID: 5289}
   ButtonPrevious: {fileID: 1967971083}
   ButtonNext: {fileID: 2062577425}
-  InstructionSound: {fileID: 8300000, guid: 8adc36f4e6a584c78889bfda4fcbc9d1, type: 3}
+  InstructionSound: {fileID: 8300000, guid: 9f5f7974d60fd44c79d148a44179e325, type: 3}
   TouchController: {fileID: 126958680}
 --- !u!114 &396
 MonoBehaviour:
@@ -3120,9 +3120,9 @@ MonoBehaviour:
   Title_Angry: {fileID: 21300000, guid: 41e24eb548b2b447f9db6a6c70dd56ee, type: 3}
   Title_Bored: {fileID: 21300000, guid: b8073dcbb252e496881f669a76c45436, type: 3}
   Title_Sad: {fileID: 21300000, guid: 88700a7a1a642412bb1ab65f0148caee, type: 3}
-  Sound_Angry: {fileID: 8300000, guid: cfe364d0f98c9427c9a6f2ce4eca9c9e, type: 3}
-  Sound_Bored: {fileID: 8300000, guid: fcc644646974b43f1a57a5d7713d2a60, type: 3}
-  Sound_Sad: {fileID: 8300000, guid: c7dd2cd421a5644c28ac32189fb5cb18, type: 3}
+  Sound_Angry: {fileID: 8300000, guid: d2886f08719d94e5aa411562e8309097, type: 3}
+  Sound_Bored: {fileID: 8300000, guid: 6b1c64696379740d5badfbc706739f9b, type: 3}
+  Sound_Sad: {fileID: 8300000, guid: 302ff19a2c762408188e1e662f1edad8, type: 3}
   SadMonster_m1e4: {fileID: 1000010523479964, guid: 54430236950c36e4aaa4567450749765,
     type: 2}
   SadMonster_m2e4: {fileID: 1000011703380614, guid: 7d6ab90f58eb657449515191c62c40fa,
@@ -6421,7 +6421,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5996e848dd6dd95469423bf25979bd27, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TitleSound: {fileID: 8300000, guid: c896acf6f724c4ef590f47e971f94546, type: 3}
+  TitleSound: {fileID: 8300000, guid: 172dae7b4fa9d44728cdd8c911a11773, type: 3}
   profiles:
   - {fileID: 510784407}
   - {fileID: 999572393}
@@ -6742,7 +6742,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1fdfab411e49e6943929952cffd569eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MonsterDiscoveredSound: {fileID: 8300000, guid: 7ac6deab0abc542aea7eb157c81be346,
+  MonsterDiscoveredSound: {fileID: 8300000, guid: e507d7f2039d249b4899ca7bdadf4cd7,
     type: 3}
   FirstHolder: {fileID: 670}
 --- !u!114 &1153
@@ -7607,11 +7607,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   GameOver: 0
   TitleImage: {fileID: 1593718608}
-  TitleSound: {fileID: 8300000, guid: bbebb2e854de648248b8388076a71d04, type: 3}
+  TitleSound: {fileID: 8300000, guid: a342049a190a04d3483c7b613f71fe3f, type: 3}
   VictoryImage: {fileID: 191055221}
-  VictoryFromAngry: {fileID: 8300000, guid: eb07915ed758f490697b3f388ac88e94, type: 3}
-  VictoryFromBored: {fileID: 8300000, guid: 4895b9c8fe5e3487881557e9c6c175ba, type: 3}
-  VictoryFromSad: {fileID: 8300000, guid: 909f870a59612402087754db331dd2a3, type: 3}
+  VictoryFromAngry: {fileID: 8300000, guid: ba251da259dc94ee0a574f267dae5d13, type: 3}
+  VictoryFromBored: {fileID: 8300000, guid: 9bbbf7d92f22f40b7925dd3addb2785e, type: 3}
+  VictoryFromSad: {fileID: 8300000, guid: 8f386bb190ecc45b1a91f84c647bb22e, type: 3}
   Cheering: {fileID: 8300000, guid: a99d68238e065df4eba486a3754cb0c0, type: 3}
   PettingZones: {fileID: 1787960334}
   NeededPats: 5
@@ -7807,7 +7807,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mNextPanelToShow: {fileID: 0}
-  sndRUShure: {fileID: 8300000, guid: aabde96662fcd4706accedd34a1e9b2a, type: 3}
+  sndRUShure: {fileID: 8300000, guid: 327e95eb6ae684561a9ad430dee94862, type: 3}
 --- !u!114 &4310
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7858,14 +7858,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   GameOver: 0
   TitleImage: {fileID: 0}
-  TitleSound: {fileID: 8300000, guid: 1ee21f679e36a4f3f8c2bf3e5db7c47c, type: 3}
+  TitleSound: {fileID: 8300000, guid: f122e5ba54e4a4b73920307d0f59e233, type: 3}
   VictoryImage: {fileID: 986618213}
-  VictoryFromAngry: {fileID: 8300000, guid: eb07915ed758f490697b3f388ac88e94, type: 3}
-  VictoryFromBored: {fileID: 8300000, guid: 4895b9c8fe5e3487881557e9c6c175ba, type: 3}
-  VictoryFromSad: {fileID: 8300000, guid: 909f870a59612402087754db331dd2a3, type: 3}
+  VictoryFromAngry: {fileID: 8300000, guid: ba251da259dc94ee0a574f267dae5d13, type: 3}
+  VictoryFromBored: {fileID: 8300000, guid: 9bbbf7d92f22f40b7925dd3addb2785e, type: 3}
+  VictoryFromSad: {fileID: 8300000, guid: 8f386bb190ecc45b1a91f84c647bb22e, type: 3}
   GameManager: {fileID: 1497973424}
   Title: {fileID: 925559675}
-  StartTraceingSound: {fileID: 8300000, guid: 60236965aabc24a308ea7ad98fb2020c, type: 3}
+  StartTraceingSound: {fileID: 8300000, guid: 25969cb1b66144774b4f42b0971b351d, type: 3}
   LettersForTesting: []
   LettersGroup_1:
   - {fileID: 1578701054931868, guid: e4e0aabb755cd3a4791be32d62e84f4b, type: 2}
@@ -26299,7 +26299,7 @@ Prefab:
     - target: {fileID: 114153699219346376, guid: e1d6ee951bb24934d8ad6cc6fdec17fc,
         type: 2}
       propertyPath: CouplesGroup_6.Array.size
-      value: 11
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224919575934809228, guid: e1d6ee951bb24934d8ad6cc6fdec17fc,
         type: 2}
@@ -26400,22 +26400,22 @@ Prefab:
         type: 2}
       propertyPath: VictoryFromAngry
       value: 
-      objectReference: {fileID: 8300000, guid: ecd8d7e4f37ae9d4abc2f782e10109e5, type: 3}
+      objectReference: {fileID: 8300000, guid: ba251da259dc94ee0a574f267dae5d13, type: 3}
     - target: {fileID: 114153699219346376, guid: e1d6ee951bb24934d8ad6cc6fdec17fc,
         type: 2}
       propertyPath: VictoryFromBored
       value: 
-      objectReference: {fileID: 8300000, guid: 4895b9c8fe5e3487881557e9c6c175ba, type: 3}
+      objectReference: {fileID: 8300000, guid: 9bbbf7d92f22f40b7925dd3addb2785e, type: 3}
     - target: {fileID: 114153699219346376, guid: e1d6ee951bb24934d8ad6cc6fdec17fc,
         type: 2}
       propertyPath: VictoryFromSad
       value: 
-      objectReference: {fileID: 8300000, guid: 607b9a7d5eb5a644f8636bde9a07e767, type: 3}
+      objectReference: {fileID: 8300000, guid: 8f386bb190ecc45b1a91f84c647bb22e, type: 3}
     - target: {fileID: 114153699219346376, guid: e1d6ee951bb24934d8ad6cc6fdec17fc,
         type: 2}
       propertyPath: CardMatchSFX
       value: 
-      objectReference: {fileID: 8300000, guid: af76745bd17ad8f46b2dcd6439de69c1, type: 3}
+      objectReference: {fileID: 8300000, guid: 2fd9862b38fb44769a38a2e0ec97f4c1, type: 3}
     - target: {fileID: 114500991661827066, guid: e1d6ee951bb24934d8ad6cc6fdec17fc,
         type: 2}
       propertyPath: m_Sprite
@@ -26426,7 +26426,7 @@ Prefab:
         type: 2}
       propertyPath: TitleSound
       value: 
-      objectReference: {fileID: 8300000, guid: fcc644646974b43f1a57a5d7713d2a60, type: 3}
+      objectReference: {fileID: 8300000, guid: 6b1c64696379740d5badfbc706739f9b, type: 3}
     - target: {fileID: 114153699219346376, guid: e1d6ee951bb24934d8ad6cc6fdec17fc,
         type: 2}
       propertyPath: CouplesGroup_3.Array.data[3]
@@ -95490,7 +95490,7 @@ Prefab:
     - target: {fileID: 114418645699438230, guid: 5111f1f92fa78aa40a692591b2a6aab8,
         type: 2}
       propertyPath: DEBUG_OPEN_ALL_LEVELS_PLAYERPREFS
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 114418645699438230, guid: 5111f1f92fa78aa40a692591b2a6aab8,
         type: 2}
@@ -95500,7 +95500,7 @@ Prefab:
     - target: {fileID: 114418645699438230, guid: 5111f1f92fa78aa40a692591b2a6aab8,
         type: 2}
       propertyPath: DEBUG_ADD_ALL_MONSTERS
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5111f1f92fa78aa40a692591b2a6aab8, type: 2}
