@@ -50,7 +50,7 @@
 	        <string spawnId="23">l</string>
 			<string bonusScore="100" spawnId="8">BonusLetter</string>
 			<string bonusScore="100" spawnId="25">BonusLetter</string>
-      	<string spawnId="26" /><string spawnId="26">x</string></Stones>
+			<string spawnId="26">x</string></Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="">
 		
@@ -63,7 +63,10 @@
 			<string spawnId="20">l</string>
 			<string spawnId="8">FireWrongLetter</string>
 			<string spawnId="25">FireWrongLetter</string>
-      	<string spawnId="30" /><string spawnId="24">i</string><string spawnId="24">i</string><string spawnId="24">l</string></Stones>
+			<string spawnId="60">i</string>
+			<string spawnId="24">i</string>
+			<string spawnId="32">l</string>
+		</Stones>
 	</Segment>
   </Segments>
 </XMLLevel>
