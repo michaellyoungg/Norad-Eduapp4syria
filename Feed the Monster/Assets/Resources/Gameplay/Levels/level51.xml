@@ -1,100 +1,100 @@
-<XMLLevel CollectableMonster="" HideCallout="1" LettersGroup="5" SegmentTime="9" StoneType="1" monsterInputType="Letter">
+<XMLLevel CollectableMonster="" HideCallout="1" LettersGroup="9" SegmentTime="9" StoneType="1" monsterInputType="Letter">
   <Segments>
     <Segment SegmentTime="9" spawnIds="">
     	
     	<MonsterRequiredLetters>
-    		<string>d</string>
+    		<string>ज</string>
     	</MonsterRequiredLetters>
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string spawnId="60">g</string>
-    		<string spawnId="54">t</string>
-			<string spawnId="72">w</string>
-			<string spawnId="82">t</string>
-			<string spawnId="69">g</string>
-			<string spawnId="3">n</string>
-			<string spawnId="83">t</string>
-			<string spawnId="55">w</string>
-			<string spawnId="2">d</string>
+    		<string spawnId="60">ऊ</string>
+    		<string spawnId="54">ज</string>
+			<string spawnId="72">द</string>
+			<string spawnId="82">ण</string>
+			<string spawnId="69">य़</string>
+			<string spawnId="3">ज</string>
+			<string spawnId="83">य़</string>
+			<string spawnId="55">द</string>
+			<string spawnId="2">ज</string>
     	</Stones>
 	</Segment>
 	<Segment SegmentTime="9" spawnIds="">
 		
 		<MonsterRequiredLetters>
-			<string>t</string>
+			<string>श</string>
 		</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string spawnId="81">g</string>
-			<string spawnId="12">n</string>
-			<string spawnId="70">e</string>
-			<string spawnId="55">w</string>
-			<string spawnId="11">w</string>
-			<string spawnId="71">w</string>
-			<string spawnId="84">n</string>
-			<string spawnId="61">n</string>
-			<string spawnId="59">t</string>
+        	<string spawnId="81">ण</string>
+			<string spawnId="12">ग</string>
+			<string spawnId="70">य़</string>
+			<string spawnId="55">य़</string>
+			<string spawnId="11">ज</string>
+			<string spawnId="71">ज</string>
+			<string spawnId="84">ज</string>
+			<string spawnId="61">य़</string>
+			<string spawnId="59">श</string>
 			<string bonusScore="275" spawnId="54">BonusLetter</string>
       	</Stones>
     </Segment>
 	<Segment SegmentTime="9" spawnIds="60,54,72,82,69,3,83,55,2">
 		
       	<MonsterRequiredLetters>
-			<string>e</string>
+			<string>ज</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string>d</string>
-	        <string>d</string>
-			<string>t</string>
-			<string>t</string>
-			<string>d</string>
-			<string>d</string>
-			<string>d</string>
-			<string>w</string>
-			<string>e</string>
+			<string>ण</string>
+	        <string>द</string>
+			<string>ऊ</string>
+			<string>ग</string>
+			<string>ग</string>
+			<string>ण</string>
+			<string>ऊ</string>
+			<string>य़</string>
+			<string>ज</string>
       	</Stones>
 	</Segment>
 	<Segment SegmentTime="9" spawnIds="">
 		
       	<MonsterRequiredLetters>
-			<string>e</string>
+			<string>ग</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string spawnId="84">n</string>
-			<string spawnId="11">t</string>
-			<string spawnId="71">d</string>
-			<string spawnId="54">d</string>
-			<string spawnId="12">n</string>
-			<string spawnId="70">g</string>
-			<string spawnId="81">n</string>
-			<string spawnId="59">t</string>
-			<string spawnId="61">e</string>
+	        <string spawnId="84">ऊ</string>
+			<string spawnId="11">य़</string>
+			<string spawnId="71">द</string>
+			<string spawnId="54">द</string>
+			<string spawnId="12">ज</string>
+			<string spawnId="70">द</string>
+			<string spawnId="81">ऊ</string>
+			<string spawnId="59">ग</string>
+			<string spawnId="61">ग</string>
 			<string bonusScore="275" spawnId="55">BonusLetter</string>
       	</Stones>
     </Segment>
 	<Segment SegmentTime="9" spawnIds="60,54,72,82,69,3,83,55,2">
 		
       	<MonsterRequiredLetters>
-			<string>d</string>
+			<string>द</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>n</string>
-			<string>n</string>
-			<string>n</string>
-			<string>t</string>
-			<string>t</string>
-			<string>n</string>
-			<string>g</string>
-			<string>n</string>
-			<string>d</string>
+	        <string>ण</string>
+			<string>द</string>
+			<string>ण</string>
+			<string>ज</string>
+			<string>द</string>
+			<string>श</string>
+			<string>ऊ</string>
+			<string>ण</string>
+			<string>द</string>
       	</Stones>
 	</Segment>
   </Segments>

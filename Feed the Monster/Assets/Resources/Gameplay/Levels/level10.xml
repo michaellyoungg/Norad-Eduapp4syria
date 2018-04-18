@@ -1,82 +1,78 @@
-<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="1" SegmentTime="13" StoneType="1" monsterInputType="Word">
+<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="2" SegmentTime="13" StoneType="1" monsterInputType="Word">
 	<Segments>
 		<Segment SegmentTime="13" spawnIds="">
 			
 			<MonsterRequiredLetters>
-				<string>d</string>
-				<string>e</string>
-				<string>n</string>
-			</MonsterRequiredLetters>
+				<string>थ</string>
+				<string>न</string>
+				</MonsterRequiredLetters>
 			<MonsterAllLetters>
 			</MonsterAllLetters>
 			<Stones>
-				<string spawnId="77">d</string>
-				<string spawnId="83">e</string>
-				<string spawnId="80">n</string>
+				<string spawnId="77">ष</string>
+				<string spawnId="83">थ</string>
+				<string spawnId="80">न</string>
 				<string bonusScore="175" spawnId="82">BonusLetter</string>
 			</Stones>
     </Segment>
 	<Segment SegmentTime="13" spawnIds="">
 		
 		<MonsterRequiredLetters>
-			<string>t</string>
-			<string>e</string>
-			<string>n</string>
+			<string>फ</string>
+			<string>ि</string>
+			<string>र</string>
 		</MonsterRequiredLetters>
 		<MonsterAllLetters>
 		</MonsterAllLetters>
 		<Stones>
-			<string spawnId="77">t</string>
-			<string spawnId="83">e</string>
-			<string spawnId="80">n</string>
+			<string spawnId="77">फ</string>
+			<string spawnId="83">ि</string>
+			<string spawnId="80">र</string>
 			<string spawnId="82">MagnetLetter</string>
 		</Stones>
     </Segment>
 	<Segment SegmentTime="13" spawnIds="">
 		
 		<MonsterRequiredLetters>
-			<string>w</string>
-			<string>e</string>
-			<string>d</string>
-		</MonsterRequiredLetters>
+			<string>त</string>
+			<string>ल</string>
+			</MonsterRequiredLetters>
 		<MonsterAllLetters>
 		</MonsterAllLetters>
 		<Stones>
-			<string spawnId="94">w</string>
-			<string spawnId="59">e</string>
-			<string spawnId="93">d</string>
+			<string spawnId="94">ञ</string>
+			<string spawnId="59">त</string>
+			<string spawnId="93">ल</string>
 			<string bonusScore="175" spawnId="61">BonusLetter</string>
 		</Stones>
     </Segment>
 	<Segment SegmentTime="13" spawnIds="">
 		
 		<MonsterRequiredLetters>
-			<string>w</string>
-			<string>e</string>
-			<string>t</string>
-		</MonsterRequiredLetters>
+			<string>इ</string>
+			<string>न</string>
+			</MonsterRequiredLetters>
 		<MonsterAllLetters>
 		</MonsterAllLetters>
 		<Stones>
-			<string spawnId="94">w</string>
-			<string spawnId="59">e</string>
-			<string spawnId="93">t</string>
+			<string spawnId="94">अः</string>
+			<string spawnId="59">इ</string>
+			<string spawnId="93">न</string>
 			<string spawnId="61">MagnetLetter</string>
 		</Stones>
 	</Segment>
 	<Segment SegmentTime="13" spawnIds="">
 		
 		<MonsterRequiredLetters>
-			<string>t</string>
-			<string>e</string>
-			<string>d</string>
-		</MonsterRequiredLetters>
+			<string>म</string>
+			<string>त</string>
+			</MonsterRequiredLetters>
 		<MonsterAllLetters>
 		</MonsterAllLetters>
 		<Stones>
-			<string spawnId="55">t</string>
-			<string spawnId="60">e</string>
-			<string spawnId="82">d</string>
+			<string spawnId="55">ढ</string>
+			<string spawnId="60">म</string>
+			<string spawnId="82">त</string>
 			<string spawnId="83">MagnetLetter</string>
 			<string bonusScore="175" spawnId="54">BonusLetter</string>
 		</Stones>

@@ -1,83 +1,83 @@
-<XMLLevel CollectableMonster="" HideCallout="5" LettersGroup="3" SegmentTime="10" StoneType="1" monsterInputType="Letter">
+<XMLLevel CollectableMonster="" HideCallout="5" LettersGroup="4" SegmentTime="10" StoneType="1" monsterInputType="SoundWord">
   <Segments>
     <Segment SegmentTime="10" spawnIds="">
     	
     	<MonsterRequiredLetters>
-    		<string>r</string>
-    	</MonsterRequiredLetters>
+    		<string>द</string>
+    	<string>े</string><string>न</string><string>ा</string></MonsterRequiredLetters>
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string spawnId="54">c</string>
-    		<string spawnId="62">u</string>
-			<string spawnId="55">t</string>
-			<string spawnId="58">t</string>
-			<string spawnId="4">n</string>
-			<string spawnId="5">r</string>
+    		<string spawnId="54">ढ</string>
+    		<string spawnId="62">ष</string>
+			<string spawnId="55">द</string>
+			<string spawnId="58">े</string>
+			<string spawnId="4">न</string>
+			<string spawnId="5">ा</string>
     	</Stones>
 	</Segment>
 	<Segment SegmentTime="10" spawnIds="54,62,55,58,4,5">
 		
 		<MonsterRequiredLetters>
-			<string>n</string>
-		</MonsterRequiredLetters>
+			<string>ध</string>
+		<string>ड</string><string>़</string></MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string>r</string>
-        	<string>r</string>
-			<string>t</string>
-			<string>c</string>
-			<string>(g)</string>
-			<string>n</string>
+        	<string>ञ</string>
+        	<string>ष</string>
+			<string>अः</string>
+			<string>ध</string>
+			<string>ड</string>
+			<string>़</string>
       	</Stones>
     </Segment>
 	<Segment SegmentTime="10" spawnIds="">
 		
       	<MonsterRequiredLetters>
-			<string>c</string>
-	  	</MonsterRequiredLetters>
+			<string>ज</string>
+	  	<string>्</string><string>ञ</string><string>ड</string><string>़</string></MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string spawnId="11">b</string>
-	        <string spawnId="90">b</string>
-			<string spawnId="8">t</string>
-			<string spawnId="9">t</string>
-			<string spawnId="12">b</string>
-			<string spawnId="89">c</string>
+			<string spawnId="11">अः</string>
+	        <string spawnId="90">ज</string>
+			<string spawnId="8">्</string>
+			<string spawnId="9">ञ</string>
+			<string spawnId="12">ड</string>
+			<string spawnId="89">़</string>
       	</Stones>
 	</Segment>
 	<Segment SegmentTime="10" spawnIds="11,90,8,9,12,89">
 		
       	<MonsterRequiredLetters>
-			<string>b</string>
-	  	</MonsterRequiredLetters>
+			<string>द</string>
+	  	<string>स</string></MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>u</string>
-	        <string>(g)</string>
-			<string>u</string>
-			<string>r</string>
-			<string>r</string>
-			<string>b</string>
+	        <string>ढ</string>
+	        <string>ढ</string>
+			<string>क्ष</string>
+			<string>ज्ञ</string>
+			<string>द</string>
+			<string>स</string>
       	</Stones>
     </Segment>
 	<Segment SegmentTime="10" spawnIds="">
 		
       	<MonsterRequiredLetters>
-			<string>(</string>
-	  	</MonsterRequiredLetters>
+			<string>ए</string>
+	  	<string>ड</string><string>़</string><string>ी</string></MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string spawnId="59">t</string>
-			<string spawnId="61">(g)</string>
-			<string spawnId="55">r</string>
-			<string spawnId="54">(</string>
+			<string spawnId="59">ए</string>
+			<string spawnId="61">ड</string>
+			<string spawnId="55">़</string>
+			<string spawnId="54">ी</string>
 			<string bonusScore="300" delayIn="1" delayRepet="0" loop="false" spawnId="42,51" speed="150">BonusLetter</string>
-      	<string spawnId="22">g</string><string spawnId="28">)</string></Stones>
+      	</Stones>
 	</Segment>
   </Segments>
 </XMLLevel>

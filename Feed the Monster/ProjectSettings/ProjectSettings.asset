@@ -11,7 +11,8 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 0
   companyName: Curious Learning
-  productName: Feed The Monster
+  productName: "\u0930\u093E\u0915\u094D\u0937\u0938 \u0915\u094B \u092D\u094B\u091C\u0928
+    \u0916\u093F\u0932\u093E\u0913"
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13333334, g: 0.17254902, b: 0.21176471, a: 1}
@@ -143,14 +144,14 @@ PlayerSettings:
   protectGraphicsMemory: 0
   useHDRDisplay: 0
   applicationIdentifier:
-    Android: com.eduapp4syria.feedthemonsterENGLISH
+    Android: com.eduapp4syria.feedthemonsterHindi
     Standalone: unity.Curious Learning.Feed The Monster
     Tizen: com.eduapp4syria.feedthemonsterENGLISH
     iOS: com.eduapp4syria.feedthemonsterENGLISH
     tvOS: com.eduapp4syria.feedthemonsterENGLISH
   buildNumber:
     iOS: 0
-  AndroidBundleVersionCode: 3
+  AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 16
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 0
@@ -241,7 +242,7 @@ PlayerSettings:
   AndroidSplashScreenScale: 2
   androidSplashScreen: {fileID: 2800000, guid: bb27f6b4419d6154795b14cc4cdb1782, type: 3}
   AndroidKeystoreName: /Users/ericglickman-tondreau/egt.keystore
-  AndroidKeyaliasName: egt
+  AndroidKeyaliasName: 
   AndroidTVCompatibility: 0
   AndroidIsGame: 1
   androidEnableBanner: 0
