@@ -3,50 +3,50 @@
     <Segment SegmentTime="10" spawnIds="">
     	
     	<MonsterRequiredLetters>
-    		<string>क</string>
-    	<string>ु</string><string>छ</string></MonsterRequiredLetters>
+    		<string>र</string>
+    	<string>ो</string><string>ट</string><string>ी</string></MonsterRequiredLetters>
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string spawnId="73">ष</string>
-    		<string spawnId="27">ढ</string>
-    		<string spawnId="21">ढ</string>
-			<string spawnId="76">क</string>
-			<string spawnId="22">ु</string>
-			<string spawnId="26">छ</string>
+    		<string spawnId="73">क्ष</string>
+    		<string spawnId="27">ञ</string>
+    		<string spawnId="21">र</string>
+			<string spawnId="76">ो</string>
+			<string spawnId="22">ट</string>
+			<string spawnId="26">ी</string>
     	</Stones>
 	</Segment>
 	<Segment SegmentTime="10" spawnIds="73,27,21,76,22,26">
 		
 		<MonsterRequiredLetters>
-			<string>क</string>
-		<string>ु</string><string>छ</string></MonsterRequiredLetters>
+			<string>त</string>
+		<string>ो</string><string>त</string><string>ा</string></MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string>ञ</string>
         	<string>त्र</string>
-        	<string>अः</string>
-			<string>क</string>
-			<string>ु</string>
-			<string>छ</string>
+        	<string>ज्ञ</string>
+        	<string>त</string>
+			<string>ो</string>
+			<string>त</string>
+			<string>ा</string>
       	</Stones>
     </Segment>
 	<Segment SegmentTime="10" spawnIds="">
 		
       	<MonsterRequiredLetters>
-			<string>झ</string>
-	  	<string>ट</string></MonsterRequiredLetters>
+			<string>छ</string>
+	  	<string>ह</string></MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string spawnId="73">अः</string>
-	        <string spawnId="76">ज्ञ</string>
-	        <string delayIn="0" delayRepet="0" loop="true" spawnId="66,82,66" speed="150">ष</string>
-			<string spawnId="20">ञ</string>
-			<string delayIn="0" delayRepet="0" loop="true" spawnId="83,67,83" speed="150">ष</string>
-			<string spawnId="23">झ</string>
-			<string spawnId="15">ट</string>
+			<string spawnId="73">क्ष</string>
+	        <string spawnId="76">ढ</string>
+	        <string delayIn="0" delayRepet="0" loop="true" spawnId="66,82,66" speed="150">क्ष</string>
+			<string spawnId="20">त्र</string>
+			<string delayIn="0" delayRepet="0" loop="true" spawnId="83,67,83" speed="150">क्ष</string>
+			<string spawnId="23">छ</string>
+			<string spawnId="15">ह</string>
 			<string bonusScore="275" spawnId="14">BonusLetter</string>
       	</Stones>
 	</Segment>
@@ -58,8 +58,8 @@
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>ष</string>
-	        <string>त्र</string>
+	        <string>ज्ञ</string>
+	        <string>अः</string>
 	        <string>स</string>
 			<string>ो</string>
 			<string>न</string>
@@ -69,17 +69,17 @@
 	<Segment SegmentTime="10" spawnIds="">
 		
       	<MonsterRequiredLetters>
-			<string>ग</string>
-	  	<string>ो</string><string>ल</string><string>ी</string></MonsterRequiredLetters>
+			<string>ख</string>
+	  	<string>ा</string><string>ओ</string></MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string spawnId="28">ग</string>
-	        <string spawnId="25">ो</string>
+	        <string spawnId="28">ढ</string>
+	        <string spawnId="25">ख</string>
 	        <string bonusScore="275" delayIn="0" delayRepet="0" loop="true" spawnId="94,93,94" speed="150">BonusLetter</string>
-			<string spawnId="5">ी</string>
+			<string spawnId="5">ओ</string>
 			<string bonusScore="275" delayIn="0" delayRepet="0" loop="true" spawnId="36,45,36" speed="150">BonusLetter</string>
-			<string spawnId="20">ल</string></Stones>
+			<string spawnId="26">ा</string></Stones>
 	</Segment>
   </Segments>
 </XMLLevel>

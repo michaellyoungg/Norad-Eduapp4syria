@@ -3,19 +3,6 @@
     <Segment SegmentTime="11" spawnIds="5,75,57">
       
 	  <MonsterRequiredLetters>
-		<string>क</string>
-	  <string>म</string></MonsterRequiredLetters>
-	  <MonsterAllLetters>
-		</MonsterAllLetters>
-	  <Stones>
-        <string>क्ष</string>
-		<string>क</string>
-		<string>म</string>
-      </Stones>
-    </Segment>
-	<Segment SegmentTime="11" spawnIds="4,74,56">
-      
-	  <MonsterRequiredLetters>
 		<string>घ</string>
 	  <string>र</string></MonsterRequiredLetters>
 	  <MonsterAllLetters>
@@ -26,43 +13,56 @@
 		<string>र</string>
       </Stones>
     </Segment>
+	<Segment SegmentTime="11" spawnIds="4,74,56">
+      
+	  <MonsterRequiredLetters>
+		<string>क</string>
+	  <string>ल</string></MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		</MonsterAllLetters>
+	  <Stones>
+        <string>अः</string>
+		<string>क</string>
+		<string>ल</string>
+      </Stones>
+    </Segment>
 	<Segment SegmentTime="11" spawnIds="89,8,95">
       
 	  <MonsterRequiredLetters>
-		<string>न</string>
+		<string>क</string>
 	  <string>ल</string></MonsterRequiredLetters>
 	  <MonsterAllLetters>
 	  </MonsterAllLetters>
 	  <Stones>
-        <string>ज्ञ</string>
-		<string>न</string>
+        <string>क्ष</string>
+		<string>क</string>
 		<string>ल</string>
       </Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="90,9,96">
       
 	  <MonsterRequiredLetters>
-		<string>फ</string>
+		<string>न</string>
 	  <string>ल</string></MonsterRequiredLetters>
 	  <MonsterAllLetters>
 	  </MonsterAllLetters>
 	  <Stones>
-        <string>ढ</string>
-		<string>फ</string>
+        <string>अः</string>
+		<string>न</string>
 		<string>ल</string>
       </Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="83,55,82,54">
       
 	  <MonsterRequiredLetters>
-		<string>क</string>
-	  <string>म</string></MonsterRequiredLetters>
+		<string>घ</string>
+	  <string>र</string></MonsterRequiredLetters>
 	  <MonsterAllLetters>
 	  </MonsterAllLetters>
 	  <Stones>
-        <string>ञ</string>
-        <string>क</string>
-        <string>म</string>
+        <string>अः</string>
+        <string>घ</string>
+        <string>र</string>
 		<string bonusScore="150">BonusLetter</string>
       </Stones>
     </Segment>
