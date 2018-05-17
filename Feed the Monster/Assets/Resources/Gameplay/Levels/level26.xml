@@ -14,7 +14,7 @@
 			<string spawnId="93">lu</string>
 			<string spawnId="74">b</string>
 			<string spawnId="94">d</string>
-    	<string spawnId="28">u</string></Stones>
+		</Stones>
 	</Segment>
 	<Segment SegmentTime="10" spawnIds="86,75,87,93,74,94">
 		
@@ -25,7 +25,12 @@
 	  	</MonsterAllLetters>
 	  	<Stones>
         	<string>s</string>
-        	<string spawnId="28">l</string><string spawnId="20">r</string><string spawnId="20">d</string><string spawnId="22">u</string></Stones>
+			<string>d</string>
+			<string>d</string>
+			<string>d</string>
+			<string>u</string>
+			<string bonusScore="275">BonusLetter</string>
+		</Stones>
     </Segment>
 	<Segment SegmentTime="10" spawnIds="">
 		
@@ -45,7 +50,7 @@
 			<string bonusScore="275" spawnId="14">BonusLetter</string>
       	<string spawnId="28">u</string></Stones>
 	</Segment>
-	<Segment SegmentTime="10" spawnIds="">
+	<Segment SegmentTime="10" spawnIds="86,75,87,93,74,94">
 		
       	<MonsterRequiredLetters>
 			<string>t</string>
@@ -53,9 +58,13 @@
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string spawnId="14">MagnetLetter</string>
-			<string bonusScore="275" spawnId="15">BonusLetter</string>
-			<string spawnId="30">lu</string><string spawnId="24">lu</string><string spawnId="26">t</string><string spawnId="20">du</string><string spawnId="24">t</string><string spawnId="26">u</string></Stones>
+	        <string>MagnetLetter</string>
+			<string bonusScore="275">BonusLetter</string>
+			<string>t</string>
+			<string>du</string>
+			<string>t</string>
+			<string>u</string>
+		</Stones>
     </Segment>
 	<Segment SegmentTime="10" spawnIds="">
 		
@@ -68,7 +77,7 @@
 	        <string spawnId="65">b</string>
 	        <string delayIn="0" delayRepet="0" loop="true" spawnId="77,80,77" speed="150">BonusLetter</string>
 			<string delayIn="0" delayRepet="0" loop="true" spawnId="24,29,24" speed="150">BonusLetter</string>
-			<string spawnId="24">bu</string><string spawnId="28">b</string><string spawnId="20">u</string></Stones>
+			<string spawnId="24">b</string><string spawnId="28">b</string><string spawnId="20">u</string></Stones>
 	</Segment>
   </Segments>
 </XMLLevel>
