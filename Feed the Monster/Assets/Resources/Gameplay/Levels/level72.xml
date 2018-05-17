@@ -12,13 +12,13 @@
 	  <string>g</string></MonsterAllLetters>
 	  <Stones>
         <string spawnId="65">p</string>
-        <string spawnId="82">ng</string>
-        <string spawnId="91">g</string>
+        <string spawnId="82">p</string>
+        <string spawnId="91">ng</string>
 		<string spawnId="92">ng</string>
-		<string spawnId="83">ng</string>
-        <string spawnId="94">g</string>
-		<string spawnId="93">g</string>
-		<string spawnId="68">p</string>
+		<string spawnId="83">u</string>
+        <string spawnId="94">ng</string>
+		<string spawnId="93">p</string>
+		<string spawnId="68">g</string>
 		<string spawnId="72">p</string>
 		<string spawnId="69">p</string>
       </Stones>
@@ -34,15 +34,15 @@
 		<string>n</string>
 	  <string>g</string></MonsterAllLetters>
 	  <Stones>
-        <string spawnId="68">u</string>
-        <string spawnId="83">u</string>
+        <string spawnId="68">g</string>
+        <string spawnId="83">ng</string>
         <string spawnId="92">ng</string>
-		<string spawnId="91">u</string>
-		<string spawnId="82">u</string>
-        <string spawnId="93">ng</string>
-		<string spawnId="94">g</string>
-		<string spawnId="65">p</string>
-		<string spawnId="69">p</string>
+		<string spawnId="91">g</string>
+		<string spawnId="82">g</string>
+        <string spawnId="93">g</string>
+		<string spawnId="94">p</string>
+		<string spawnId="65">g</string>
+		<string spawnId="69">g</string>
 		<string spawnId="72">p</string>
       </Stones>
     </Segment>
@@ -58,61 +58,59 @@
 	  <string>g</string></MonsterAllLetters>
 	  <Stones>
         <string spawnId="88">g</string>
-        <string spawnId="93">ng</string>
+        <string spawnId="93">g</string>
         <string spawnId="67">p</string>
-		<string spawnId="85">ng</string>
-		<string spawnId="45">u</string>
-        <string spawnId="66">u</string>
-		<string spawnId="59">u</string>
-		<string spawnId="94">g</string>
-		<string spawnId="36">g</string>
+		<string spawnId="85">g</string>
+		<string spawnId="45">ng</string>
+        <string spawnId="66">p</string>
+		<string spawnId="59">g</string>
+		<string spawnId="94">ng</string>
+		<string spawnId="36">p</string>
 		<string spawnId="61">p</string>
       </Stones>
     </Segment>
 	<Segment SegmentTime="9" spawnIds="">
       
 	  <MonsterRequiredLetters>
-		<string>p</string>
+		<string>u</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
-		<string>u</string>
-		<string>n</string>
-	  <string>g</string></MonsterAllLetters>
+		<string>p</string>
+		</MonsterAllLetters>
 	  <Stones>
-        <string spawnId="85">g</string>
+        <string spawnId="85">p</string>
         <string spawnId="94">g</string>
-        <string spawnId="66">ng</string>
-		<string spawnId="88">ng</string>
-		<string spawnId="36">ng</string>
-		<string spawnId="67">u</string>
-		<string spawnId="61">g</string>
-		<string spawnId="93">ng</string>
+        <string spawnId="66">p</string>
+		<string spawnId="88">u</string>
+		<string spawnId="36">p</string>
+		<string spawnId="67">g</string>
+		<string spawnId="61">u</string>
+		<string spawnId="93">g</string>
 		<string spawnId="45">g</string>
-		<string spawnId="59">p</string>
+		<string spawnId="59">u</string>
       </Stones>
     </Segment>
 	<Segment SegmentTime="9" spawnIds="">
       
 	  <MonsterRequiredLetters>
-		<string>p</string>
+		<string>u</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
-		<string>u</string>
-		<string>n</string>
-	  <string>g</string></MonsterAllLetters>
+		<string>g</string>
+		</MonsterAllLetters>
 	  <Stones>
-        <string spawnId="88">g</string>
-        <string spawnId="93">p</string>
-        <string spawnId="67">u</string>
+        <string spawnId="88">p</string>
+        <string spawnId="93">u</string>
+        <string spawnId="67">g</string>
 		<string spawnId="85">u</string>
 		<string spawnId="45">g</string>
-		<string spawnId="66">p</string>
-		<string spawnId="59">ng</string>
-		<string spawnId="94">g</string>
+		<string spawnId="66">u</string>
+		<string spawnId="59">g</string>
+		<string spawnId="94">ng</string>
 		<string spawnId="36">g</string>
-		<string spawnId="61">p</string>
+		<string spawnId="61">u</string>
       </Stones>
     </Segment>
   </Segments>
