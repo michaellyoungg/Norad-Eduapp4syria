@@ -269,8 +269,9 @@ public class MonsterCalloutController : MonoBehaviour {
 			foreach (string letter in GameplayController.Instance.CurrentSegment.MonsterRequiredLetters) {
 				word += letter;
 			}
-			word = word.Normalize(NormalizationForm.FormD);
-			url = "Sounds/Voice/Words/" + ArabicBaseForm.Extract (RTL.Clean(word));
+			word = ArabicBaseForm.Extract (RTL.Clean (word));
+			word = word.Normalize (NormalizationForm.FormD);
+			url = "Sounds/Voice/Words/" + word;
 
 			voice = Resources.Load (url) as AudioClip;
 			if (voice != null) {
