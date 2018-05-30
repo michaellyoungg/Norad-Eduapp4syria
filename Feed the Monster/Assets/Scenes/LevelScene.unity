@@ -26289,7 +26289,7 @@ Prefab:
     - target: {fileID: 114153699219346376, guid: e1d6ee951bb24934d8ad6cc6fdec17fc,
         type: 2}
       propertyPath: CouplesGroup_4.Array.size
-      value: 10
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 114153699219346376, guid: e1d6ee951bb24934d8ad6cc6fdec17fc,
         type: 2}
@@ -26299,7 +26299,7 @@ Prefab:
     - target: {fileID: 114153699219346376, guid: e1d6ee951bb24934d8ad6cc6fdec17fc,
         type: 2}
       propertyPath: CouplesGroup_6.Array.size
-      value: 11
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 114153699219346376, guid: e1d6ee951bb24934d8ad6cc6fdec17fc,
         type: 2}
@@ -26466,8 +26466,7 @@ Prefab:
         type: 2}
       propertyPath: CouplesGroup_4.Array.data[9]
       value: 
-      objectReference: {fileID: 11400000, guid: 3ecb59ccf5a63424f9c1d2adca22d7bc,
-        type: 2}
+      objectReference: {fileID: 0}
     - target: {fileID: 114153699219346376, guid: e1d6ee951bb24934d8ad6cc6fdec17fc,
         type: 2}
       propertyPath: CouplesGroup_5.Array.data[2]
@@ -26508,7 +26507,7 @@ Prefab:
         type: 2}
       propertyPath: CouplesGroup_6.Array.data[7]
       value: 
-      objectReference: {fileID: 11400000, guid: 9b35fb2f799c8544ca8f4eaa09457fad,
+      objectReference: {fileID: 11400000, guid: ffcb07ecb0cf5e443a7a1f4a6f32c09a,
         type: 2}
     - target: {fileID: 114153699219346376, guid: e1d6ee951bb24934d8ad6cc6fdec17fc,
         type: 2}
@@ -26551,6 +26550,24 @@ Prefab:
       propertyPath: CouplesGroup_2.Array.data[9]
       value: 
       objectReference: {fileID: 11400000, guid: 2fd0b597f10fe4adab51e6520fbf0f81,
+        type: 2}
+    - target: {fileID: 114153699219346376, guid: e1d6ee951bb24934d8ad6cc6fdec17fc,
+        type: 2}
+      propertyPath: CouplesGroup_4.Array.data[0]
+      value: 
+      objectReference: {fileID: 11400000, guid: ed7a4c0f223a87b4eaefbf1b5a8ac316,
+        type: 2}
+    - target: {fileID: 114153699219346376, guid: e1d6ee951bb24934d8ad6cc6fdec17fc,
+        type: 2}
+      propertyPath: CouplesGroup_6.Array.data[1]
+      value: 
+      objectReference: {fileID: 11400000, guid: a4e2614fd66bf4490b3f3d32d3e8ef9a,
+        type: 2}
+    - target: {fileID: 114153699219346376, guid: e1d6ee951bb24934d8ad6cc6fdec17fc,
+        type: 2}
+      propertyPath: CouplesGroup_4.Array.data[8]
+      value: 
+      objectReference: {fileID: 11400000, guid: ed7a4c0f223a87b4eaefbf1b5a8ac316,
         type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e1d6ee951bb24934d8ad6cc6fdec17fc, type: 2}
