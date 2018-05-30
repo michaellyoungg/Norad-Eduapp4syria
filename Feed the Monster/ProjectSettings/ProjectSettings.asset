@@ -125,7 +125,7 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
-  bundleVersion: 1
+  bundleVersion: 1.0.1
   preloadedAssets: []
   metroInputSource: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -150,7 +150,7 @@ PlayerSettings:
     tvOS: com.eduapp4syria.feedthemonsterBrazilianPortuguese
   buildNumber:
     iOS: 0
-  AndroidBundleVersionCode: 1
+  AndroidBundleVersionCode: 2
   AndroidMinSdkVersion: 16
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 0
@@ -239,8 +239,8 @@ PlayerSettings:
   AndroidTargetDevice: 0
   AndroidSplashScreenScale: 2
   androidSplashScreen: {fileID: 2800000, guid: bb27f6b4419d6154795b14cc4cdb1782, type: 3}
-  AndroidKeystoreName: 
-  AndroidKeyaliasName: 
+  AndroidKeystoreName: /Users/ericglickman-tondreau/egt.keystore
+  AndroidKeyaliasName: egt
   AndroidTVCompatibility: 0
   AndroidIsGame: 1
   androidEnableBanner: 0
