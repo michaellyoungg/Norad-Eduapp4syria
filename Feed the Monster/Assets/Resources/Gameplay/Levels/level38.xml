@@ -8,90 +8,90 @@
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string spawnId="87">mapa</string>
-			<string spawnId="78">palo</string>
-    		<string spawnId="64">bata</string>
-			<string spawnId="60">qapa</string>
-			<string spawnId="36">pale</string>
-			<string spawnId="79">haha</string>
-			<string spawnId="86">bata</string>
-			<string spawnId="63">raka</string>
+    		<string spawnId="87">p</string>
+			<string spawnId="78">o</string>
+    		<string spawnId="64">o</string>
+			<string spawnId="60">l</string>
+			<string spawnId="36">n</string>
+			<string spawnId="79">h</string>
+			<string spawnId="86">b</string>
+			<string spawnId="63">m</string>
 			<string spawnId="45">h</string>
-    	<string spawnId="20">a</string><string spawnId="20">h</string><string spawnId="24">a</string></Stones>
+    	</Stones>
 	</Segment>
 	<Segment SegmentTime="10" spawnIds="">
 		
 		<MonsterRequiredLetters>
-			<string>r</string>
+			<string>p</string>
 		</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string spawnId="18">pale</string>
-			<string spawnId="19">bala</string>
-			<string spawnId="36">rata</string>
-			<string spawnId="45">pale</string>
-			<string spawnId="57">bata</string>
-			<string spawnId="56">r</string>
+        	<string spawnId="18">o</string>
+			<string spawnId="19">p</string>
+			<string spawnId="36">r</string>
+			<string spawnId="45">o</string>
+			<string spawnId="57">o</string>
+			<string spawnId="56">p</string>
 			<string spawnId="8">Shield</string>
 			<string bonusScore="275" spawnId="9">BonusLetter</string>
-      	<string spawnId="28">a</string><string spawnId="26">t</string></Stones>
+      	</Stones>
     </Segment>
 	<Segment SegmentTime="10" spawnIds="">
 		
       	<MonsterRequiredLetters>
-			<string>m</string>
+			<string>r</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string spawnId="10">palo</string>
-	        <string spawnId="61">palo</string>
-			<string spawnId="71">qapa</string>
-			<string spawnId="54">bala</string>
-			<string spawnId="96">qapa</string>
-			<string spawnId="13">qapa</string>
-			<string spawnId="95">nama</string>
-			<string spawnId="55">mapa</string>
-			<string spawnId="70">m</string>
-      	<string spawnId="26">a</string><string spawnId="22">p</string><string spawnId="28">a</string></Stones>
+			<string spawnId="10">l</string>
+	        <string spawnId="61">k</string>
+			<string spawnId="71">o</string>
+			<string spawnId="54">o</string>
+			<string spawnId="96">m</string>
+			<string spawnId="13">b</string>
+			<string spawnId="95">o</string>
+			<string spawnId="55">h</string>
+			<string spawnId="70">r</string>
+      	</Stones>
 	</Segment>
 	<Segment SegmentTime="10" spawnIds="">
 		
       	<MonsterRequiredLetters>
-			<string>q</string>
+			<string>n</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string spawnId="20">palo</string>
-			<string spawnId="23">haha</string>
-			<string spawnId="54">nako</string>
-			<string spawnId="55">qapa</string>
-			<string spawnId="58">haha</string>
-			<string spawnId="62">q</string>
+	        <string spawnId="20">k</string>
+			<string spawnId="23">k</string>
+			<string spawnId="54">l</string>
+			<string spawnId="55">b</string>
+			<string spawnId="58">b</string>
+			<string spawnId="62">n</string>
 			<string spawnId="21">Shield</string>
 			<string bonusScore="275" spawnId="22">BonusLetter</string>
-      	<string spawnId="26">a</string><string spawnId="22">p</string></Stones>
+      	</Stones>
     </Segment>
 	<Segment SegmentTime="10" spawnIds="87,78,64,60,36,79,86,63,45">
 		
       	<MonsterRequiredLetters>
-			<string>b</string>
+			<string>l</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>raka</string>
-			<string>raka</string>
-			<string>pale</string>
-			<string>rata</string>
-			<string>rata</string>
-			<string>nama</string>
-			<string>rata</string>
-			<string>nama</string>
+	        <string>m</string>
 			<string>b</string>
-      	<string spawnId="20">a</string><string spawnId="24">l</string><string spawnId="20">a</string></Stones>
+			<string>p</string>
+			<string>m</string>
+			<string>o</string>
+			<string>h</string>
+			<string>k</string>
+			<string>p</string>
+			<string>l</string>
+      	</Stones>
 	</Segment>
   </Segments>
 </XMLLevel>
