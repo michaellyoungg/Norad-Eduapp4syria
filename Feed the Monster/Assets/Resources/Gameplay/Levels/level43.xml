@@ -1,0 +1,84 @@
+<XMLLevel CollectableMonster="" HideCallout="3" LettersGroup="4" SegmentTime="9" StoneType="1" monsterInputType="SoundLetter">
+  <Segments>
+    <Segment SegmentTime="10" spawnIds="">
+    	
+    	<MonsterRequiredLetters>
+    		<string>b</string>
+    	</MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string spawnId="1">raka</string>
+    		<string spawnId="21">qapa</string>
+    		<string spawnId="76">nama</string>
+			<string spawnId="73">haha</string>
+			<string spawnId="22">raka</string>
+			<string spawnId="0">b</string>
+    	<string spawnId="30">a</string><string spawnId="28">t</string><string spawnId="24">a</string></Stones>
+	</Segment>
+	<Segment SegmentTime="10" spawnIds="0,1,21,22,73,76">
+		
+		<MonsterRequiredLetters>
+			<string>m</string>
+		</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string>mapa</string>
+        	<string>mapa</string>
+        	<string>nama</string>
+			<string>nako</string>
+			<string>bala</string>
+			<string>m</string>
+      	<string spawnId="30">a</string><string spawnId="22">p</string><string spawnId="24">a</string></Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>b</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string spawnId="59">haha</string>
+	        <string spawnId="22">qapa</string>
+	        <string spawnId="61">mapa</string>
+			<string spawnId="18">bata</string>
+			<string spawnId="21">katse</string>
+			<string spawnId="19">b</string>
+      	<string spawnId="20">a</string><string spawnId="20">l</string><string spawnId="28">a</string></Stones>
+	</Segment>
+	<Segment SegmentTime="10" spawnIds="18,19,21,22,59,61">
+		
+      	<MonsterRequiredLetters>
+			<string>b</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string>nako</string>
+	        <string>katse</string>
+	        <string>haha</string>
+			<string>haha</string>
+			<string>raka</string>
+			<string>b</string>
+      	<string spawnId="28">a</string><string spawnId="24">l</string><string spawnId="24">a</string></Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>m</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="4">palo</string>
+	        <string spawnId="57">rata</string>
+	        <string spawnId="91">katse</string>
+			<string spawnId="5">rata</string>
+			<string spawnId="56">bata</string>
+			<string spawnId="92">m</string>
+      	<string spawnId="26">a</string><string spawnId="26">p</string><string spawnId="26">a</string></Stones>
+	</Segment>
+  </Segments>
+</XMLLevel>
