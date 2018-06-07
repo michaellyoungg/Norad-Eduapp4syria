@@ -86096,7 +86096,7 @@ MonoBehaviour:
   GameFailMusic: {fileID: 8300000, guid: d9e6671c2414c784eab09fa7bcf1c42e, type: 3}
   GameLostFanfare: {fileID: 8300000, guid: fa62a551c3b125f4b829c0a5fd8595fe, type: 3}
   GameWonFanfare: {fileID: 8300000, guid: eb0188a951d327a45adcbfa38e711263, type: 3}
-  SoundEvolve: {fileID: 8300000, guid: 84e5aa30be132442c94ee8657419325f, type: 3}
+  SoundEvolve: {fileID: 8300000, guid: e248941cfdba44e5ebc394fb6c91f4fb, type: 3}
   SoundScoreCount: {fileID: 8300000, guid: e304589b7b107b349b203d699f2ca5d4, type: 3}
   SoundBarFull: {fileID: 8300000, guid: 42b5ff3aa958df648b6aaedd9bcce607, type: 3}
 --- !u!114 &3864
@@ -87121,7 +87121,7 @@ MonoBehaviour:
   monsterBar: {fileID: 4098}
   ButtonPrevious: {fileID: 1149}
   ButtonNext: {fileID: 1201}
-  InstructionSound: {fileID: 8300000, guid: 61f8728d6b57b41b6a1c074204920030, type: 3}
+  InstructionSound: {fileID: 8300000, guid: 8cbf28b0fbfc544c5b71b00e928827a3, type: 3}
   TouchController: {fileID: 4224}
 --- !u!114 &3922
 MonoBehaviour:
@@ -87659,9 +87659,9 @@ MonoBehaviour:
   Title_Angry: {fileID: 21300000, guid: c2f462740bef4404fa92e1482ba6bb00, type: 3}
   Title_Bored: {fileID: 21300000, guid: d239ddc45304c4e6aa2506386efc3021, type: 3}
   Title_Sad: {fileID: 21300000, guid: a4228159cbb194086a40d691e6c73a46, type: 3}
-  Sound_Angry: {fileID: 8300000, guid: 46ac1d5af6f474ef19f7b8c41efc5a97, type: 3}
-  Sound_Bored: {fileID: 8300000, guid: d5115a4f2fac8414487f988fddc23975, type: 3}
-  Sound_Sad: {fileID: 8300000, guid: 7cdcd52b8dd284729a7dece3d82347a7, type: 3}
+  Sound_Angry: {fileID: 8300000, guid: 13ac485bdbe0c40a08c21448a0e7d415, type: 3}
+  Sound_Bored: {fileID: 8300000, guid: 0b48129e9dddc404c9ad8d105d243efc, type: 3}
+  Sound_Sad: {fileID: 8300000, guid: 2d3a003a4834b4dc69ee478721a8abd1, type: 3}
   SadMonster_m1e4: {fileID: 1000010523479964, guid: 54430236950c36e4aaa4567450749765,
     type: 2}
   SadMonster_m2e4: {fileID: 1000011703380614, guid: 7d6ab90f58eb657449515191c62c40fa,
@@ -89451,7 +89451,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5996e848dd6dd95469423bf25979bd27, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TitleSound: {fileID: 8300000, guid: 8493c25a3ba51422292c70d57bfaa8c1, type: 3}
+  TitleSound: {fileID: 8300000, guid: 733f47593e79e439789036264f764643, type: 3}
   profiles:
   - {fileID: 4512}
   - {fileID: 4886}
@@ -89614,7 +89614,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1fdfab411e49e6943929952cffd569eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MonsterDiscoveredSound: {fileID: 8300000, guid: c5442b0e3b0e2493ab4c4ef7791add33,
+  MonsterDiscoveredSound: {fileID: 8300000, guid: a02c793f3e51742cf94d22d74fc443f3,
     type: 3}
   FirstHolder: {fileID: 43}
 --- !u!114 &4060
@@ -89951,11 +89951,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   GameOver: 0
   TitleImage: {fileID: 919}
-  TitleSound: {fileID: 8300000, guid: 2f625edafae75411d915ebe045b74812, type: 3}
+  TitleSound: {fileID: 8300000, guid: 7a80e2615a27d4d6d95b7917e8c09f01, type: 3}
   VictoryImage: {fileID: 210}
-  VictoryFromAngry: {fileID: 8300000, guid: 3a71bc37c95d143ada28f5ea228d40b1, type: 3}
-  VictoryFromBored: {fileID: 8300000, guid: 89e169d6bd6f94f818c7e8630045032b, type: 3}
-  VictoryFromSad: {fileID: 8300000, guid: 5ad3f7b4420964f7982d1fb295437488, type: 3}
+  VictoryFromAngry: {fileID: 8300000, guid: 2359eb7c05a0847ed9c8b820eec3e956, type: 3}
+  VictoryFromBored: {fileID: 8300000, guid: 17251529736ed4308aade31957b43752, type: 3}
+  VictoryFromSad: {fileID: 8300000, guid: 5d6efd2bc5cac49239a433155f0c407a, type: 3}
   Cheering: {fileID: 8300000, guid: a99d68238e065df4eba486a3754cb0c0, type: 3}
   PettingZones: {fileID: 1035}
   NeededPats: 5
@@ -90151,7 +90151,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mNextPanelToShow: {fileID: 0}
-  sndRUShure: {fileID: 8300000, guid: 055b8b32b01cb4130a64acc9f554be6d, type: 3}
+  sndRUShure: {fileID: 8300000, guid: eb3d35319ddae446fa10d07f74486ebf, type: 3}
 --- !u!114 &4085
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -90202,14 +90202,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   GameOver: 0
   TitleImage: {fileID: 0}
-  TitleSound: {fileID: 8300000, guid: 7e0a026961bf9409d93a8a4c491b7efc, type: 3}
+  TitleSound: {fileID: 8300000, guid: ffa29d85f3941432a81d5d23aa63eec9, type: 3}
   VictoryImage: {fileID: 627}
-  VictoryFromAngry: {fileID: 8300000, guid: 3a71bc37c95d143ada28f5ea228d40b1, type: 3}
-  VictoryFromBored: {fileID: 8300000, guid: 89e169d6bd6f94f818c7e8630045032b, type: 3}
-  VictoryFromSad: {fileID: 8300000, guid: 5ad3f7b4420964f7982d1fb295437488, type: 3}
+  VictoryFromAngry: {fileID: 8300000, guid: 2359eb7c05a0847ed9c8b820eec3e956, type: 3}
+  VictoryFromBored: {fileID: 8300000, guid: 17251529736ed4308aade31957b43752, type: 3}
+  VictoryFromSad: {fileID: 8300000, guid: 5d6efd2bc5cac49239a433155f0c407a, type: 3}
   GameManager: {fileID: 5206}
   Title: {fileID: 4829}
-  StartTraceingSound: {fileID: 8300000, guid: 45783b8a434ab495889395b2958496e8, type: 3}
+  StartTraceingSound: {fileID: 8300000, guid: b73c2afd027fb424eb9b8ea41d2ec9e1, type: 3}
   LettersForTesting: []
   LettersGroup_1:
   - {fileID: 1000013600583762, guid: 4c21cd68a058c8644a370820fa6b9aff, type: 2}
@@ -90271,11 +90271,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   GameOver: 0
   TitleImage: {fileID: 280}
-  TitleSound: {fileID: 8300000, guid: 8f68e84c9f9694c5ca977d8f4634102f, type: 3}
+  TitleSound: {fileID: 8300000, guid: 0b48129e9dddc404c9ad8d105d243efc, type: 3}
   VictoryImage: {fileID: 1216}
-  VictoryFromAngry: {fileID: 8300000, guid: 0c7ea90baee0f450ba612b333803195f, type: 3}
-  VictoryFromBored: {fileID: 8300000, guid: cece85b430c4040f2bee348ae9c8d7cb, type: 3}
-  VictoryFromSad: {fileID: 8300000, guid: fdd83221faf064cf58a927536acf418d, type: 3}
+  VictoryFromAngry: {fileID: 8300000, guid: 2359eb7c05a0847ed9c8b820eec3e956, type: 3}
+  VictoryFromBored: {fileID: 8300000, guid: 17251529736ed4308aade31957b43752, type: 3}
+  VictoryFromSad: {fileID: 8300000, guid: 5d6efd2bc5cac49239a433155f0c407a, type: 3}
   firstShowing: 4
   rotateSpeed: 12
   shakeTime: 0.74
@@ -90796,9 +90796,9 @@ MonoBehaviour:
   PuzzleCountdown: {fileID: 4083}
   LevelEndPopup: {fileID: 385932676}
   ScreenTransitionEffect: {fileID: 51}
-  DEBUG_ADD_ALL_MONSTERS: 1
+  DEBUG_ADD_ALL_MONSTERS: 0
   DEBUG_CLEAR_PLAYERPREFS: 0
-  DEBUG_OPEN_ALL_LEVELS_PLAYERPREFS: 1
+  DEBUG_OPEN_ALL_LEVELS_PLAYERPREFS: 0
   DEBUG_USU_ONLINE_XMLS: 0
   ClickSound: {fileID: 8300000, guid: 2851a9ddacf9d0045b8ca3a5f55b2213, type: 3}
 --- !u!114 &4097
@@ -97278,7 +97278,7 @@ MonoBehaviour:
   Back: {fileID: 589}
   Shadow: {fileID: 0}
   ParticleHolder: {fileID: 620}
-  Couple: {fileID: 11400000, guid: afe7ab48de93527499652ca1ddfa9b23, type: 2}
+  Couple: {fileID: 0}
 --- !u!114 &4334
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -115712,7 +115712,7 @@ MonoBehaviour:
   Back: {fileID: 801}
   Shadow: {fileID: 0}
   ParticleHolder: {fileID: 481}
-  Couple: {fileID: 11400000, guid: 71efd32d0c48dc54a88216419e2f1e71, type: 2}
+  Couple: {fileID: 0}
 --- !u!114 &5016
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -115743,7 +115743,7 @@ MonoBehaviour:
   Back: {fileID: 759}
   Shadow: {fileID: 0}
   ParticleHolder: {fileID: 1078}
-  Couple: {fileID: 11400000, guid: afe7ab48de93527499652ca1ddfa9b23, type: 2}
+  Couple: {fileID: 0}
 --- !u!114 &5018
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -133074,7 +133074,7 @@ MonoBehaviour:
   Back: {fileID: 838}
   Shadow: {fileID: 0}
   ParticleHolder: {fileID: 696}
-  Couple: {fileID: 11400000, guid: 71efd32d0c48dc54a88216419e2f1e71, type: 2}
+  Couple: {fileID: 0}
 --- !u!114 &5662
 MonoBehaviour:
   m_ObjectHideFlags: 0
