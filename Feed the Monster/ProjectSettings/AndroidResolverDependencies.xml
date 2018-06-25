@@ -8,31 +8,32 @@
     <package>com.google.firebase:firebase-core:12.0.1</package>
   </packages>
   <files>
-    <file>Assets/Plugins/Android/common-1.0.0.jar</file>
-    <file>Assets/Plugins/Android/firebase-analytics-12.0.1.aar</file>
-    <file>Assets/Plugins/Android/firebase-analytics-impl-12.0.1.aar</file>
-    <file>Assets/Plugins/Android/firebase-analytics-impl-license-12.0.1.aar</file>
-    <file>Assets/Plugins/Android/firebase-analytics-license-12.0.1.aar</file>
-    <file>Assets/Plugins/Android/firebase-analytics-unity-4.5.2.aar</file>
-    <file>Assets/Plugins/Android/firebase-app-unity-4.5.2.aar</file>
-    <file>Assets/Plugins/Android/firebase-common-12.0.1.aar</file>
-    <file>Assets/Plugins/Android/firebase-common-license-12.0.1.aar</file>
-    <file>Assets/Plugins/Android/firebase-core-12.0.1.aar</file>
-    <file>Assets/Plugins/Android/firebase-iid-12.0.1.aar</file>
-    <file>Assets/Plugins/Android/firebase-iid-license-12.0.1.aar</file>
-    <file>Assets/Plugins/Android/play-services-base-12.0.1.aar</file>
-    <file>Assets/Plugins/Android/play-services-base-license-12.0.1.aar</file>
-    <file>Assets/Plugins/Android/play-services-basement-12.0.1.aar</file>
-    <file>Assets/Plugins/Android/play-services-basement-license-12.0.1.aar</file>
-    <file>Assets/Plugins/Android/play-services-tasks-12.0.1.aar</file>
-    <file>Assets/Plugins/Android/play-services-tasks-license-12.0.1.aar</file>
-    <file>Assets/Plugins/Android/runtime-1.0.0.aar</file>
-    <file>Assets/Plugins/Android/support-annotations-26.1.0.jar</file>
-    <file>Assets/Plugins/Android/support-compat-26.1.0.aar</file>
-    <file>Assets/Plugins/Android/support-core-ui-26.1.0.aar</file>
-    <file>Assets/Plugins/Android/support-core-utils-26.1.0.aar</file>
-    <file>Assets/Plugins/Android/support-fragment-26.1.0.aar</file>
-    <file>Assets/Plugins/Android/support-media-compat-26.1.0.aar</file>
-    <file>Assets/Plugins/Android/support-v4-26.1.0.aar</file>
+    <file>Assets/Plugins/Android/android.arch.core.common-1.0.0.jar</file>
+    <file>Assets/Plugins/Android/android.arch.lifecycle.common-1.0.0.jar</file>
+    <file>Assets/Plugins/Android/android.arch.lifecycle.runtime-1.0.0.aar</file>
+    <file>Assets/Plugins/Android/com.android.support.support-annotations-26.1.0.jar</file>
+    <file>Assets/Plugins/Android/com.android.support.support-compat-26.1.0.aar</file>
+    <file>Assets/Plugins/Android/com.android.support.support-core-ui-26.1.0.aar</file>
+    <file>Assets/Plugins/Android/com.android.support.support-core-utils-26.1.0.aar</file>
+    <file>Assets/Plugins/Android/com.android.support.support-fragment-26.1.0.aar</file>
+    <file>Assets/Plugins/Android/com.android.support.support-media-compat-26.1.0.aar</file>
+    <file>Assets/Plugins/Android/com.android.support.support-v4-26.1.0.aar</file>
+    <file>Assets/Plugins/Android/com.google.android.gms.play-services-base-12.0.1.aar</file>
+    <file>Assets/Plugins/Android/com.google.android.gms.play-services-base-license-12.0.1.aar</file>
+    <file>Assets/Plugins/Android/com.google.android.gms.play-services-basement-12.0.1.aar</file>
+    <file>Assets/Plugins/Android/com.google.android.gms.play-services-basement-license-12.0.1.aar</file>
+    <file>Assets/Plugins/Android/com.google.android.gms.play-services-tasks-12.0.1.aar</file>
+    <file>Assets/Plugins/Android/com.google.android.gms.play-services-tasks-license-12.0.1.aar</file>
+    <file>Assets/Plugins/Android/com.google.firebase.firebase-analytics-12.0.1.aar</file>
+    <file>Assets/Plugins/Android/com.google.firebase.firebase-analytics-impl-12.0.1.aar</file>
+    <file>Assets/Plugins/Android/com.google.firebase.firebase-analytics-impl-license-12.0.1.aar</file>
+    <file>Assets/Plugins/Android/com.google.firebase.firebase-analytics-license-12.0.1.aar</file>
+    <file>Assets/Plugins/Android/com.google.firebase.firebase-analytics-unity-4.5.2.aar</file>
+    <file>Assets/Plugins/Android/com.google.firebase.firebase-app-unity-4.5.2.aar</file>
+    <file>Assets/Plugins/Android/com.google.firebase.firebase-common-12.0.1.aar</file>
+    <file>Assets/Plugins/Android/com.google.firebase.firebase-common-license-12.0.1.aar</file>
+    <file>Assets/Plugins/Android/com.google.firebase.firebase-core-12.0.1.aar</file>
+    <file>Assets/Plugins/Android/com.google.firebase.firebase-iid-12.0.1.aar</file>
+    <file>Assets/Plugins/Android/com.google.firebase.firebase-iid-license-12.0.1.aar</file>
   </files>
 </dependencies>
