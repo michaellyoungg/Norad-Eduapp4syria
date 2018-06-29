@@ -1,0 +1,73 @@
+<XMLLevel CollectableMonster="" HideCallout="1" LettersGroup="10" SegmentTime="8" StoneType="2" monsterInputType="Word">
+  <Segments>
+    <Segment SegmentTime="9" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>व</string>
+	  <string>र</string><string>ा</string><string>ह</string></MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="15">व</string>
+        <string spawnId="74">र</string>
+        <string spawnId="14">ा</string>
+		<string spawnId="75">ह</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		</MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="7">ज्ञ</string>
+        <string spawnId="77">ढ</string>
+        <string spawnId="6">अः</string>
+		<string spawnId="80">त्र</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>व</string>
+	  <string>े</string><string>ध</string></MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="61">ढ</string>
+        <string spawnId="8">व</string>
+        <string spawnId="9">े</string>
+		<string spawnId="59">ध</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>आ</string>
+	  <string>स</string></MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="95">ढ</string>
+        <string spawnId="18">त्र</string>
+        <string spawnId="96">आ</string>
+		<string spawnId="19">स</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ट</string>
+	  <string>र</string><string>ब</string><string>ु</string><string>ज</string></MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="29">ट</string>
+        <string spawnId="8">र</string>
+        <string spawnId="24">ब</string>
+		<string spawnId="9">ु</string>
+      <string spawnId="20">ज</string></Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

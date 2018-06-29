@@ -1,0 +1,99 @@
+<XMLLevel CollectableMonster="" HideCallout="2" LettersGroup="8" SegmentTime="9" StoneType="1" monsterInputType="Letter">
+  <Segments>
+    <Segment SegmentTime="10" spawnIds="5,4,74,75,56,57,87,86,60">
+      
+	  <MonsterRequiredLetters>
+		<string>त</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>च</string>
+        <string>थ</string>
+        <string>त</string>
+		<string>ई</string>
+		<string>ब</string>
+        <string>थ</string>
+		<string>फ</string>
+		<string>त</string>
+		<string>त</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="5,4,74,75,56,57,87,86,60">
+      
+	  <MonsterRequiredLetters>
+		<string>त</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="11">ई</string>
+        <string spawnId="15">त</string>
+        <string spawnId="19">थ</string>
+		<string spawnId="12">थ</string>
+		<string spawnId="14">ब</string>
+        <string spawnId="18">प</string>
+		<string spawnId="21">थ</string>
+		<string spawnId="22">त</string>
+		<string spawnId="26">त</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="5,4,74,75,56,57,87,86,60">
+      
+	  <MonsterRequiredLetters>
+		<string>थ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>थ</string>
+        <string>फ</string>
+        <string>ब</string>
+		<string>ई</string>
+		<string>ई</string>
+        <string>प</string>
+		<string>ई</string>
+		<string>त</string>
+		<string>थ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="5,4,74,75,56,57,87,86,60">
+      
+	  <MonsterRequiredLetters>
+		<string>च</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="20">ब</string>
+        <string spawnId="33">प</string>
+        <string spawnId="23">थ</string>
+		<string spawnId="28">थ</string>
+		<string spawnId="25">त</string>
+		<string spawnId="32">थ</string>
+		<string spawnId="21">ब</string>
+		<string spawnId="22">प</string>
+		<string spawnId="12">च</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="5,4,74,75,56,57,87,86,60">
+      
+	  <MonsterRequiredLetters>
+		<string>च</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>फ</string>
+        <string>फ</string>
+        <string>ब</string>
+		<string>प</string>
+		<string>थ</string>
+		<string>प</string>
+		<string>ब</string>
+		<string>च</string>
+		<string>च</string>
+      </Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

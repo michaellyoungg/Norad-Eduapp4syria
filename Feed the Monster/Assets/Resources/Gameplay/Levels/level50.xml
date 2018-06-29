@@ -1,0 +1,85 @@
+<XMLLevel CollectableMonster="" HideCallout="2" LettersGroup="8" SegmentTime="12" StoneType="1" monsterInputType="SoundWord">
+	<Segments>
+		<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+			
+			<MonsterRequiredLetters>
+				<string>प</string>
+				<string>ट</string>
+				</MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string>अः</string>
+				<string>क्ष</string>
+				<string>अः</string>
+				<string>प</string>
+				<string>ट</string>
+			</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
+		<MonsterRequiredLetters>
+			</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ढ</string>
+			<string>क्ष</string>
+			<string>क्ष</string>
+			<string>ज्ञ</string>
+			<string>अः</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
+		<MonsterRequiredLetters>
+			<string>च</string>
+			<string>ी</string>
+			<string>न</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>अः</string>
+			<string>त्र</string>
+			<string>च</string>
+			<string>ी</string>
+			<string>न</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
+		<MonsterRequiredLetters>
+			<string>ब</string>
+			<string>ी</string>
+			<string>ज</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>त्र</string>
+			<string>ज्ञ</string>
+			<string>ब</string>
+			<string>ी</string>
+			<string>ज</string>
+		</Stones>
+	</Segment>
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
+		<MonsterRequiredLetters>
+			<string>ब</string>
+			<string>ी</string>
+			<string>ज</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ज्ञ</string>
+			<string>ष</string>
+			<string>ब</string>
+			<string>ी</string>
+			<string>ज</string>
+		</Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>
