@@ -1,0 +1,88 @@
+<XMLLevel CollectableMonster="" HideCallout="5" LettersGroup="3" SegmentTime="10" StoneType="1" monsterInputType="Letter">
+  <Segments>
+    <Segment SegmentTime="10" spawnIds="">
+    	
+    	<MonsterRequiredLetters>
+    		<string>u</string>
+    	</MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string spawnId="22">u</string>
+    		<string spawnId="4">s</string>
+    		<string spawnId="76">u</string>
+    		<string spawnId="21">i</string>
+			<string spawnId="5">ḽ</string>
+			<string spawnId="73">u</string>	
+    	</Stones>
+	</Segment>
+	<Segment SegmentTime="10" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>s</string>
+		</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string spawnId="19">ṋ</string>
+        	<string spawnId="18">ṱ ṅ</string>
+        	<string delayIn="0" delayRepet="0" loop="true" spawnId="11,86,11" speed="125">ḓ</string>
+        	<string delayIn="0" delayRepet="0" loop="true" spawnId="87,12,87" speed="125">ṱ ṅ</string>
+			<string spawnId="69">i</string>
+			<string spawnId="72">ḽ</string>
+			<string spawnId="81">s</string>
+			<string bonusScore="275" spawnId="84">BonusLetter</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>u</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string spawnId="25">ḽ</string>
+	        <string spawnId="45">ḽ</string>
+	        <string spawnId="93">i</string>
+			<string spawnId="94">ḓ</string>
+			<string spawnId="36">ṱ ṅ</string>
+			<string spawnId="28">u</string>
+      	</Stones>
+	</Segment>
+	<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>i</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="58">u</string>
+	        <string delayIn="0" delayRepet="0" loop="true" spawnId="45,36,45" speed="150">ḽ</string>
+	        <string spawnId="62">u</string>
+			<string delayIn="0" delayRepet="0" loop="true" spawnId="93,94,93" speed="150">s</string>
+			<string spawnId="66">i</string>
+			<string spawnId="67">i</string>
+			<string spawnId="27">i</string>
+			<string bonusScore="275" spawnId="26">BonusLetter</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>i</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="90">ṱ ṅ</string>
+	        <string spawnId="55">s</string>
+	        <string spawnId="96">s</string>
+			<string spawnId="89">i</string>
+			<string spawnId="54">ṱ ṅ</string>
+			<string spawnId="95">i</string>
+      	</Stones>
+	</Segment>
+  </Segments>
+</XMLLevel>
