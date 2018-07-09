@@ -1,0 +1,81 @@
+<XMLLevel CollectableMonster="" HideCallout="1" LettersGroup="6" SegmentTime="9" StoneType="1" monsterInputType="Letter">
+  <Segments>
+    <Segment SegmentTime="9" spawnIds="">
+    	
+    	<MonsterRequiredLetters>
+    		<string>پ</string>
+    	</MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string spawnId="86">چ</string>
+    		<string spawnId="75">چ</string>
+			<string spawnId="66">ۆ</string>
+			<string spawnId="87">پ</string>
+			<string spawnId="74">گ</string>
+			<string spawnId="67">چ</string>
+			<string spawnId="22">چ</string>
+			<string spawnId="26">ۆ</string><string spawnId="24">پ</string></Stones>
+	</Segment>
+	<Segment SegmentTime="9" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>چ</string>
+		</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string spawnId="87">پ</string>
+			<string spawnId="74">پ</string>
+			<string spawnId="67">چ</string>
+			<string spawnId="86">پ</string>
+			<string spawnId="75">گ</string>
+			<string spawnId="66">گ</string>
+			<string bonusScore="270" spawnId="22">BonusLetter</string>
+      	<string spawnId="26" /><string spawnId="20">گ</string><string spawnId="28">چ</string></Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>ۆ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string spawnId="3">گ</string>
+	        <string spawnId="91">گ</string>
+			<string spawnId="86">گ</string>
+			<string spawnId="30">پ</string><string spawnId="24">گ</string><string spawnId="22">گ</string><string spawnId="26">ۆ</string></Stones>
+	</Segment>
+	<Segment SegmentTime="9" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>چ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="2">گ</string>
+			<string bonusScore="270" spawnId="4">BonusLetter</string>
+      	<string spawnId="22" /><string spawnId="22">گ</string><string spawnId="20">ۆ</string><string spawnId="30">گ</string><string spawnId="28">ۆ</string><string spawnId="30">ۆ</string><string spawnId="22">پ</string><string spawnId="26">چ</string></Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="59">گ</string>
+			<string spawnId="19">ۆ</string>
+			<string spawnId="71">گ</string>
+			<string spawnId="61">گ</string>
+			<string spawnId="18">پ</string>
+			<string spawnId="70">گ</string>
+			<string spawnId="79">ۆ</string>
+			<string spawnId="2">گ</string>
+			<string spawnId="3">گ</string>
+			</Stones>
+	</Segment>
+  </Segments>
+</XMLLevel>

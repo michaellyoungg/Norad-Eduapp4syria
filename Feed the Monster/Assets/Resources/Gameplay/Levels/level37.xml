@@ -1,0 +1,73 @@
+<XMLLevel CollectableMonster="" HideCallout="4" LettersGroup="3" SegmentTime="12" StoneType="1" monsterInputType="SoundWord">
+	<Segments>
+		<Segment SegmentTime="12" spawnIds="19,83,18,82">
+			
+			<MonsterRequiredLetters>
+				<string>ش</string>
+				<string>و</string>
+			</MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string spawnId="22">چ</string><string spawnId="26">ش</string><string spawnId="24">و</string></Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="25,28,91,92">
+		
+		<MonsterRequiredLetters>
+			<string>ج</string>
+			<string>و</string>
+			<string>ت</string>
+		<string>ی</string><string>ا</string><string>ر</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ج</string>
+			<string>و</string>
+			<string>ت</string>
+			<string>ی</string>
+		<string spawnId="24">ا</string><string spawnId="28">ر</string></Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="4,5,54,55">
+		
+		<MonsterRequiredLetters>
+			<string>ت</string>
+			<string>ی</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string spawnId="20">پ</string><string spawnId="30">ت</string><string spawnId="22">ی</string></Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="70,71,56,57">
+		
+		<MonsterRequiredLetters>
+			<string>ت</string>
+			<string>ی</string>
+			</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>گ</string>
+			<string>چ</string>
+			<string>ت</string>     
+			<string>ی</string>
+		</Stones>
+	</Segment>
+	<Segment SegmentTime="12" spawnIds="9,96,8,95">
+		
+		<MonsterRequiredLetters>
+			<string>ج</string>
+			<string>و</string>
+			<string>ت</string>
+		<string>ی</string><string>ا</string><string>ر</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ج</string>
+			<string>و</string>
+			<string>ت</string>
+			<string>ی</string>
+		<string spawnId="24">ا</string><string spawnId="22">ر</string></Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>
