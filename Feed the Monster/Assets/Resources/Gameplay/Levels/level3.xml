@@ -1,0 +1,63 @@
+<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="1" SegmentTime="11" StoneType="1" monsterInputType="Word">
+  <Segments>
+    <Segment SegmentTime="11" spawnIds="6,7">
+    	
+    	<MonsterRequiredLetters>
+    		<string>క</string>
+    	<string>ొ</string><string>ళ</string><string>ా</string><string>య</string><string>ి</string></MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string>క</string>
+    		<string>ొ</string>
+    	<string spawnId="26">ళ</string><string spawnId="20">ా</string><string spawnId="30">య</string><string spawnId="20">ి</string></Stones>
+	</Segment>
+	<Segment SegmentTime="11" spawnIds="91,92">
+		
+		<MonsterRequiredLetters>
+			</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string>ఢ</string>
+        	<string>ఆః</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="8,9">
+		
+      	<MonsterRequiredLetters>
+			<string>ప</string>
+	  	<string>ం</string><string>డ</string><string>ు</string></MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string>ప</string>
+	        <string>ం</string>
+      	<string spawnId="24">డ</string><string spawnId="30">ు</string></Stones>
+	</Segment>
+	<Segment SegmentTime="11" spawnIds="93,94">
+		
+      	<MonsterRequiredLetters>
+			<string>క</string>
+	  	<string>ొ</string><string>ళ</string><string>ా</string><string>య</string><string>ి</string></MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string>క</string>
+	        <string>ొ</string>
+      	<string spawnId="20">ళ</string><string spawnId="28">ా</string><string spawnId="22">య</string><string spawnId="20">ి</string></Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="21,22,60">
+		
+      	<MonsterRequiredLetters>
+			</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string>ఱ</string>
+	        <string>ఱ</string>
+			<string bonusScore="125">BonusLetter</string>
+      	</Stones>
+	</Segment>
+  </Segments>
+</XMLLevel>

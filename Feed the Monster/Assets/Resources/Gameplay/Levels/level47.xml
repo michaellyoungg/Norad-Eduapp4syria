@@ -1,0 +1,74 @@
+<XMLLevel CollectableMonster="" HideCallout="2" LettersGroup="8" SegmentTime="10" StoneType="2" monsterInputType="Word">
+  <Segments>
+    <Segment SegmentTime="10" spawnIds="54,55,82,83">
+      
+	  <MonsterRequiredLetters>
+		<string>మ</string>
+	  <string>ు</string><string>గ</string><string>్</string><string>గ</string><string>ు</string><string>ర</string><string>ు</string></MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>మ</string>
+        <string>ు</string>
+        <string>గ</string>
+		<string>్</string>
+      <string spawnId="30">గ</string><string spawnId="22">ు</string><string spawnId="20">ర</string><string spawnId="26">ు</string></Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ప</string>
+	  <string>ా</string><string>న</string><string>ీ</string><string>య</string><string>ం</string></MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="54">ప</string>
+        <string spawnId="82">ా</string>
+        <string spawnId="55">న</string>
+		<string spawnId="83">ీ</string>
+      <string spawnId="24">య</string><string spawnId="30">ం</string></Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="0,1,91,92">
+      
+	  <MonsterRequiredLetters>
+		<string>చ</string>
+	  <string>ి</string><string>ర</string><string>ు</string><string>త</string></MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>చ</string>
+        <string>ి</string>
+        <string>ర</string>
+		<string>ు</string>
+      <string spawnId="30">త</string></Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ప</string>
+	  <string>ు</string><string>ల</string><string>ి</string></MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="0">ప</string>
+        <string spawnId="91">ు</string>
+        <string spawnId="1">ల</string>
+		<string spawnId="92">ి</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="94,93,61,59">
+      
+	  <MonsterRequiredLetters>
+		<string>ప</string>
+	  <string>స</string><string>ు</string><string>ప</string><string>ు</string></MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>ప</string>
+        <string>స</string>
+        <string>ు</string>
+		<string>ప</string>
+      <string spawnId="20">ు</string></Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

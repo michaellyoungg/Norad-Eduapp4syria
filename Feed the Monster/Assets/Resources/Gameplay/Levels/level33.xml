@@ -1,0 +1,96 @@
+<XMLLevel CollectableMonster="" HideCallout="4" LettersGroup="6" SegmentTime="10" StoneType="1" monsterInputType="Letter">
+  <Segments>
+    <Segment SegmentTime="10" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ష</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="2">జ్ఞ</string>
+        <string spawnId="86">క్ష</string>
+        <string spawnId="89">ఱ</string>
+		<string spawnId="55">ఢ</string>
+		<string spawnId="54">జ్ఞ</string>
+        <string spawnId="3">క్ష</string>
+		<string spawnId="87">అం</string>
+		<string spawnId="90">ష</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ష</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="90">త్ర</string>
+        <string spawnId="87">క్ష</string>
+        <string spawnId="3">ఢ</string>
+		<string spawnId="54">త్ర</string>
+		<string spawnId="55">జ్ఞ</string>
+        <string spawnId="89">ఱ</string>
+		<string spawnId="86">జ్ఞ</string>
+		<string spawnId="2">ష</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>త</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="81">ఢ</string>
+        <string spawnId="3">ఢ</string>
+        <string spawnId="8">త్ర</string>
+		<string spawnId="90">త్ర</string>
+		<string spawnId="89">త్ర</string>
+        <string spawnId="9">అం</string>
+		<string spawnId="2">క్ష</string>
+		<string spawnId="84">త</string>
+      <string spawnId="30">్</string><string spawnId="28">ర</string></Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ష</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="58">ఱ</string>
+        <string spawnId="62">అం</string>
+        <string delayIn="0" delayRepet="0" loop="true" spawnId="45,36,45" speed="150">ఢ</string>
+		<string spawnId="1">అం</string>
+		<string delayIn="0" delayRepet="0" loop="true" spawnId="93,94,93" speed="150">త్ర</string>
+		<string spawnId="0">జ్ఞ</string>
+		<string spawnId="13">ఱ</string>
+		<string spawnId="12">క్ష</string>
+		<string spawnId="27">ష</string>
+		<string bonusScore="275" spawnId="26">BonusLetter</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ఱ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="84">ఢ</string>
+        <string spawnId="2">ఢ</string>
+        <string spawnId="9">త్ర</string>
+		<string spawnId="89">త్ర</string>
+		<string spawnId="90">ఱ</string>
+		<string spawnId="8">క్ష</string>
+		<string spawnId="3">క్ష</string>
+		<string spawnId="81">ఱ</string>
+      </Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

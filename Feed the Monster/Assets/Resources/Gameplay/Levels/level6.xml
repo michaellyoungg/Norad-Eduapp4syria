@@ -1,0 +1,68 @@
+<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="1" SegmentTime="11" StoneType="1" monsterInputType="SoundWord">
+  <Segments>
+    <Segment SegmentTime="11" spawnIds="5,75,57">
+      
+	  <MonsterRequiredLetters>
+		<string>క</string>
+	  <string>ొ</string><string>ళ</string><string>ా</string><string>య</string><string>ి</string></MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		</MonsterAllLetters>
+	  <Stones>
+        <string>క</string>
+		<string>ొ</string>
+		<string>ళ</string>
+      <string spawnId="30">ా</string><string spawnId="22">య</string><string spawnId="24">ి</string></Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="4,74,56">
+      
+	  <MonsterRequiredLetters>
+		<string>త</string>
+	  <string>క</string><string>్</string><string>క</string><string>ు</string><string>వ</string></MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		</MonsterAllLetters>
+	  <Stones>
+        <string>త</string>
+		<string>క</string>
+		<string>్</string>
+      <string spawnId="30">క</string><string spawnId="26">ు</string><string spawnId="30">వ</string></Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="89,8,95">
+      
+	  <MonsterRequiredLetters>
+		</MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>ష</string>
+		<string>క్ష</string>
+		<string>జ్ఞ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="90,9,96">
+      
+	  <MonsterRequiredLetters>
+		<string>ప</string>
+	  <string>ం</string><string>డ</string><string>ు</string></MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>ప</string>
+		<string>ం</string>
+		<string>డ</string>
+      <string spawnId="22">ు</string></Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="83,55,82,54">
+      
+	  <MonsterRequiredLetters>
+		</MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>ష</string>
+        <string>జ్ఞ</string>
+        <string>క్ష</string>
+		<string bonusScore="150">BonusLetter</string>
+      </Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

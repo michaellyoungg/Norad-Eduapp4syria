@@ -1,0 +1,91 @@
+<XMLLevel CollectableMonster="" HideCallout="1" LettersGroup="10" SegmentTime="11" StoneType="1" monsterInputType="SoundWord">
+	<Segments>
+		<Segment SegmentTime="11" spawnIds="">
+			
+			<MonsterRequiredLetters>
+				<string>ఏ</string>
+				<string>న</string>
+				<string>ు</string>
+			<string>గ</string><string>ు</string></MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string spawnId="72">జ్ఞ</string>
+				<string spawnId="81">ఏ</string>
+				<string spawnId="8">న</string>
+				<string spawnId="9">ు</string>
+				<string spawnId="69">గ</string>
+				<string spawnId="84">ు</string>
+			</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="72,81,8,9,69,84">
+		
+		<MonsterRequiredLetters>
+			<string>బ</string>
+			<string>ా</string>
+			<string>గ</string>
+		<string>ా</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ఢ</string>
+			<string>ఢ</string>
+			<string>బ</string>
+			<string>ా</string>
+			<string>గ</string>
+			<string>ా</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="72,81,8,9,69,84">
+		
+		<MonsterRequiredLetters>
+			<string>మ</string>
+			<string>ై</string>
+			<string>న</string>
+		<string>ా</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>త్ర</string>
+			<string>త్ర</string>
+			<string>మ</string>
+			<string>ై</string>
+			<string>న</string>
+			<string>ా</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="72,81,8,9,69,84">
+		
+		<MonsterRequiredLetters>
+			<string>మ</string>
+			<string>ై</string>
+			<string>న</string>
+		<string>ా</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>త్ర</string>
+			<string>ష</string>
+			<string>మ</string>
+			<string>ై</string>
+			<string>న</string>
+			<string>ా</string>
+		</Stones>
+	</Segment>
+	<Segment SegmentTime="11" spawnIds="72,81,8,9,69,84">
+		
+		<MonsterRequiredLetters>
+			</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ఆః</string>
+			<string>ఆః</string>
+			<string>క్ష</string>
+			<string>ష</string>
+			<string>జ్ఞ</string>
+			<string>ఱ</string>
+		</Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

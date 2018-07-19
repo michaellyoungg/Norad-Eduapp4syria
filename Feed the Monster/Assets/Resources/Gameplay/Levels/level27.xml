@@ -1,0 +1,84 @@
+<XMLLevel CollectableMonster="" HideCallout="5" LettersGroup="5" SegmentTime="10" StoneType="1" monsterInputType="SoundLetter">
+  <Segments>
+    <Segment SegmentTime="10" spawnIds="">
+    	
+    	<MonsterRequiredLetters>
+    		<string>భ</string>
+    	</MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string spawnId="4">భ</string>
+    		<string spawnId="75">ఛ</string>
+			<string spawnId="56">ఛ</string>
+    		<string spawnId="5">ఝ</string>
+			<string spawnId="74">డ</string>
+			<string spawnId="57">భ</string>
+    	</Stones>
+	</Segment>
+	<Segment SegmentTime="10" spawnIds="4,5,56,57,74,75">
+		
+		<MonsterRequiredLetters>
+			<string>ఒ</string>
+		</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string>వ</string>
+        	<string>ఠ</string>
+			<string>ఛ</string>
+        	<string>ఛ</string>
+			<string>ఛ</string>
+			<string>ఒ</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>వ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string spawnId="75">ఝ</string>
+	        <string spawnId="80">ఠ</string>
+			<string spawnId="83">ఝ</string>
+	        <string spawnId="74">వ</string>
+			<string spawnId="77">డ</string>
+			<string spawnId="82">వ</string>
+      	</Stones>
+	</Segment>
+	<Segment SegmentTime="10" spawnIds="75,80,83,74,77,82">
+		
+      	<MonsterRequiredLetters>
+			<string>ఒ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string>వ</string>
+	        <string>ఒ</string>
+			<string>వ</string>
+	        <string>ఛ</string>
+			<string>డ</string>
+			<string>ఒ</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>ఠ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="89">భ</string>
+			<string spawnId="95">ఠ</string>
+	        <string spawnId="55">ఒ</string>
+	        <string spawnId="54">వ</string>
+			<string spawnId="90">భ</string>
+			<string spawnId="96">ఠ</string>
+      	</Stones>
+	</Segment>
+  </Segments>
+</XMLLevel>

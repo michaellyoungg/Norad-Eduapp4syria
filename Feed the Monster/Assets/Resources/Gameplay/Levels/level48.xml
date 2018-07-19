@@ -1,0 +1,90 @@
+<XMLLevel CollectableMonster="" HideCallout="2" LettersGroup="8" SegmentTime="13" StoneType="2" monsterInputType="Word">
+	<Segments>
+		<Segment SegmentTime="13" spawnIds="56,57,74,75">
+			
+			<MonsterRequiredLetters>
+				<string>న</string>
+				<string>ా</string>
+			<string>ల</string><string>ు</string><string>గ</string><string>ు</string></MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string>న</string>
+				<string>ా</string>
+				<string>ల</string>
+				<string>ు</string>
+				<string bonusScore="275" spawnId="60">BonusLetter</string>
+			<string spawnId="26">గ</string><string spawnId="28">ు</string></Stones>
+    </Segment>
+	<Segment SegmentTime="13" spawnIds="28,78,79,36,45">
+		
+		<MonsterRequiredLetters>
+			<string>ల</string>
+			<string>ా</string>
+			<string>క</string>
+		<string>్</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>త్ర</string>
+			<string>ల</string>
+			<string>ా</string>
+			<string>క</string>
+			<string>్</string>
+			<string spawnId="25">MagnetLetter</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="13" spawnIds="11,12,89,90,60">
+		
+		<MonsterRequiredLetters>
+			<string>జ</string>
+			<string>ు</string>
+		<string>ట</string><string>్</string><string>ట</string><string>ు</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>జ</string>
+			<string>ు</string>
+			<string>ట</string>
+			<string>్</string>
+			<string>ట</string>
+		<string spawnId="28">ు</string></Stones>
+    </Segment>
+	<Segment SegmentTime="13" spawnIds="20,75,74,0,1">
+		
+		<MonsterRequiredLetters>
+			<string>మ</string>
+			<string>ా</string>
+			<string>మ</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ఆః</string>
+			<string>ష</string>
+			<string>మ</string>
+			<string>ా</string>
+			<string>మ</string>
+			<string bonusScore="275" spawnId="23">BonusLetter</string>
+		</Stones>
+	</Segment>
+	<Segment SegmentTime="13" spawnIds="95,96,8,9,26">
+		
+		<MonsterRequiredLetters>
+			<string>అ</string>
+			<string>త</string>
+			<string>్</string>
+		<string>త</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ఢ</string>
+			<string>అ</string>
+			<string>త</string>
+			<string>్</string>
+			<string>త</string>
+			<string spawnId="27">MagnetLetter</string>
+		</Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>
