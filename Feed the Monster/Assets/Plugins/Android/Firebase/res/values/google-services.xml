@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://ftm-isixhosa.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">718166818510</string>
+  <string name="google_storage_bucket" translatable="false">ftm-isixhosa.appspot.com</string>
+  <string name="project_id" translatable="false">ftm-isixhosa</string>
+  <string name="google_api_key" translatable="false">AIzaSyA4u_BUvitAHAaVnSDttINZAxiySOBV2uo</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA4u_BUvitAHAaVnSDttINZAxiySOBV2uo</string>
+  <string name="google_app_id" translatable="false">1:718166818510:android:c3cb16f4526ac3fd</string>
+  <string name="default_web_client_id" translatable="false">718166818510-9v4jq9k8ml65u45j5rsfhjfckt9ld652.apps.googleusercontent.com</string>
+</resources>
