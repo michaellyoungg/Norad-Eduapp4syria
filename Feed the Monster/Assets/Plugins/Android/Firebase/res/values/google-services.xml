@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://ftm-ndebele.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">130920198888</string>
+  <string name="google_storage_bucket" translatable="false">ftm-ndebele.appspot.com</string>
+  <string name="project_id" translatable="false">ftm-ndebele</string>
+  <string name="google_api_key" translatable="false">AIzaSyB7jdp3AYOLj3iz0-8rM0-HCjx0M_iKMUw</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB7jdp3AYOLj3iz0-8rM0-HCjx0M_iKMUw</string>
+  <string name="google_app_id" translatable="false">1:130920198888:android:713072a4f92a8b9d</string>
+  <string name="default_web_client_id" translatable="false">130920198888-u2fh0oc7vlft0u7g7ejr44e6fdlioi7f.apps.googleusercontent.com</string>
+</resources>
