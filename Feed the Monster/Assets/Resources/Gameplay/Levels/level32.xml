@@ -8,38 +8,38 @@
 	  <MonsterAllLetters>
 		<string>X</string>
 		<string>i</string>
-		<string>ḓ</string>
-	  <string>u</string></MonsterAllLetters>
+		<string>s</string>
+	  <string>a</string></MonsterAllLetters>
 	  <Stones>
-        <string>i</string>
+        <string>ṋ</string>
+        <string>ṱ</string>
         <string>u</string>
-        <string>ṱ ṅ</string>
 		<string>i</string>
-		<string>u</string>
-        <string>i</string>
-		<string>ṱ ṅ</string>
+		<string>ṱ</string>
+        <string>ḽ</string>
+		<string>ḓ</string>
 		<string>ḽ</string>
       </Stones>
     </Segment>
 	<Segment SegmentTime="10" spawnIds="59,64,78,17,16,79,63,61">
       
 	  <MonsterRequiredLetters>
-		<string>ḽ</string>
+		<string>s</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
 		<string>i</string>
-		<string>s</string>
-	  <string>a</string></MonsterAllLetters>
+		<string>n</string>
+	  <string>ḓ</string><string>a</string></MonsterAllLetters>
 	  <Stones>
-        <string>ḽ</string>
-        <string>u</string>
-        <string>ḽ</string>
-		<string>u</string>
-		<string>ḓ</string>
-        <string>ṱ ṅ</string>
-		<string>ḓ</string>
+        <string>i</string>
+        <string>ḓ</string>
+        <string>ṱ</string>
+		<string>ṋ</string>
 		<string>ḽ</string>
+        <string>u</string>
+		<string>ḽ</string>
+		<string>s</string>
       </Stones>
     </Segment>
 	<Segment SegmentTime="10" spawnIds="">
@@ -49,16 +49,16 @@
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
-		<string>i</string>
-		<string>t</string>
-	  <string>h</string><string>u</string></MonsterAllLetters>
+		<string>u</string>
+		<string>l</string>
+	  <string>a</string></MonsterAllLetters>
 	  <Stones>
-        <string spawnId="69">ḓ</string>
-        <string spawnId="84">ḓ</string>
-        <string delayIn="0" delayRepet="0" loop="true" spawnId="11,86,11" speed="150">ṋ</string>
-		<string spawnId="81">ḓ</string>
-		<string delayIn="0" delayRepet="0" loop="true" spawnId="87,12,87" speed="150">u</string>
-        <string spawnId="72">ḽ</string>
+        <string spawnId="69">ṋ</string>
+        <string spawnId="84">s</string>
+        <string delayIn="0" delayRepet="0" loop="true" spawnId="11,86,11" speed="150">u</string>
+		<string spawnId="81">ḽ</string>
+		<string delayIn="0" delayRepet="0" loop="true" spawnId="87,12,87" speed="150">ṅ</string>
+        <string spawnId="72">s</string>
 		<string spawnId="19">ḓ</string>
 		<string bonusScore="275" spawnId="18">BonusLetter</string>
       </Stones>
@@ -66,43 +66,43 @@
 	<Segment SegmentTime="10" spawnIds="59,64,78,17,16,79,63,61">
       
 	  <MonsterRequiredLetters>
-		<string>ḓ</string>
+		<string>ṱ</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
-		<string>i</string>
-		<string>t</string>
-	  <string>h</string><string>u</string></MonsterAllLetters>
+		<string>u</string>
+		<string>w</string>
+	  <string>a</string></MonsterAllLetters>
 	  <Stones>
+        <string>ḽ</string>
         <string>ḓ</string>
-        <string>s</string>
-        <string>s</string>
-		<string>ṱ ṅ</string>
+        <string>i</string>
+		<string>ṋ</string>
+		<string>i</string>
 		<string>ḓ</string>
-		<string>ḓ</string>
-		<string>ṱ ṅ</string>
-		<string>ḓ</string>
+		<string>i</string>
+		<string>ṱ</string>
       </Stones>
     </Segment>
 	<Segment SegmentTime="10" spawnIds="59,64,78,17,16,79,63,61">
       
 	  <MonsterRequiredLetters>
-		<string>u</string>
+		<string>ḓ</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 		<string>X</string>
-		<string>s</string>
-		<string>a</string>
-	  </MonsterAllLetters>
-	  <Stones>
-        <string>ṱ ṅ</string>
-        <string>s</string>
-        <string>ṱ ṅ</string>
-		<string>ṋ</string>
-		<string>s</string>
-		<string>s</string>
-		<string>ḓ</string>
 		<string>u</string>
+		<string>l</string>
+	  <string>a</string></MonsterAllLetters>
+	  <Stones>
+        <string>ṋ</string>
+        <string>ḽ</string>
+        <string>ṅ</string>
+		<string>ḽ</string>
+		<string>s</string>
+		<string>ṅ</string>
+		<string>ṱ</string>
+		<string>ḓ</string>
       </Stones>
     </Segment>
   </Segments>
