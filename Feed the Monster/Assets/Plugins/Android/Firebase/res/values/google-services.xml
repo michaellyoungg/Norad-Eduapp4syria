@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://ftm-sepedi.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">717386526176</string>
+  <string name="google_storage_bucket" translatable="false">ftm-sepedi.appspot.com</string>
+  <string name="project_id" translatable="false">ftm-sepedi</string>
+  <string name="google_api_key" translatable="false">AIzaSyDOQP2zA8ejlLVsfmUkWGoX7rQV-R6or6I</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDOQP2zA8ejlLVsfmUkWGoX7rQV-R6or6I</string>
+  <string name="google_app_id" translatable="false">1:717386526176:android:0e1156113b24cef0</string>
+  <string name="default_web_client_id" translatable="false">717386526176-7cfl1pmaihkbh5frot48r39i6ckg642a.apps.googleusercontent.com</string>
+</resources>
