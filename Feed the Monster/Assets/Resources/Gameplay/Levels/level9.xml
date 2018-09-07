@@ -1,0 +1,78 @@
+<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="2" SegmentTime="14" StoneType="1" monsterInputType="Word">
+	<Segments>
+		<Segment SegmentTime="14" spawnIds="">
+			
+			<MonsterRequiredLetters>
+				<string>ជ</string>
+				<string>ឿ</string>
+				</MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string spawnId="21">ម</string>
+				<string spawnId="60">ជ</string>
+				<string spawnId="22">ឿ</string>
+			</Stones>
+    </Segment>
+	<Segment SegmentTime="14" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>ជ</string>
+			<string>ឿ</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string spawnId="58">ើ</string>
+			<string spawnId="93">ជ</string>
+			<string spawnId="36">ឿ</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="14" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>ល</string>
+			<string>ឿ</string>
+			<string>ង</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string spawnId="45">ល</string>
+			<string spawnId="94">ឿ</string>
+			<string spawnId="62">ង</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="14" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>រ</string>
+			<string>ឿ</string>
+			<string>ង</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string spawnId="26">រ</string>
+			<string spawnId="8">ឿ</string>
+			<string spawnId="9">ង</string>
+			<string bonusScore="175" spawnId="27">BonusLetter</string>
+		</Stones>
+	</Segment>
+	<Segment SegmentTime="14" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>រ</string>
+			<string>ឿ</string>
+		<string>ង</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string spawnId="26">រ</string>
+			<string spawnId="8">ឿ</string>
+			<string spawnId="9">ង</string>
+			<string spawnId="27">MagnetLetter</string>
+		</Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

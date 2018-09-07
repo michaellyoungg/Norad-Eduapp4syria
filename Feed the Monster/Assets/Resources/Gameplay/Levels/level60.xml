@@ -1,0 +1,74 @@
+<XMLLevel CollectableMonster="" HideCallout="1" LettersGroup="10" SegmentTime="8" StoneType="2" monsterInputType="Word">
+  <Segments>
+    <Segment SegmentTime="9" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ខ</string>
+	  <string>្</string><string>ញ</string><string>ុ</string><string>ំ</string></MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="15">ខ</string>
+        <string spawnId="74">្</string>
+        <string spawnId="14">ញ</string>
+		<string spawnId="75">ុ</string>
+      <string spawnId="30">ំ</string></Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ច</string>
+	  <string>ំ</string></MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="7">ើ</string>
+        <string spawnId="77">ម</string>
+        <string spawnId="6">ច</string>
+		<string spawnId="80">ំ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ច</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="61">ើ</string>
+        <string spawnId="8">យ</string>
+        <string spawnId="9">ម</string>
+		<string spawnId="59">ច</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ស</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="95">ម</string>
+        <string spawnId="18">ើ</string>
+        <string spawnId="96">ឈ</string>
+		<string spawnId="19">ស</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ស</string>
+	  <string>ំ</string></MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="29">ើ</string>
+        <string spawnId="8">យ</string>
+        <string spawnId="24">ស</string>
+		<string spawnId="9">ំ</string>
+      </Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

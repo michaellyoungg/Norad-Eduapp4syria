@@ -1,0 +1,74 @@
+<XMLLevel CollectableMonster="" HideCallout="2" LettersGroup="8" SegmentTime="10" StoneType="2" monsterInputType="Word">
+  <Segments>
+    <Segment SegmentTime="10" spawnIds="54,55,82,83">
+      
+	  <MonsterRequiredLetters>
+		<string>ស</string>
+	  <string>៊</string><string>ី</string></MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>ឈ</string>
+        <string>ស</string>
+        <string>៊</string>
+		<string>ី</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ទ</string>
+	  <string>ី</string></MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="54">ឈ</string>
+        <string spawnId="82">យ</string>
+        <string spawnId="55">ទ</string>
+		<string spawnId="83">ី</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="0,1,91,92">
+      
+	  <MonsterRequiredLetters>
+		<string>ស</string>
+	  <string>៊</string><string>ី</string></MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>ើ</string>
+        <string>ស</string>
+        <string>៊</string>
+		<string>ី</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ម</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="0">យ</string>
+        <string spawnId="91">ឈ</string>
+        <string spawnId="1">ើ</string>
+		<string spawnId="92">ម</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="94,93,61,59">
+      
+	  <MonsterRequiredLetters>
+		<string>ព</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>យ</string>
+        <string>ម</string>
+        <string>ម</string>
+		<string>ព</string>
+      </Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

@@ -1,0 +1,94 @@
+<XMLLevel CollectableMonster="" HideCallout="1" LettersGroup="12" SegmentTime="10" StoneType="1" monsterInputType="SoundWord">
+	<Segments>
+		<Segment SegmentTime="10" spawnIds="">
+			
+			<MonsterRequiredLetters>
+				<string>ខ</string>
+				<string>ួ</string>
+				<string>រ</string>
+			</MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string spawnId="81">ឈ</string>
+				<string spawnId="55">ឈ</string>
+				<string spawnId="90">យ</string>
+				<string spawnId="60">ើ</string>
+				<string spawnId="89">ខ</string>
+				<string spawnId="54">ួ</string>
+				<string spawnId="84">រ</string>
+			</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="81,55,90,60,89,54,84">
+		
+		<MonsterRequiredLetters>
+			<string>ត</string>
+			<string>ួ</string>
+			</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ឈ</string>
+			<string>យ</string>
+			<string>ើ</string>
+			<string>យ</string>
+			<string>យ</string>
+			<string>ត</string>
+			<string>ួ</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="81,55,90,60,89,54,84">
+		
+		<MonsterRequiredLetters>
+			<string>ស</string>
+			</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ើ</string>
+			<string>ឈ</string>
+			<string>ើ</string>
+			<string>យ</string>
+			<string>ឈ</string>
+			<string>ឈ</string>
+			<string>ស</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="81,55,90,60,89,54,84">
+		
+		<MonsterRequiredLetters>
+			<string>ស</string>
+			<string>ំ</string>
+			<string>ន</string>
+		<string>ួ</string><string>រ</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ឈ</string>
+			<string>ឈ</string>
+			<string>ស</string>
+			<string>ំ</string>
+			<string>ន</string>
+			<string>ួ</string>
+			<string>រ</string>
+		</Stones>
+	</Segment>
+	<Segment SegmentTime="10" spawnIds="81,55,90,60,89,54,84">
+		
+		<MonsterRequiredLetters>
+			<string>ត</string>
+			</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ម</string>
+			<string>ឈ</string>
+			<string>ឈ</string>
+			<string>ម</string>
+			<string>ម</string>
+			<string>ើ</string>
+			<string>ត</string>
+		</Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

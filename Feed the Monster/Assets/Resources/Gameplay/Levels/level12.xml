@@ -1,0 +1,78 @@
+<XMLLevel CollectableMonster="Hypnosis" HideCallout="-1" LettersGroup="2" SegmentTime="11" StoneType="1" monsterInputType="SoundWord">
+  <Segments>
+    <Segment SegmentTime="11" spawnIds="">
+    	
+    	<MonsterRequiredLetters>
+    		<string>រ</string>
+    	<string>ឿ</string><string>ង</string></MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string spawnId="86">យ</string>
+    		<string spawnId="94">រ</string>
+			<string spawnId="87">ឿ</string>
+			<string spawnId="93">ង</string>
+    	</Stones>
+	</Segment>
+	<Segment SegmentTime="11" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>រ</string>
+		<string>ឿ</string><string>ង</string></MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string spawnId="5">ម</string>
+        	<string spawnId="74">រ</string>
+			<string spawnId="4">ឿ</string>
+			<string spawnId="75">ង</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>ល</string>
+	  	<string>ឿ</string><string>ង</string></MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string spawnId="2">ើ</string>
+	        <string spawnId="89">ល</string>
+			<string spawnId="93">ឿ</string>
+			<string spawnId="58">ង</string>
+      	</Stones>
+	</Segment>
+	<Segment SegmentTime="11" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>រ</string>
+	  	<string>ឿ</string><string>ង</string></MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="20">ឈ</string>
+	        <string spawnId="23">រ</string>
+			<string spawnId="9">ឿ</string>
+			<string spawnId="28">ង</string>
+			<string bonusScore="100" spawnId="8">BonusLetter</string>
+			<string bonusScore="100" spawnId="25">BonusLetter</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>រ</string>
+	  	<string>ឿ</string><string>ង</string></MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string spawnId="20">យ</string>
+			<string spawnId="23">រ</string>
+			<string spawnId="9">ឿ</string>
+			<string spawnId="28">ង</string>
+			<string spawnId="8">FireWrongLetter</string>
+			<string spawnId="25">FireWrongLetter</string>
+      	</Stones>
+	</Segment>
+  </Segments>
+</XMLLevel>

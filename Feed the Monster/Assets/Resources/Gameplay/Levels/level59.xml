@@ -1,0 +1,100 @@
+<XMLLevel CollectableMonster="" HideCallout="1" LettersGroup="10" SegmentTime="9" StoneType="1" monsterInputType="Letter">
+  <Segments>
+    <Segment SegmentTime="9" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ំ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="55">ស</string>
+        <string spawnId="21">ស</string>
+        <string spawnId="85">ំ</string>
+		<string spawnId="70">ខ</string>
+		<string spawnId="60">ស</string>
+        <string spawnId="71">ច</string>
+		<string spawnId="88">ខ</string>
+		<string spawnId="22">ស</string>
+		<string spawnId="54">ំ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="55,21,85,70,60,71,88,22,54">
+      
+	  <MonsterRequiredLetters>
+		<string>ខ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>ំ</string>
+        <string>ច</string>
+        <string>ច</string>
+		<string>ច</string>
+		<string>ស</string>
+        <string>ស</string>
+		<string>ំ</string>
+		<string>ខ</string>
+		<string>ខ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ស</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="27">ស</string>
+        <string spawnId="64">ំ</string>
+        <string spawnId="7">ខ</string>
+		<string spawnId="24">ំ</string>
+		<string spawnId="93">ំ</string>
+        <string spawnId="6">ស</string>
+		<string spawnId="29">ស</string>
+		<string spawnId="94">ស</string>
+		<string spawnId="63">ំ</string>
+		<string spawnId="26">ស</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="55,21,85,70,60,71,88,22,54">
+      
+	  <MonsterRequiredLetters>
+		<string>ស</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>ខ</string>
+        <string>ស</string>
+        <string>ស</string>
+		<string>ខ</string>
+		<string>ខ</string>
+		<string>ច</string>
+		<string>ស</string>
+		<string>ស</string>
+		<string>ស</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="55,21,85,70,60,71,88,22,54">
+      
+	  <MonsterRequiredLetters>
+		<string>ស</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>ច</string>
+        <string>ច</string>
+        <string>ស</string>
+		<string>ច</string>
+		<string>ខ</string>
+		<string>ស</string>
+		<string>ស</string>
+		<string>ខ</string>
+		<string>ស</string>
+      </Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>
