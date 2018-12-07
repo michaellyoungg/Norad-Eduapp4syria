@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 52cf617195ac9d842b4ace9bc9451c6b
-timeCreated: 1536331011
+timeCreated: 1544193243
 licenseType: Pro
 TrueTypeFontImporter:
   externalObjects: {}
@@ -13,7 +13,8 @@ TrueTypeFontImporter:
   fontName: Khmer
   fontNames:
   - Khmer
-  fallbackFontReferences: []
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 80918d0d9b5bbc248beb4d5592649c42, type: 3}
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1
