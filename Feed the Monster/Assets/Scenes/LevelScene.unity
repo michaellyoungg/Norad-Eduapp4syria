@@ -66608,7 +66608,7 @@ RectTransform:
   m_GameObject: {fileID: 144}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.4, y: 1.4, z: 1.4}
   m_Children: []
   m_Father: {fileID: 3350}
   m_RootOrder: 3
@@ -74127,7 +74127,7 @@ RectTransform:
   m_GameObject: {fileID: 540}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.3, y: 1.3, z: 1.3}
   m_Children: []
   m_Father: {fileID: 3803}
   m_RootOrder: 3
@@ -88199,7 +88199,7 @@ MonoBehaviour:
   GameFailMusic: {fileID: 8300000, guid: d9e6671c2414c784eab09fa7bcf1c42e, type: 3}
   GameLostFanfare: {fileID: 8300000, guid: fa62a551c3b125f4b829c0a5fd8595fe, type: 3}
   GameWonFanfare: {fileID: 8300000, guid: eb0188a951d327a45adcbfa38e711263, type: 3}
-  SoundEvolve: {fileID: 8300000, guid: b0efec2e9c95342c4afa824596b4ef1f, type: 3}
+  SoundEvolve: {fileID: 8300000, guid: e2f00e336c7a5ed4fb3b231b1fa2e8f7, type: 3}
   SoundScoreCount: {fileID: 8300000, guid: e304589b7b107b349b203d699f2ca5d4, type: 3}
   SoundBarFull: {fileID: 8300000, guid: 42b5ff3aa958df648b6aaedd9bcce607, type: 3}
 --- !u!114 &3864
@@ -89224,7 +89224,7 @@ MonoBehaviour:
   monsterBar: {fileID: 4098}
   ButtonPrevious: {fileID: 1149}
   ButtonNext: {fileID: 1201}
-  InstructionSound: {fileID: 8300000, guid: 09028648c8ad44dd1b76c437a979542e, type: 3}
+  InstructionSound: {fileID: 8300000, guid: a6c543fdee6f28e44acec32aeb7cbcdf, type: 3}
   TouchController: {fileID: 4224}
 --- !u!114 &3922
 MonoBehaviour:
@@ -89759,12 +89759,12 @@ MonoBehaviour:
   Icon_Angry: {fileID: 21300000, guid: efaef7f81cf3ab74e9e8db4dc0d20290, type: 3}
   Icon_Bored: {fileID: 21300000, guid: 9918c2adabd755e4a84f86f422f1f08a, type: 3}
   Icon_Sad: {fileID: 21300000, guid: ed27d389379970341b2c1a2df9cea7ca, type: 3}
-  Title_Angry: {fileID: 21300000, guid: 0d54ba7ffdf81497f8c567eeaf837044, type: 3}
-  Title_Bored: {fileID: 21300000, guid: 39925f0d5bbd24d9284589450aee81ad, type: 3}
-  Title_Sad: {fileID: 21300000, guid: 59953fac3d3c1490baa21018b0a085fa, type: 3}
-  Sound_Angry: {fileID: 8300000, guid: ae051f8a8da9c44a888478917cb2c853, type: 3}
-  Sound_Bored: {fileID: 8300000, guid: 9e11e0648e0844f5cae1f4dcc00e2b72, type: 3}
-  Sound_Sad: {fileID: 8300000, guid: d4c8c358246e94734bf224e470263753, type: 3}
+  Title_Angry: {fileID: 21300000, guid: e1c333f396b5ef64d93bc951adecc1c3, type: 3}
+  Title_Bored: {fileID: 21300000, guid: 94916640860d02e43a4d7bcafbc2eef5, type: 3}
+  Title_Sad: {fileID: 21300000, guid: f58e23cad5a0fda4594a7bcf7ddd6d0c, type: 3}
+  Sound_Angry: {fileID: 8300000, guid: eff1980774631374ea85ef2bed801b0c, type: 3}
+  Sound_Bored: {fileID: 8300000, guid: 9d794ac0b1a256148800d8ccc48f49d9, type: 3}
+  Sound_Sad: {fileID: 8300000, guid: 96d2938de058e214797fbbe9ff754a68, type: 3}
   SadMonster_m1e4: {fileID: 1000010523479964, guid: 54430236950c36e4aaa4567450749765,
     type: 2}
   SadMonster_m2e4: {fileID: 1000011703380614, guid: 7d6ab90f58eb657449515191c62c40fa,
@@ -91554,7 +91554,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5996e848dd6dd95469423bf25979bd27, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TitleSound: {fileID: 8300000, guid: 1cb1260406d1d44ef8186b3de02e57fb, type: 3}
+  TitleSound: {fileID: 8300000, guid: 943aa8aa37616c6458b1c940e13f96c7, type: 3}
   profiles:
   - {fileID: 4512}
   - {fileID: 4886}
@@ -91717,7 +91717,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1fdfab411e49e6943929952cffd569eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MonsterDiscoveredSound: {fileID: 8300000, guid: 7d4b7eb875ccb48909da5f5c520d15a3,
+  MonsterDiscoveredSound: {fileID: 8300000, guid: d5fb15e4a6557fc4a811960fdb5b25cf,
     type: 3}
   FirstHolder: {fileID: 43}
 --- !u!114 &4060
@@ -92054,11 +92054,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   GameOver: 0
   TitleImage: {fileID: 919}
-  TitleSound: {fileID: 8300000, guid: 932935af4ff004beab6580a2712b1637, type: 3}
+  TitleSound: {fileID: 8300000, guid: d1e905d4d052eae4889bf2236cb4a1b8, type: 3}
   VictoryImage: {fileID: 210}
-  VictoryFromAngry: {fileID: 8300000, guid: 9ee2b1ff5a4e546dbab583dac2674466, type: 3}
-  VictoryFromBored: {fileID: 8300000, guid: 9a41a1b17328c416f84d1d1e90a663f6, type: 3}
-  VictoryFromSad: {fileID: 8300000, guid: 6c0955ad620cd4ab98c833d55a96566e, type: 3}
+  VictoryFromAngry: {fileID: 8300000, guid: 812c0fa47760ccc469e8ccda2a2a589b, type: 3}
+  VictoryFromBored: {fileID: 8300000, guid: 661f84e30113f924793018bce79cef3e, type: 3}
+  VictoryFromSad: {fileID: 8300000, guid: 5e0524599f7d94f4da2879326c54ed02, type: 3}
   Cheering: {fileID: 8300000, guid: a99d68238e065df4eba486a3754cb0c0, type: 3}
   PettingZones: {fileID: 1035}
   NeededPats: 5
@@ -92254,7 +92254,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mNextPanelToShow: {fileID: 0}
-  sndRUShure: {fileID: 8300000, guid: e2bcb6c3ea51b4ed2b48722cdf4340e0, type: 3}
+  sndRUShure: {fileID: 8300000, guid: e4efc6d060439c8418468c141a6d9832, type: 3}
 --- !u!114 &4085
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -92377,9 +92377,9 @@ MonoBehaviour:
   TitleImage: {fileID: 280}
   TitleSound: {fileID: 8300000, guid: 8f68e84c9f9694c5ca977d8f4634102f, type: 3}
   VictoryImage: {fileID: 1216}
-  VictoryFromAngry: {fileID: 8300000, guid: 0c7ea90baee0f450ba612b333803195f, type: 3}
-  VictoryFromBored: {fileID: 8300000, guid: cece85b430c4040f2bee348ae9c8d7cb, type: 3}
-  VictoryFromSad: {fileID: 8300000, guid: fdd83221faf064cf58a927536acf418d, type: 3}
+  VictoryFromAngry: {fileID: 8300000, guid: 812c0fa47760ccc469e8ccda2a2a589b, type: 3}
+  VictoryFromBored: {fileID: 8300000, guid: 661f84e30113f924793018bce79cef3e, type: 3}
+  VictoryFromSad: {fileID: 8300000, guid: 5e0524599f7d94f4da2879326c54ed02, type: 3}
   firstShowing: 4
   rotateSpeed: 12
   shakeTime: 0.74
@@ -92390,7 +92390,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: ab0320b88b3847641baf0c539e728c3d, type: 3}
   - {fileID: 21300000, guid: 1a395b0bd64e98246b3979ac29c664fb, type: 3}
   CardFlipSFX: {fileID: 8300000, guid: 4baedfe2ce87a2f4895b818e7e0a5a87, type: 3}
-  CardMatchSFX: {fileID: 0}
+  CardMatchSFX: {fileID: 8300000, guid: 032b25a173aae1d4eaf884cfc65f97e9, type: 3}
   CardNotMatchSFX: {fileID: 8300000, guid: 548d44340415ab44894231158663ca40, type: 3}
   Title: {fileID: 4398}
   cards:
@@ -92415,10 +92415,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 9d98d9459262a294e9ffc2817080a426, type: 2}
   - {fileID: 11400000, guid: a8f3426c71b67254faee58c6ddc62b11, type: 2}
   - {fileID: 11400000, guid: 7825035444aa8f84ea5d85cd62db0391, type: 2}
-  - {fileID: 11400000, guid: 49c285bd6c44bff4fa8ce3cbda14eddf, type: 2}
-  - {fileID: 11400000, guid: c2bffd924bdaa07409d8de34d318511f, type: 2}
-  - {fileID: 11400000, guid: 031684a8f6b40094992854a4c343d7c5, type: 2}
-  - {fileID: 11400000, guid: c6db3046d28402d46842a5d4aa0e928c, type: 2}
   CouplesGroup_3:
   - {fileID: 11400000, guid: 94b9d9dcc368ba747b969a7cad851db3, type: 2}
   - {fileID: 11400000, guid: 35e295315ae00794b837c563deb41a9b, type: 2}
@@ -92428,9 +92424,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: d0e3517cfbea11843a2e07c320e018fc, type: 2}
   - {fileID: 11400000, guid: aee3c9bd81fce2f4a9424f356ac94cf6, type: 2}
   - {fileID: 11400000, guid: 01bb4596467c3354da1466a3eeab5a00, type: 2}
-  - {fileID: 11400000, guid: 69520e1ab092162418a25fc8c15c138e, type: 2}
-  - {fileID: 11400000, guid: daa3b46cf81e0ba41a1bbbff07af9bef, type: 2}
-  - {fileID: 11400000, guid: 201d6bc797f9bd04ab5cc0ed183dc8c7, type: 2}
   CouplesGroup_4:
   - {fileID: 11400000, guid: ed120dc59d7272f4090274df82ad4083, type: 2}
   - {fileID: 11400000, guid: ac7955f0184764843ba46dcf41d227b1, type: 2}
@@ -92438,11 +92431,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 9d5c27b6b187b5f498789012f25e27fe, type: 2}
   - {fileID: 11400000, guid: 67c64afe35c75ab4b95e4a7d3a58f70e, type: 2}
   - {fileID: 11400000, guid: 4c5f0a9b9fec25f41a0ce57961171caa, type: 2}
-  - {fileID: 11400000, guid: 476543213e0c3884980442e453096011, type: 2}
-  - {fileID: 11400000, guid: c7564c789c005864d9885d0eb0638132, type: 2}
-  - {fileID: 11400000, guid: ed7a4c0f223a87b4eaefbf1b5a8ac316, type: 2}
-  - {fileID: 11400000, guid: 6a1179db89b1c8d4b958573bfc2f3bc1, type: 2}
-  - {fileID: 11400000, guid: 858431348c9a9fc40b4fa2a6c0bfcea9, type: 2}
   CouplesGroup_5:
   - {fileID: 11400000, guid: 485ea706244283948bd3b487040782ba, type: 2}
   - {fileID: 11400000, guid: d1123d8a38d04f4449399482feeb37ac, type: 2}
@@ -92451,10 +92439,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: d6670cca00cbce142ad45dc70e155e4a, type: 2}
   - {fileID: 11400000, guid: 97b444218bd1af441986448ad52a53bd, type: 2}
   - {fileID: 11400000, guid: f3d46db3fe0aa8f4585cab065cfa8940, type: 2}
-  - {fileID: 11400000, guid: 1895f2682034d3947b40fb67168b8804, type: 2}
-  - {fileID: 11400000, guid: d056d308adf6c1744b618c358ee878bc, type: 2}
-  - {fileID: 11400000, guid: 161b9e41ec199ae41affb57c33496663, type: 2}
-  - {fileID: 11400000, guid: 44020dd1b91c4d842a3d9073a5179305, type: 2}
   CouplesGroup_6:
   - {fileID: 11400000, guid: 71efd32d0c48dc54a88216419e2f1e71, type: 2}
   - {fileID: 11400000, guid: 0b20234af5618374a83dae8fd3587199, type: 2}
@@ -92462,11 +92446,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 75802e398dd96a34ab932fb329f1d201, type: 2}
   - {fileID: 11400000, guid: afe7ab48de93527499652ca1ddfa9b23, type: 2}
   - {fileID: 11400000, guid: d48d796d942851e48b97e4ee2614527f, type: 2}
-  - {fileID: 11400000, guid: c7353d4c758a14803b8191b500ce6943, type: 2}
-  - {fileID: 11400000, guid: d1de1639fd6272e45879d4620833b72c, type: 2}
-  - {fileID: 11400000, guid: 445f50cdf93a2284c8ad543cbd9a0c3a, type: 2}
-  - {fileID: 11400000, guid: 1019a225afe04a34195c294916322a6c, type: 2}
-  - {fileID: 11400000, guid: 3675faea6a71ba540a32b5b9ce586e00, type: 2}
   FlipParticle: {fileID: 1685696854863294, guid: 198b8377da5357b4e97ac5ed0ca71e7d,
     type: 2}
   MatchParticle: {fileID: 1710243577141352, guid: 450751791dd3c0c4c9091d55d06bb53f,
@@ -92919,9 +92898,9 @@ MonoBehaviour:
   PuzzleCountdown: {fileID: 4083}
   LevelEndPopup: {fileID: 385932676}
   ScreenTransitionEffect: {fileID: 51}
-  DEBUG_ADD_ALL_MONSTERS: 1
+  DEBUG_ADD_ALL_MONSTERS: 0
   DEBUG_CLEAR_PLAYERPREFS: 0
-  DEBUG_OPEN_ALL_LEVELS_PLAYERPREFS: 1
+  DEBUG_OPEN_ALL_LEVELS_PLAYERPREFS: 0
   DEBUG_USU_ONLINE_XMLS: 0
   ClickSound: {fileID: 8300000, guid: 2851a9ddacf9d0045b8ca3a5f55b2213, type: 3}
 --- !u!114 &4097
@@ -94962,7 +94941,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 61afe9f29b53642b8bb1336c65772512, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f58e23cad5a0fda4594a7bcf7ddd6d0c, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -95423,7 +95402,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: ccf82e3a5d38a49dca0f8a5c7866682c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 0a3b1675a259fa74f992c4bc0892722d, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -95771,7 +95750,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 28b216c8cb90c411a83d8a4ae9ab930d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d62d01c4c1851584eb30e74536020a75, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -96374,7 +96353,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: a465d39008e2043b0a22e3efee0f305a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9bc4635d2b6614a42ab375da04ce51fc, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -101223,7 +101202,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 39925f0d5bbd24d9284589450aee81ad, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 94916640860d02e43a4d7bcafbc2eef5, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -106595,7 +106574,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: bcbf798f7575247629543879ae19de45, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 6aec15e111bb6444c869ebdd5bd986f4, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -110574,7 +110553,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 15082c1b3d30f4d0fbc716bb1e1c4714, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4d5138798f471684fb504adb98196ce7, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -115498,7 +115477,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: e3e782f2e3283478d97a96bc3403bbbb, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 59647f565c317a746b2d42ffd4192aa5, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -125433,7 +125412,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: a27217cd0123c4cdc87eaf9e873e026c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8149b6808024d9e4993f3ec9145c0720, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -127867,7 +127846,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 19b98b7e04a0d46ec83ad88d1e75c616, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1c2b564dd0cbb3741bd629b0e0afd882, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -129515,7 +129494,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 8b512780a06ec48278347d41072fdfc3, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e028021bd0898584eb9adb2b9df6a549, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -134666,7 +134645,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 62364bb3ed5d94ad49d6cb2388d316b1, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 705c59066820f3c49baf1254eee7c441, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1

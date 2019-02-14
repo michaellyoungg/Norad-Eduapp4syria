@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://ftm-georgian.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">200309426562</string>
+  <string name="google_storage_bucket" translatable="false">ftm-georgian.appspot.com</string>
+  <string name="project_id" translatable="false">ftm-georgian</string>
+  <string name="google_api_key" translatable="false">AIzaSyDFu-8p-DRpNEKFylwYXk0SXAIaEK7QyKo</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDFu-8p-DRpNEKFylwYXk0SXAIaEK7QyKo</string>
+  <string name="google_app_id" translatable="false">1:200309426562:android:4b0e7d9d7209f565</string>
+  <string name="default_web_client_id" translatable="false">200309426562-8lc4gmk4mbi9ahullak9ppe5i6uj9o6u.apps.googleusercontent.com</string>
+</resources>
