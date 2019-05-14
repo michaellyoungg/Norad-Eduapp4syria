@@ -3,29 +3,29 @@
     <Segment SegmentTime="11" spawnIds="">
     	
     	<MonsterRequiredLetters>
-    		<string>m</string>
-    	<string>aa</string><string>m</string></MonsterRequiredLetters>
+    		<string>s</string>
+    	<string>aa</string><string>n</string></MonsterRequiredLetters>
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string spawnId="86">y</string>
-    		<string spawnId="94">m</string>
+    		<string spawnId="86">m</string>
+    		<string spawnId="94">s</string>
 			<string spawnId="87">aa</string>
-			<string spawnId="93">m</string>
+			<string spawnId="93">n</string>
     	</Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="">
 		
 		<MonsterRequiredLetters>
-			<string>b</string>
-		<string>aa</string><string>t</string></MonsterRequiredLetters>
+			<string>aa</string>
+		<string>y</string></MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string spawnId="5">s</string>
-        	<string spawnId="74">b</string>
+        	<string spawnId="5">m</string>
+        	<string spawnId="74">uu</string>
 			<string spawnId="4">aa</string>
-			<string spawnId="75">t</string>
+			<string spawnId="75">y</string>
       	</Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="">
@@ -61,15 +61,15 @@
 	<Segment SegmentTime="11" spawnIds="">
 		
       	<MonsterRequiredLetters>
-			<string>m</string>
-	  	<string>aa</string><string>m</string></MonsterRequiredLetters>
+			<string>s</string>
+	  	<string>aa</string><string>n</string></MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string spawnId="20">uu</string>
-			<string spawnId="23">m</string>
+			<string spawnId="20">m</string>
+			<string spawnId="23">s</string>
 			<string spawnId="9">aa</string>
-			<string spawnId="28">m</string>
+			<string spawnId="28">n</string>
 			<string spawnId="8">FireWrongLetter</string>
 			<string spawnId="25">FireWrongLetter</string>
       	</Stones>

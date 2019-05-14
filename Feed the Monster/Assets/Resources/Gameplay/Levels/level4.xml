@@ -3,28 +3,28 @@
     <Segment SegmentTime="11" spawnIds="67,45,79">
     	
     	<MonsterRequiredLetters>
-    		<string>ŋ</string>
-    	<string>a</string><string>s</string></MonsterRequiredLetters>
+    		<string>p</string>
+    	<string>a</string><string>nk</string></MonsterRequiredLetters>
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string>ŋ</string>
+    		<string>p</string>
     		<string>a</string>
-    		<string>s</string>
+    		<string>nk</string>
     	</Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="66,36,78">
 		
 		<MonsterRequiredLetters>
-			<string>f</string>
-		<string>a</string><string>n</string><string>n</string></MonsterRequiredLetters>
+			<string>ŋ</string>
+		<string>a</string><string>s</string></MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string>f</string>
+        	<string>ŋ</string>
         	<string>a</string>
-        	<string>n</string>
-      	<string spawnId="26">n</string></Stones>
+        	<string>s</string>
+      	</Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="18,21,26">
 		
@@ -37,19 +37,19 @@
 			<string>f</string>
 	        <string>a</string>
 	        <string>n</string>
-      	<string spawnId="24">n</string></Stones>
+      	<string spawnId="22">n</string></Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="19,22,27">
 		
       	<MonsterRequiredLetters>
-			<string>ŋ</string>
-	  	<string>a</string><string>s</string></MonsterRequiredLetters>
+			<string>a</string>
+	  	<string>m</string></MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>ŋ</string>
+	        <string>l</string>
 	        <string>a</string>
-	        <string>s</string>
+	        <string>m</string>
       	</Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="87,27,26,86">
@@ -64,7 +64,7 @@
 	        <string>a</string>
 	        <string>n</string>
 			<string bonusScore="125">BonusLetter</string>
-      	<string spawnId="30">n</string></Stones>
+      	<string spawnId="28">n</string></Stones>
 	</Segment>
   </Segments>
 </XMLLevel>

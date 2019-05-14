@@ -8,22 +8,22 @@
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string>mp</string>
     		<string>n</string>
+    		<string>nk</string>
 			<string>ng</string>
     	</Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="25,93,6">
 		
 		<MonsterRequiredLetters>
-			<string>ŋ</string>
+			<string>nk</string>
 		</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
         	<string>a</string>
-        	<string>f</string>
-			<string>ŋ</string>
+        	<string>a</string>
+			<string>nk</string>
       	</Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="59,78,6">
@@ -34,8 +34,8 @@
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string>a</string>
-	        <string>r</string>
+			<string>ŋ</string>
+	        <string>ng</string>
 			<string>r</string>
       	</Stones>
 	</Segment>
@@ -47,8 +47,8 @@
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>f</string>
-	        <string>n</string>
+	        <string>r</string>
+	        <string>ng</string>
 			<string>nk</string>
 			
       	</Stones>
@@ -56,14 +56,14 @@
 	<Segment SegmentTime="11" spawnIds="94,93,59,61">
 		
       	<MonsterRequiredLetters>
-			<string>nk</string>
+			<string>ŋ</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>ŋ</string>
-	        <string>f</string>
-			<string>nk</string>
+	        <string>n</string>
+	        <string>ng</string>
+			<string>ŋ</string>
 			<string bonusScore="100">BonusLetter</string>
       	</Stones>
 	</Segment>
