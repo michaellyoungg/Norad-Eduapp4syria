@@ -1,83 +1,74 @@
-<XMLLevel CollectableMonster="" HideCallout="5" LettersGroup="4" SegmentTime="10" StoneType="1" monsterInputType="SoundWord">
+<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="7" SegmentTime="11" StoneType="1" monsterInputType="Letter">
   <Segments>
-    <Segment SegmentTime="10" spawnIds="">
-    	
-    	<MonsterRequiredLetters>
-    		<string>म</string>
-    	<string>े</string><string>ज</string></MonsterRequiredLetters>
-    	<MonsterAllLetters>
-    	</MonsterAllLetters>
-    	<Stones>
-    		<string spawnId="54">ढ</string>
-    		<string spawnId="62">ष</string>
-			<string spawnId="55">ञ</string>
-			<string spawnId="58">म</string>
-			<string spawnId="4">े</string>
-			<string spawnId="5">ज</string>
-    	</Stones>
-	</Segment>
-	<Segment SegmentTime="10" spawnIds="54,62,55,58,4,5">
-		
-		<MonsterRequiredLetters>
-			<string>ट</string>
-		<string>ब</string></MonsterRequiredLetters>
-	  	<MonsterAllLetters>
-	  	</MonsterAllLetters>
-	  	<Stones>
-        	<string>ञ</string>
-        	<string>ज्ञ</string>
-			<string>ष</string>
-			<string>त्र</string>
-			<string>ट</string>
-			<string>ब</string>
-      	</Stones>
+<Segment SegmentTime="11" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>णा</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="4">ढु</string>
+        <string spawnId="54">ना</string>
+		<string spawnId="58">णा</string>
+      </Stones>
     </Segment>
-	<Segment SegmentTime="10" spawnIds="">
-		
-      	<MonsterRequiredLetters>
-			<string>म</string>
-	  	<string>े</string><string>ज</string></MonsterRequiredLetters>
-	  	<MonsterAllLetters>
-	  	</MonsterAllLetters>
-	  	<Stones>
-			<string spawnId="11">ज्ञ</string>
-	        <string spawnId="90">अः</string>
-			<string spawnId="8">क्ष</string>
-			<string spawnId="9">म</string>
-			<string spawnId="12">े</string>
-			<string spawnId="89">ज</string>
-      	</Stones>
-	</Segment>
-	<Segment SegmentTime="10" spawnIds="11,90,8,9,12,89">
-		
-      	<MonsterRequiredLetters>
-			<string>न</string>
-	  	<string>स</string></MonsterRequiredLetters>
-	  	<MonsterAllLetters>
-	  	</MonsterAllLetters>
-	  	<Stones>
-	        <string>ष</string>
-	        <string>क्ष</string>
-			<string>ष</string>
-			<string>ष</string>
-			<string>न</string>
-			<string>स</string>
-      	</Stones>
+
+	<Segment SegmentTime="11" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>था</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="8">ता</string>
+        <string spawnId="9">था</string>
+        <string spawnId="60">तु</string>
+      </Stones>
     </Segment>
-	<Segment SegmentTime="10" spawnIds="">
-		
-      	<MonsterRequiredLetters>
-			<string>ब</string>
-	  	<string>स</string></MonsterRequiredLetters>
-	  	<MonsterAllLetters>
-	  	</MonsterAllLetters>
-	  	<Stones>
-			<string spawnId="59">क्ष</string>
-			<string spawnId="61">ढ</string>
-			<string spawnId="55">ब</string>
-			<string spawnId="54">स</string>
-			<string bonusScore="300" delayIn="1" delayRepet="0" loop="false" spawnId="42,51" speed="150">BonusLetter</string>
-      	</Stones>
-	</Segment>
+	<Segment SegmentTime="11" spawnIds="25,28,93,94">
+      
+	  <MonsterRequiredLetters>
+		<string>नि</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>थी</string>
+        <string>नि</string>
+		<string>ढि</string>
+		<string bonusScore="250">BonusLetter</string>
+      </Stones>
+    </Segment>
+
+<Segment SegmentTime="11" spawnIds="60,8,9">
+      
+	  <MonsterRequiredLetters>
+		<string>धी</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>ढी</string>
+        <string>धी</string>
+		<string>पि</string>
+      </Stones>
+    </Segment>
+
+    <Segment SegmentTime="11" spawnIds="5,55,62">
+      
+	  <MonsterRequiredLetters>
+		<string>धि</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>नी</string>
+		<string>धि</string>
+        <string>ना</string>
+      </Stones>
+    </Segment>
+
   </Segments>
 </XMLLevel>

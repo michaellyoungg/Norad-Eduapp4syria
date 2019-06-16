@@ -1,99 +1,99 @@
-<XMLLevel CollectableMonster="" HideCallout="2" LettersGroup="7" SegmentTime="10" StoneType="1" monsterInputType="SoundWord">
+<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="11" SegmentTime="11" StoneType="1" monsterInputType="Letter">
   <Segments>
-    <Segment SegmentTime="10" spawnIds="5,4,74,75,56,57,87,86,60">
-      
-	  <MonsterRequiredLetters>
-		<string>न</string>
-	  <string>ा</string><string>न</string><string>ा</string></MonsterRequiredLetters>
-	  <MonsterAllLetters>
-	  </MonsterAllLetters>
-	  <Stones>
-        <string>क्ष</string>
-        <string>ढ</string>
-        <string>ज्ञ</string>
-		<string>अः</string>
-		<string>ढ</string>
-		<string>न</string>
-		<string>ा</string>
-		<string>न</string>
-		<string>ा</string>
-      </Stones>
+  		<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>धै</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string spawnId="10">धै</string>
+	        <string spawnId="61">पू</string>
+			<string spawnId="71">डै</string>
+
+			<string spawnId="96">तृ</string>
+			<string spawnId="13">नू</string>
+			<string spawnId="95">थै</string>
+			<string spawnId="55">धृ</string>
+			<string spawnId="70">ने</string>
+      	</Stones>
+	</Segment>
+    <Segment SegmentTime="10" spawnIds="">
+    	
+    	<MonsterRequiredLetters>
+    		<string>नू</string>
+    	</MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string spawnId="87">नू</string>
+			<string spawnId="78">थृ</string>
+    		<string spawnId="64">पू</string>
+			<string spawnId="60">ढृ</string>
+			<string spawnId="36">णू</string>
+			<string spawnId="79">बू</string>
+			<string spawnId="86">नू</string>
+
+			<string spawnId="45">थृ</string>
+    	</Stones>
+	</Segment>
+
+
+	<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>ठै</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="20">ठै</string>
+			<string spawnId="23">ठै</string>
+			<string spawnId="54">धै</string>
+			<string spawnId="55">णृ</string>
+			<string spawnId="58">तू</string>
+
+			<string spawnId="21">Shield</string>
+			<string bonusScore="275" spawnId="22">BonusLetter</string>
+      	</Stones>
     </Segment>
-	<Segment SegmentTime="10" spawnIds="5,4,74,75,56,57,87,86,60">
-      
-	  <MonsterRequiredLetters>
-		<string>क</string>
-	  <string>ा</string><string>न</string></MonsterRequiredLetters>
-	  <MonsterAllLetters>
-	  </MonsterAllLetters>
-	  <Stones>
-        <string>ष</string>
-        <string>क्ष</string>
-        <string>ष</string>
-		<string>क्ष</string>
-		<string>त्र</string>
-		<string>ढ</string>
-		<string>क</string>
-		<string>ा</string>
-		<string>न</string>
-      </Stones>
-    </Segment>
-	<Segment SegmentTime="10" spawnIds="5,4,74,75,56,57,87,86,60">
-      
-	  <MonsterRequiredLetters>
-		<string>न</string>
-	  <string>ा</string><string>न</string><string>ा</string></MonsterRequiredLetters>
-	  <MonsterAllLetters>
-	  </MonsterAllLetters>
-	  <Stones>
-        <string>ष</string>
-        <string>अः</string>
-        <string>अः</string>
-		<string>त्र</string>
-		<string>ञ</string>
-		<string>न</string>
-		<string>ा</string>
-		<string>न</string>
-		<string>ा</string>
-      </Stones>
-    </Segment>
-	<Segment SegmentTime="10" spawnIds="5,4,74,75,56,57,87,86,60">
-      
-	  <MonsterRequiredLetters>
-		<string>ल</string>
-	  <string>ा</string><string>न</string><string>ा</string></MonsterRequiredLetters>
-	  <MonsterAllLetters>
-	  </MonsterAllLetters>
-	  <Stones>
-        <string>ज्ञ</string>
-        <string>ज्ञ</string>
-        <string>ष</string>
-		<string>अः</string>
-		<string>अः</string>
-		<string>ल</string>
-		<string>ा</string>
-		<string>न</string>
-		<string>ा</string>
-      </Stones>
-    </Segment>
-	<Segment SegmentTime="10" spawnIds="5,4,74,75,56,57,87,86,60">
-      
-	  <MonsterRequiredLetters>
-		<string>म</string>
-	  <string>ा</string><string>म</string><string>ा</string></MonsterRequiredLetters>
-	  <MonsterAllLetters>
-	  </MonsterAllLetters>
-	  <Stones>
-        <string>ष</string>
-        <string>ज्ञ</string>
-        <string>ञ</string>
-		<string>ढ</string>
-		<string>ष</string>
-		<string>म</string>
-		<string>ा</string>
-		<string>म</string>
-		<string>ा</string>
-      </Stones>
+	<Segment SegmentTime="10" spawnIds="87,78,64,60,36,79,86,63,45">
+		
+      	<MonsterRequiredLetters>
+			<string>नै</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string>दै</string>
+			<string>ठै</string>
+			<string>डे</string>
+			<string>ठृ</string>
+			<string>पे</string>
+			<string>पे</string>
+			<string>नै</string>
+			<string>ढृ</string>
+			<string>ते</string>
+      	</Stones>
+	</Segment>
+		<Segment SegmentTime="10" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>थै</string>
+		</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string spawnId="18">थै</string>
+			<string spawnId="19">धे</string>
+			<string spawnId="36">थे</string>
+			<string spawnId="45">पृ</string>
+			<string spawnId="57">ने</string>
+			<string spawnId="56">तृ</string>
+			<string spawnId="8">Shield</string>
+			<string bonusScore="275" spawnId="9">BonusLetter</string>
+      	</Stones>
     </Segment>
   </Segments>
 </XMLLevel>

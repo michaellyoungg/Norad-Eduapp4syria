@@ -1,90 +1,80 @@
-<XMLLevel CollectableMonster="" HideCallout="2" LettersGroup="8" SegmentTime="13" StoneType="2" monsterInputType="Word">
-	<Segments>
-		<Segment SegmentTime="13" spawnIds="56,57,74,75">
-			
-			<MonsterRequiredLetters>
-				<string>र</string>
-				<string>ा</string>
-			<string>त</string></MonsterRequiredLetters>
-			<MonsterAllLetters>
-			</MonsterAllLetters>
-			<Stones>
-				<string>ढ</string>
-				<string>र</string>
-				<string>ा</string>
-				<string>त</string>
-				<string bonusScore="275" spawnId="60">BonusLetter</string>
-			</Stones>
+<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="12" SegmentTime="11" StoneType="1" monsterInputType="Letter">
+  <Segments>
+
+<Segment SegmentTime="11" spawnIds="45,79,27">
+      
+	  <MonsterRequiredLetters>
+		<string>भै</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>भै</string>
+        <string>वे</string>
+        <string>वै</string>
+      </Stones>
     </Segment>
-	<Segment SegmentTime="13" spawnIds="28,78,79,36,45">
-		
-		<MonsterRequiredLetters>
-			<string>प</string>
-			<string>ा</string>
-			<string>न</string>
-		<string>ी</string></MonsterRequiredLetters>
-		<MonsterAllLetters>
-		</MonsterAllLetters>
-		<Stones>
-			<string>त्र</string>
-			<string>प</string>
-			<string>ा</string>
-			<string>न</string>
-			<string>ी</string>
-			<string spawnId="25">MagnetLetter</string>
-		</Stones>
+
+
+      <Segment SegmentTime="11" spawnIds="1,22,92">
+      
+	  <MonsterRequiredLetters>
+		<string>वै</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>वै</string>
+        <string>रृ</string>
+        <string>मृ</string>
+      </Stones>
     </Segment>
-	<Segment SegmentTime="13" spawnIds="11,12,89,90,60">
-		
-		<MonsterRequiredLetters>
-			<string>र</string>
-			<string>ा</string>
-		<string>त</string></MonsterRequiredLetters>
-		<MonsterAllLetters>
-		</MonsterAllLetters>
-		<Stones>
-			<string>ढ</string>
-			<string>ढ</string>
-			<string>र</string>
-			<string>ा</string>
-			<string>त</string>
-		</Stones>
+
+
+	<Segment SegmentTime="11" spawnIds="36,78,26">
+      
+	  <MonsterRequiredLetters>
+		<string>यृ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>यृ</string>
+        <string>लू</string>
+        <string>वृ</string>
+      </Stones>
     </Segment>
-	<Segment SegmentTime="13" spawnIds="20,75,74,0,1">
-		
-		<MonsterRequiredLetters>
-			<string>र</string>
-			<string>ा</string>
-			<string>न</string>
-		<string>ी</string></MonsterRequiredLetters>
-		<MonsterAllLetters>
-		</MonsterAllLetters>
-		<Stones>
-			<string>क्ष</string>
-			<string>र</string>
-			<string>ा</string>
-			<string>न</string>
-			<string>ी</string>
-			<string bonusScore="275" spawnId="23">BonusLetter</string>
-		</Stones>
-	</Segment>
-	<Segment SegmentTime="13" spawnIds="95,96,8,9,26">
-		
-		<MonsterRequiredLetters>
-			<string>म</string>
-			<string>ा</string>
-			<string>फ</string>
-		</MonsterRequiredLetters>
-		<MonsterAllLetters>
-		</MonsterAllLetters>
-		<Stones>
-			<string>ञ</string>
-			<string>ढ</string>
-			<string>म</string>
-			<string>ा</string>
-			<string>फ</string>
-			<string spawnId="27">MagnetLetter</string>
-		</Stones>
+
+
+<Segment SegmentTime="11" spawnIds="70,78,71,79">
+      
+	  <MonsterRequiredLetters>
+		<string>भृ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>भै</string>
+        <string>भै</string>
+        <string>भृ</string>
+		<string bonusScore="150">BonusLetter</string>
+      </Stones>
     </Segment>
+
+    <Segment SegmentTime="11" spawnIds="0,91,21">
+      
+	  <MonsterRequiredLetters>
+		<string>वृ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>लै</string>
+        <string>वृ</string>
+        <string>वै</string>
+      </Stones>
+    </Segment>
+
+
   </Segments>
 </XMLLevel>
