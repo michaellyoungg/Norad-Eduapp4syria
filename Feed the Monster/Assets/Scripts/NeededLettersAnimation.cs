@@ -55,7 +55,7 @@ public class NeededLettersAnimation  {
 		switch (GameplayController.Instance.CurrentLevel.monsterInputType) {
 		case MonsterInputType.Letter:
 //			letter = GameplayController.Instance.CurrentSegment.MonsterRequiredLetters [0];
-			letter = GameplayController.Instance.CurrentSegment.GetFixRequiredLetters(0);
+			letter =UnicodeToKrutidev.UnicodeToKrutiDev(GameplayController.Instance.CurrentSegment.GetFixRequiredLetters(0));
 //			letter = ArabicSupport.ArabicFixer.Fix(letter, true, true);
 //			letter = RTL.Fix(letter);
 
@@ -64,11 +64,11 @@ public class NeededLettersAnimation  {
 		case MonsterInputType.LetterInWord:
 			for (int i=0; i< GameplayController.Instance.CurrentSegment.MonsterAllLetters.Length; i++) { //THIS ARRAY RESPONSIBLE FOR RIGHT-TO-LEFT VS. LEFT-TO-RIGHT TEXT
 				//letter = GameplayController.Instance.CurrentSegment.MonsterAllLetters [i];
-				letter = GameplayController.Instance.CurrentSegment.GetFixAllLetters(i);
+				letter = UnicodeToKrutidev.UnicodeToKrutiDev(GameplayController.Instance.CurrentSegment.GetFixAllLetters(i));
 
 				if (letter == "X") {
 					//letter = GameplayController.Instance.CurrentSegment.MonsterRequiredLetters [0];
-					letter = GameplayController.Instance.CurrentSegment.GetFixRequiredLetters(0);
+					letter = UnicodeToKrutidev.UnicodeToKrutiDev(GameplayController.Instance.CurrentSegment.GetFixRequiredLetters(0));
 				}
 
 //				letter = ArabicSupport.ArabicFixer.Fix(letter, true, true);
@@ -90,7 +90,7 @@ public class NeededLettersAnimation  {
 
 			for (int i = 0; i< GameplayController.Instance.CurrentSegment.MonsterRequiredLetters.Length; i++) { //THIS ARRAY RESPONSIBLE FOR RIGHT-TO-LEFT VS. LEFT-TO-RIGHT TEXT
 //				letter = ArabicSupport.ArabicFixer.Fix(GameplayController.Instance.CurrentSegment.MonsterRequiredLetters [i], true, true);
-				letter = GameplayController.Instance.CurrentSegment.GetFixRequiredLetters(i);
+				letter = UnicodeToKrutidev.UnicodeToKrutiDev(GameplayController.Instance.CurrentSegment.GetFixRequiredLetters(i));
 				//letter = RTL.Fix(GameplayController.Instance.CurrentSegment.MonsterRequiredLetters [i]);
 
 				if (i == currentIndex) {
@@ -144,7 +144,7 @@ public class NeededLettersAnimation  {
 		if(GameplayController.Instance.CurrentLevel.monsterInputType == MonsterInputType.Word) {
 			for (int i = 0; i< GameplayController.Instance.CurrentSegment.MonsterRequiredLetters.Length; i++) { //THIS ARRAY RESPONSIBLE FOR RIGHT-TO-LEFT VS. LEFT-TO-RIGHT TEXT
 				//letter = ArabicSupport.ArabicFixer.Fix (GameplayController.Instance.CurrentSegment.MonsterRequiredLetters [i], true, true);
-				letter = RTL.Fix (GameplayController.Instance.CurrentSegment.MonsterRequiredLetters [i]);
+				letter =UnicodeToKrutidev.UnicodeToKrutiDev( RTL.Fix (GameplayController.Instance.CurrentSegment.MonsterRequiredLetters [i]));
 				if (i <= lastIndex) {
 					richTextForUI += StringWithColorTags (StringWithBoldTags (StringWithSizeTags (letter, mDefaultSize)), mController.FontColorWordDefault);
 				} else {
