@@ -12,8 +12,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 0
   companyName: Curious Learning
-  productName: "\u0930\u093E\u0915\u094D\u0937\u0938 \u0915\u094B \u092D\u094B\u091C\u0928
-    \u0916\u093F\u0932\u093E\u0913"
+  productName: "\u0628\u0644\u0627 \u062A\u0647 \u062E\u0648\u0627\u0693\u0647 \u0648\u0631\u06A9\u0693\u0626!"
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -129,7 +128,7 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
-  bundleVersion: 1.41
+  bundleVersion: 1.23
   preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -161,14 +160,14 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.eduapp4syria.feedthemonsterHindi
+    Android: com.eduapp4syria.feedthemonsterPashto
     Standalone: unity.Curious Learning.Feed The Monster
     Tizen: com.eduapp4syria.feedthemonsterENGLISH
     iOS: com.eduapp4syria.feedthemonsterENGLISH
     tvOS: com.eduapp4syria.feedthemonsterENGLISH
   buildNumber:
     iOS: 0
-  AndroidBundleVersionCode: 41
+  AndroidBundleVersionCode: 23
   AndroidMinSdkVersion: 16
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 0
@@ -257,9 +256,9 @@ PlayerSettings:
   tvOSManualSigningProvisioningProfileID: 
   appleEnableAutomaticSigning: 0
   clonedFromGUID: 00000000000000000000000000000000
-  AndroidTargetArchitectures: 5
+  AndroidTargetArchitectures: 3
   AndroidSplashScreenScale: 2
-  androidSplashScreen: {fileID: 2800000, guid: bb27f6b4419d6154795b14cc4cdb1782, type: 3}
+  androidSplashScreen: {fileID: 0}
   AndroidKeystoreName: C:/Users/willo/Downloads/egt.keystore
   AndroidKeyaliasName: egt
   AndroidTVCompatibility: 0
@@ -277,11 +276,14 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: b6f1f78411baeea4b86b131a26ea3e9d, type: 3}
+      m_Icon: {fileID: 2800000, guid: 506045e8cbb507248abea38d90c02281, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0
-  m_BuildTargetBatching: []
+  m_BuildTargetBatching:
+  - m_BuildTarget: Android
+    m_StaticBatching: 1
+    m_DynamicBatching: 1
   m_BuildTargetGraphicsAPIs: []
   m_BuildTargetVRSettings:
   - m_BuildTarget: Android
@@ -620,8 +622,7 @@ PlayerSettings:
   psmSplashimage: {fileID: 0}
   splashScreenBackgroundSourceLandscape: {fileID: 21300000, guid: bb27f6b4419d6154795b14cc4cdb1782,
     type: 3}
-  splashScreenBackgroundSourcePortrait: {fileID: 21300000, guid: bb27f6b4419d6154795b14cc4cdb1782,
-    type: 3}
+  splashScreenBackgroundSourcePortrait: {fileID: 0}
   spritePackerPolicy: DefaultPackerPolicy
   webGLMemorySize: 256
   webGLExceptionSupport: 1
@@ -648,7 +649,7 @@ PlayerSettings:
   platformArchitecture:
     iOS: 2
   scriptingBackend:
-    Android: 0
+    Android: 1
     Standalone: 0
     WebPlayer: 0
     iOS: 1

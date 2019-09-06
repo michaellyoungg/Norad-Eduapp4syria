@@ -4,14 +4,14 @@
 <Segment SegmentTime="11" spawnIds="">
 		
 		<MonsterRequiredLetters>
-			<string>गी</string>
+			<string>ځ</string>
 		</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string spawnId="76">गी</string>
-        	<string spawnId="71">खि</string>
-			<string spawnId="79">गी</string>
+        	<string spawnId="76">و</string>
+        	<string spawnId="71">ړ</string>
+			<string spawnId="79">ځ</string>
 			<string bonusScore="100" spawnId="70">BonusLetter</string>
 			<string bonusScore="100" spawnId="78">BonusLetter</string>
       	</Stones>
@@ -19,15 +19,15 @@
 <Segment SegmentTime="11" spawnIds="">
 		
       	<MonsterRequiredLetters>
-			<string>खा</string>
+			<string>ش</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string spawnId="0">खा</string>
-	        <string spawnId="57">घा</string>
-	        <string spawnId="56">खि</string>
-			<string spawnId="1">घु</string>
+	        <string spawnId="0">ش</string>
+	        <string spawnId="57">ۍ</string>
+	        <string spawnId="56">پ</string>
+			<string spawnId="1">ځ</string>
 
       	</Stones>
 	</Segment>
@@ -36,30 +36,30 @@
     <Segment SegmentTime="11" spawnIds="">
     	
     	<MonsterRequiredLetters>
-    		<string>गा</string>
+    		<string>و</string>
     	</MonsterRequiredLetters>
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string spawnId="89">गा</string>
-    		<string spawnId="80">गि</string>
+    		<string spawnId="89">و</string>
+    		<string spawnId="80">ځ</string>
 
-			<string spawnId="77">गी</string>
+			<string spawnId="77">و</string>
     	</Stones>
 	</Segment>
 
 	<Segment SegmentTime="11" spawnIds="">
 		
       	<MonsterRequiredLetters>
-			<string>खु</string>
+			<string>ړ</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string spawnId="76">गा</string>
-	        <string spawnId="73">गु</string>
-	        <string spawnId="7">खु</string>
-			<string spawnId="9">घी</string>
+			<string spawnId="76">ړ</string>
+	        <string spawnId="73">و</string>
+	        <string spawnId="7">ړ</string>
+			<string spawnId="9">ځ</string>
 
 
       	</Stones>
@@ -67,15 +67,15 @@
 	<Segment SegmentTime="11" spawnIds="5,4,78,79">
 		
       	<MonsterRequiredLetters>
-			<string>गु</string>
+			<string>ج</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>गु</string>
-	        <string>गी</string>
-	        <string>गु</string>
-			<string>कि</string>
+	        <string>ش</string>
+	        <string>ج</string>
+	        <string>ج</string>
+			<string>ج</string>
       	</Stones>
     </Segment>
 
