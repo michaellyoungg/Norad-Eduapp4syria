@@ -2,13 +2,15 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
+using IndieStudio.EnglishTracingBook.Game;
 
 public class LetterTracingGame : BaseMiniGame
 {
 	public static LetterTracingGame Instance;
 
 
-	public TR_GameManager GameManager;
+	public GameManager GameManager;
 
 	public Image Title;
 	public AudioClip StartTraceingSound;
@@ -51,7 +53,7 @@ public class LetterTracingGame : BaseMiniGame
 
 	// Use this for initialization
 	void Start () {
-		GameManager.onComplete = complete;
+		//GameManager.onComplete = complete;
 	}
 
 	void OnEnable()
@@ -61,12 +63,12 @@ public class LetterTracingGame : BaseMiniGame
 			Title.gameObject.SetActive (true);
 			//Title.gameObject.GetComponent<UIPopInOut> ().PopIn ();
 		}
-		GameManager.DestroyOldShape ();
+		//GameManager.DestroyOldShape ();
 
 		UpdateLettersForGroup ();
 		FillStones ();
 
-		Invoke("initStones", 1.5f);
+	//	Invoke("initStones", 1.5f);
 		Analitics.Instance.treckScreen ("Letter Tracing - Profile: " + UsersController.Instance.CurrentProfileId);
 	}
 
@@ -96,6 +98,7 @@ public class LetterTracingGame : BaseMiniGame
 
 	public override void init (Monster monster)
 	{
+        SceneManager.LoadScene(1);
 		base.init (monster);
 	}
 
@@ -213,9 +216,9 @@ public class LetterTracingGame : BaseMiniGame
 	void onStoneLocated() {
 		LetterTracingStone lts = Stones [currentStone];
 		lts.onCompleteGame = null;
-
-		GameManager.loadShape (lts.shape);
-		lts.shape.init ();
+     //   GameManager.Init();
+	//	GameManager.loadShape (lts.shape);
+	//	lts.shape.init ();
 		if (AudioController.Instance) {
 			AudioController.Instance.PlaySound (StartTraceingSound);
 		}
@@ -225,7 +228,7 @@ public class LetterTracingGame : BaseMiniGame
 	{
 		LetterTracingStone lts = Stones [currentStone];
 		lts.onCompleteIdle = null;
-		lts.shape.DisableTracingHand ();
+	//	lts.shape.DisableTracingHand ();
 
 		currentStone++;
 

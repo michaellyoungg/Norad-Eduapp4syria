@@ -12,8 +12,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 0
   companyName: Curious Learning
-  productName: "\u04B2\u0430\u0440\u0444\u0445\u04EF\u0440\u0430\u043A\u0440\u043E
-    \u0441\u0435\u0440 \u043A\u0443\u043D!"
+  productName: "\u041C\u0430\u0440\u043E \u0441\u0435\u0440 \u043A\u0443\u043D!"
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -129,7 +128,7 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
-  bundleVersion: 1.3
+  bundleVersion: 83
   preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -158,7 +157,7 @@ PlayerSettings:
   m_ColorGamuts: 00000000
   targetPixelDensity: 30
   resolutionScalingMode: 0
-  androidSupportedAspectRatio: 1
+  androidSupportedAspectRatio: 0
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
     Android: com.eduapp4syria.feedthemonsterTajik
@@ -168,7 +167,7 @@ PlayerSettings:
     tvOS: com.eduapp4syria.feedthemonsterENGLISH
   buildNumber:
     iOS: 0
-  AndroidBundleVersionCode: 3
+  AndroidBundleVersionCode: 83
   AndroidMinSdkVersion: 16
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 0
@@ -257,9 +256,9 @@ PlayerSettings:
   tvOSManualSigningProvisioningProfileID: 
   appleEnableAutomaticSigning: 0
   clonedFromGUID: 00000000000000000000000000000000
-  AndroidTargetArchitectures: 5
+  AndroidTargetArchitectures: 3
   AndroidSplashScreenScale: 2
-  androidSplashScreen: {fileID: 2800000, guid: bb27f6b4419d6154795b14cc4cdb1782, type: 3}
+  androidSplashScreen: {fileID: 0}
   AndroidKeystoreName: C:/Users/willo/Downloads/egt.keystore
   AndroidKeyaliasName: egt
   AndroidTVCompatibility: 0
@@ -620,8 +619,7 @@ PlayerSettings:
   psmSplashimage: {fileID: 0}
   splashScreenBackgroundSourceLandscape: {fileID: 21300000, guid: bb27f6b4419d6154795b14cc4cdb1782,
     type: 3}
-  splashScreenBackgroundSourcePortrait: {fileID: 21300000, guid: bb27f6b4419d6154795b14cc4cdb1782,
-    type: 3}
+  splashScreenBackgroundSourcePortrait: {fileID: 0}
   spritePackerPolicy: DefaultPackerPolicy
   webGLMemorySize: 256
   webGLExceptionSupport: 1
@@ -648,7 +646,7 @@ PlayerSettings:
   platformArchitecture:
     iOS: 2
   scriptingBackend:
-    Android: 0
+    Android: 1
     Standalone: 0
     WebPlayer: 0
     iOS: 1

@@ -13,6 +13,9 @@ TagManager:
   - Fill
   - Monster
   - BonusLevelStone
+  - Point
+  - Line
+  - Message
   layers:
   - Default
   - TransparentFX
@@ -27,7 +30,7 @@ TagManager:
   - 
   - UI Canvas
   - UI MiniGame
-  - 
+  - toplayer
   - 
   - 
   - 
@@ -49,4 +52,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: middle
+    uniqueID: 2725852567
+    locked: 0
+  - name: end
+    uniqueID: 894606269
     locked: 0

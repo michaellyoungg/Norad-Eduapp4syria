@@ -74,6 +74,7 @@ public class BaseMiniGame : MonoBehaviour {
 	public virtual void init (Monster monster)
 	{
 		CurrentMonster = monster;
+        if (animController != null )
 
 		animController.SetBool ("IsMiniGame", true);
 	}

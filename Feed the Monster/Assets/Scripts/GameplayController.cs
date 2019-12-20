@@ -10,11 +10,14 @@ using System.Text;
 public class GameplayController : MonoBehaviour {
 
 	public static GameplayController Instance;
-	//	[System.Serializable]
-//	public struct LetterRecognitionStrcut{
-//		public string Letter;
-//		public string Variants; // seperated with commas
-//	}
+    //	[System.Serializable]
+    //	public struct LetterRecognitionStrcut{
+    //		public string Letter;
+    //		public string Variants; // seperated with commas
+    //	}
+    float aspect;
+    public RectTransform canvb;
+    public RectTransform bstrobj;
 
 	public struct GameplayPositionStruct {
 		public int LevelIndex;
@@ -396,7 +399,9 @@ public class GameplayController : MonoBehaviour {
 	void Awake()
 	{
 		Instance = this;
-		_levels = new Level[NumOfLevels];
+       
+
+        _levels = new Level[NumOfLevels];
 	}
 
 	public void SetState(GameState state)
@@ -920,8 +925,23 @@ public class GameplayController : MonoBehaviour {
 	}
 */
 	void Update () {
+        //Screen.SetResolution(Screen.height * 16 / 9, Screen.height, true);
 
-		if (!IsPause && !IsPausePopup) {
+         aspect = (float)Screen.height / (float)Screen.width;
+        if (aspect > 1.8f)
+        {
+           canvb.localScale = new Vector3(.8f, 1f, 1f);
+            bstrobj.localScale = new Vector3(1f, 1f, 1f);
+
+        }
+        else
+        {
+            canvb.localScale = new Vector3(1f, 1f, 1f);
+            bstrobj.localScale = new Vector3(1.25f, 1f, 1f);
+        }
+
+
+        if (!IsPause && !IsPausePopup) {
 			if (SegmentToLoad > -1) {
 				LoadSegment (SegmentToLoad);
 				SegmentToLoad = -1;
@@ -1110,7 +1130,7 @@ public class GameplayController : MonoBehaviour {
 	void PlayPositive()
 	{
 		string fileName = AudioController.Instance.PlayFeedback ("positive");
-		ShowPositive (fileName);
+		//ShowPositive (fileName);
 	}
 
 	void ShowPositive(string fileName)

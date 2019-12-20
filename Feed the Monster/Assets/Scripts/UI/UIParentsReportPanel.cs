@@ -75,7 +75,7 @@ public class UIParentsReportPanel : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
-		
+
 	}
 
 	void updateProfile()
@@ -133,7 +133,7 @@ public class UIParentsReportPanel : MonoBehaviour {
 		StartCoroutine (updateSlider (sliderLetter, (int)((avarage * 100) / 3)));
 
 		i1 = getAvarage (scoreSyllable);
-		StartCoroutine (updateSlider (sliderSyllable, (int)((i1 * 100) / 3)));
+		//StartCoroutine (updateSlider (sliderSyllable, (int)((i1 * 100) / 3)));
 
 		i1 = getAvarage (scoreWord);
 		i2 = getAvarage (scoreWordSound);
@@ -185,12 +185,12 @@ public class UIParentsReportPanel : MonoBehaviour {
 			if (s.Value > stars) {
 				v = s.Value - 1;
 				if (v <= stars) {
-					v = stars; 
+					v = stars;
 				}
 			} else {
 				v = s.Value + 1;
 				if (v >= stars) {
-					v = stars; 
+					v = stars;
 				}
 			}
 			s.Value = (int)v;

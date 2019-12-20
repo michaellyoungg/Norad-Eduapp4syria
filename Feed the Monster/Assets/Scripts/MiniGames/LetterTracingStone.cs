@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using IndieStudio.EnglishTracingBook.Game;
 
 public class LetterTracingStone : MonoBehaviour {
 
@@ -21,17 +22,17 @@ public class LetterTracingStone : MonoBehaviour {
 
 	bool isInGame = false;
 
-	TR_Shape _shape;
+	Shape _shape;
 	Vector3 mShapeInitPosition;
 	Vector3 mShapeInitScale;
 
 
 
-	public TR_Shape shape
+	public Shape shape
 	{
 		get { 
 			if (_shape == null) {
-				_shape = gameObject.GetComponentInChildren<TR_Shape> ();
+				_shape = gameObject.GetComponentInChildren<Shape> ();
 				mShapeInitPosition = _shape.transform.localPosition;
 				mShapeInitScale = _shape.transform.localScale;
 			}
@@ -145,7 +146,7 @@ public class LetterTracingStone : MonoBehaviour {
 
 	void onIdle()
 	{
-		shape.DisableTracingHand ();
+	//	shape.DisableTracingHand ();
 		if (onCompleteIdle != null) {
 			onCompleteIdle ();
 		}

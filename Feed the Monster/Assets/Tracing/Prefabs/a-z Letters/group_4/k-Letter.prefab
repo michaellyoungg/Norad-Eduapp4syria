@@ -397,7 +397,17 @@ PolygonCollider2D:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_UsedByEffector: 0
+  m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
   m_Points:
     m_Paths:
     - - {x: 31.48384, y: -9.28421}
@@ -418,7 +428,17 @@ PolygonCollider2D:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_UsedByEffector: 0
+  m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
   m_Points:
     m_Paths:
     - - {x: -0.36499998, y: -0.825}
@@ -483,9 +503,20 @@ BoxCollider2D:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_UsedByEffector: 0
+  m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 80, y: 100}
+  m_EdgeRadius: 0
 --- !u!61 &6162400
 BoxCollider2D:
   m_ObjectHideFlags: 1
@@ -497,9 +528,20 @@ BoxCollider2D:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_UsedByEffector: 0
+  m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 80, y: 80}
+  m_EdgeRadius: 0
 --- !u!95 &9504496
 Animator:
   serializedVersion: 3
@@ -630,16 +672,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2bac5527831cd344aa5767a711ab6dce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flip: 0
   completed: 0
   fillMethod: 1
-  type: 1
-  offset: 90
   completeOffset: 0.9
   firstNumber: {fileID: 22452630}
   secondNumber: {fileID: 22467488}
-  quarterRestriction: 1
-  radialAngleOffset: 0
+  shape: {fileID: 0}
+  curve: {fileID: 0}
+  fillImage: {fileID: 0}
+  tracedPoints: 0
+  line: {fileID: 0}
+  from: 0
+  to: 0
 --- !u!114 &11411140
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -692,16 +736,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2bac5527831cd344aa5767a711ab6dce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flip: 0
   completed: 0
   fillMethod: 1
-  type: 1
-  offset: 90
   completeOffset: 0.8
   firstNumber: {fileID: 22406702}
   secondNumber: {fileID: 22494620}
-  quarterRestriction: 1
-  radialAngleOffset: 0
+  shape: {fileID: 0}
+  curve: {fileID: 0}
+  fillImage: {fileID: 0}
+  tracedPoints: 0
+  line: {fileID: 0}
+  from: 0
+  to: 0
 --- !u!114 &11422820
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -863,16 +909,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2bac5527831cd344aa5767a711ab6dce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flip: 0
   completed: 0
   fillMethod: 1
-  type: 1
-  offset: 90
   completeOffset: 0.9
   firstNumber: {fileID: 22487482}
   secondNumber: {fileID: 22430442}
-  quarterRestriction: 1
-  radialAngleOffset: 0
+  shape: {fileID: 0}
+  curve: {fileID: 0}
+  fillImage: {fileID: 0}
+  tracedPoints: 0
+  line: {fileID: 0}
+  from: 0
+  to: 0
 --- !u!114 &11465860
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1047,12 +1095,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b31037bae107944fad0dbab876dcba1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  paths:
-  - {fileID: 11404398}
-  - {fileID: 11461756}
-  - {fileID: 11414506}
-  clip: {fileID: 8300000, guid: 05f8e633b82ea4c14ab30efc17b641b2, type: 3}
+  tracingPaths: []
   completed: 0
+  enablePriorityOrder: 1
+  animator: {fileID: 0}
+  content: {fileID: 0}
+  ID: 0
 --- !u!114 &11495306
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1076,6 +1124,7 @@ SpriteRenderer:
   m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -1091,17 +1140,25 @@ SpriteRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
   m_SelectedEditorRenderState: 0
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
+  m_SortingLayer: 0
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 2cf24b48ab28d8c44b9d94d77cd2e155, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 5.12, y: 5.12}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
 --- !u!222 &22201594
 CanvasRenderer:
   m_ObjectHideFlags: 1

@@ -1,0 +1,344 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1883420047044584}
+  m_IsPrefabParent: 1
+--- !u!1 &1883420047044584
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4200517131092504}
+  - component: {fileID: 114527070345838834}
+  m_Layer: 5
+  m_Name: MShapesManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &4200517131092504
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1883420047044584}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114527070345838834
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1883420047044584}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42a276494aba161438d5def8e1b5ecbf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shapes:
+  - showContents: 1
+    prefab: {fileID: 1601480933511714, guid: ece06897810cbbb4594af023a8400f9f, type: 2}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 08c0381bafc951a47b0e199be8120bcb, type: 3}
+    starsTimePeriod: 15
+    starsNumber: 0
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1918157884240684, guid: 125e1ab20661fca438ac9b65fd7c9c8d, type: 2}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 80ab7f8a5930b3e43beb2d30b0ad7944, type: 3}
+    starsTimePeriod: 15
+    starsNumber: 0
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1865625351971096, guid: ccdce7eb0e0f3e248abf8e3d9d987af5, type: 2}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: f74a6acc695c6c64fa1e11e6815d6ec8, type: 3}
+    starsTimePeriod: 15
+    starsNumber: 0
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1601207287551622, guid: 18ddd724028984b4a8b9079f0b8c386d, type: 2}
+    picture: {fileID: 0}
+    clip: {fileID: 0}
+    starsTimePeriod: 15
+    starsNumber: 0
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1418873276335432, guid: 16b390f7d00e66a48ab541d7d55fe347, type: 2}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 21d9b00adde929240a74a6732351e56c, type: 3}
+    starsTimePeriod: 15
+    starsNumber: 0
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1147271880572542, guid: 25e6a978116b0284e89d064b3a00a35e, type: 2}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 357ff2d5796cbbf4d9704318f53d1ffc, type: 3}
+    starsTimePeriod: 15
+    starsNumber: 0
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1636530842066792, guid: 836c799ff8aee7d4b90a97b4e53ea37f, type: 2}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: d4dd11b0f053468418611590624c791d, type: 3}
+    starsTimePeriod: 15
+    starsNumber: 0
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1227328805999044, guid: bb9cd8cde7b6c49489827f85c78843ea, type: 2}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: c3e027c7a3a6e434eb65503b48567e1f, type: 3}
+    starsTimePeriod: 15
+    starsNumber: 0
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1560653532205834, guid: 9845c24a3f61e54419ee0f04ead243fd, type: 2}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 21b2b84d6276f894cb730a0b90f32028, type: 3}
+    starsTimePeriod: 15
+    starsNumber: 0
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1183418543585536, guid: e33c4e5f83a2b3843bb1371aba08fe63, type: 2}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 3154bd82ebc21914ab4a4e2c7fd424b3, type: 3}
+    starsTimePeriod: 15
+    starsNumber: 0
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1735119090415150, guid: 52c9f4351bfc6764f88cccb0a1af9ab6, type: 2}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 52b53f5cb53651741b7efb6d51f06795, type: 3}
+    starsTimePeriod: 15
+    starsNumber: 0
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1220301494595390, guid: f708300fae26f0d4eae8f16f768c4139, type: 2}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: ef8d8582cec832a4994fd4c9092eaf61, type: 3}
+    starsTimePeriod: 15
+    starsNumber: 0
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1259508362482772, guid: 1247d965521fc6c4f9ceb8173a6eed1a, type: 2}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 4d7efec0e87d4fc4c97070a12a737edc, type: 3}
+    starsTimePeriod: 15
+    starsNumber: 0
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1867074450001672, guid: 8e0e04a587b222a438c7c0a395f01cb0, type: 2}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 4dad304b2802a6b409e4c9a579b28831, type: 3}
+    starsTimePeriod: 15
+    starsNumber: 2
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1549869616957616, guid: 52ce96ba54a01504292d3b5e5e1c75d9, type: 2}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: ec052b0e8ccdfe8488a6e4ebfded9715, type: 3}
+    starsTimePeriod: 15
+    starsNumber: 3
+    ID: -1
+    isLocked: 0
+  - showContents: 1
+    prefab: {fileID: 1130269650914354, guid: ad501f269c0e39d4393cbcfba7f8a4a2, type: 2}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 1f61e156345858647afef7bf448e6421, type: 3}
+    starsTimePeriod: 15
+    starsNumber: 3
+    ID: -1
+    isLocked: 0
+  - showContents: 1
+    prefab: {fileID: 1399881998177440, guid: b5d69d46259d7364a8fd754e8f72dedf, type: 2}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 174b7aac6b2dcbb438ef0cb3458e4ec5, type: 3}
+    starsTimePeriod: 15
+    starsNumber: 3
+    ID: -1
+    isLocked: 0
+  - showContents: 1
+    prefab: {fileID: 1624998863692010, guid: f95f4540c7782b8459266254c9c02ba4, type: 2}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: f37a5505a36b69c4e81496cee5bca3e2, type: 3}
+    starsTimePeriod: 15
+    starsNumber: 3
+    ID: -1
+    isLocked: 0
+  - showContents: 1
+    prefab: {fileID: 1215587245157490, guid: 44c24705c1d9ca048ac483c1672bda20, type: 2}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: d092377e40fcfa24cb54be9f7a7d1368, type: 3}
+    starsTimePeriod: 15
+    starsNumber: 3
+    ID: -1
+    isLocked: 0
+  - showContents: 1
+    prefab: {fileID: 1249258472470452, guid: 741924173f6f793458c458b11850d9ba, type: 2}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 05f6394a5618d884698e4a53abbc6405, type: 3}
+    starsTimePeriod: 15
+    starsNumber: 3
+    ID: -1
+    isLocked: 0
+  - showContents: 1
+    prefab: {fileID: 1545579476891798, guid: 4d1f7107543f6da438f9eb1a9fb99388, type: 2}
+    picture: {fileID: 0}
+    clip: {fileID: 0}
+    starsTimePeriod: 15
+    starsNumber: 3
+    ID: -1
+    isLocked: 0
+  - showContents: 1
+    prefab: {fileID: 1402955974207202, guid: 98905df582057d44597873794e972c12, type: 2}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 6c59aede6fb61d74aa214f80176bf554, type: 3}
+    starsTimePeriod: 15
+    starsNumber: 3
+    ID: -1
+    isLocked: 0
+  - showContents: 1
+    prefab: {fileID: 1292556404849096, guid: 13cc23bed7354404aa05989bed1a6be6, type: 2}
+    picture: {fileID: 21300000, guid: 0474906e0dff69f41a3e196284043bb2, type: 3}
+    clip: {fileID: 8300000, guid: f5e37885c02923f4d884f55a235e7a57, type: 3}
+    starsTimePeriod: 15
+    starsNumber: 3
+    ID: -1
+    isLocked: 0
+  - showContents: 1
+    prefab: {fileID: 1816484437925360, guid: 4e3c09ccf4a618c4c83ccf59df428611, type: 2}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 47a5e570e8b396548abcffc30f3c8baa, type: 3}
+    starsTimePeriod: 15
+    starsNumber: 3
+    ID: -1
+    isLocked: 0
+  - showContents: 1
+    prefab: {fileID: 1998790663397274, guid: b9e42a80581ee3d43bb665440cf1196e, type: 2}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 2765bddf204bdd54d95df173b3234f26, type: 3}
+    starsTimePeriod: 15
+    starsNumber: 0
+    ID: -1
+    isLocked: 0
+  - showContents: 1
+    prefab: {fileID: 1408996344806120, guid: 212854963de33044482284eb9d654226, type: 2}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 2c7f73475a523424fb9413fe19b3b241, type: 3}
+    starsTimePeriod: 15
+    starsNumber: 0
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1023127885691750, guid: f145692b6bc66704d91e4c67cf65435b, type: 2}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: ca09633bf99cd3644852b4f269f31b93, type: 3}
+    starsTimePeriod: 15
+    starsNumber: 0
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1001048979130000, guid: 0ff07e28b0de1664ea49faf5d1777e71, type: 2}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: d730ea91b803b92468bdc34c4d0ae2ce, type: 3}
+    starsTimePeriod: 15
+    starsNumber: 0
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1921215637959330, guid: 2f9d237be5168cc448c6c163cee55d7b, type: 2}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 23949a71f05488148af82e66c45b8a87, type: 3}
+    starsTimePeriod: 15
+    starsNumber: 0
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1998537265537846, guid: 7de955763bdad1849aee7d4b035db8db, type: 2}
+    picture: {fileID: 21300000, guid: 46a8b855e5ede5346aac4920b79e72d1, type: 3}
+    clip: {fileID: 8300000, guid: 56459c45a542dd64d802c37752b47f0e, type: 3}
+    starsTimePeriod: 15
+    starsNumber: 0
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1187589312067898, guid: 7df2e42e04ba8784bb1e9a103bfce1b2, type: 2}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: fb1e7282aa380f6419505b3e3eda28a4, type: 3}
+    starsTimePeriod: 15
+    starsNumber: 0
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1226635594363902, guid: 96a2915ded504ef4191cf12c027439bc, type: 2}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: d9846875fef59db49a4666494efe0cda, type: 3}
+    starsTimePeriod: 15
+    starsNumber: 0
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1040701607122738, guid: 639914b2c6f0c724fb3577593e243e8d, type: 2}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 143e2a490e20798478fade86111fbd90, type: 3}
+    starsTimePeriod: 15
+    starsNumber: 0
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1019999453864306, guid: 9d15294b907bc034985a7d617dc974c3, type: 2}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: fcd3448c1b4473445876cf6ba384347f, type: 3}
+    starsTimePeriod: 15
+    starsNumber: 0
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1999691665798362, guid: 86d32ab5110a5ef4fac92d2be0e061ad, type: 2}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 5ce11f10ec6543a44bd7491055e599a9, type: 3}
+    starsTimePeriod: 15
+    starsNumber: 0
+    ID: -1
+    isLocked: 1
+  shapeLabel: Letter
+  shapePrefix: Uppercase
+  sceneName: Album
+  albumTitle: {fileID: 21300000, guid: 303aac757e24e764a9fbdb975de8afad, type: 3}
+  albumShapeScaleFactor: 0.7
+  lineWidthFactor: 0.5
+  lastSelectedGroup: 5
+  tracingMode: 1
+  testMode: 1
+  enableTracingLimit: 1

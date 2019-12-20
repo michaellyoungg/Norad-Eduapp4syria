@@ -58,7 +58,7 @@ public class UIController : MonoBehaviour {
 		Instance = this;
 		Application.runInBackground = false;
 		Input.multiTouchEnabled = false;
-
+        
 		HideAllPanels();
 	}
 
