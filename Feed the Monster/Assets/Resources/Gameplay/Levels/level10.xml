@@ -4,14 +4,14 @@
 <Segment SegmentTime="11" spawnIds="45,79,27">
       
 	  <MonsterRequiredLetters>
-		<string>इ</string>
+		<string>105</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 	  </MonsterAllLetters>
 	  <Stones>
-        <string>इ</string>
-        <string>आ</string>
-        <string>ऐ</string>
+        <string>105</string>
+        <string>105</string>
+        <string>101</string>
       </Stones>
     </Segment>
 
@@ -19,14 +19,14 @@
       <Segment SegmentTime="11" spawnIds="1,22,92">
       
 	  <MonsterRequiredLetters>
-		<string>उ</string>
+		<string>100</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 	  </MonsterAllLetters>
 	  <Stones>
-        <string>उ</string>
-        <string>अ</string>
-        <string>ओ</string>
+        <string>100</string>
+        <string>102</string>
+        <string>100</string>
       </Stones>
     </Segment>
 
@@ -34,14 +34,14 @@
 	<Segment SegmentTime="11" spawnIds="36,78,26">
       
 	  <MonsterRequiredLetters>
-		<string>ऋ</string>
+		<string>97</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 	  </MonsterAllLetters>
 	  <Stones>
-        <string>ऋ</string>
-        <string>ऋ</string>
-        <string>ऋ</string>
+        <string>97</string>
+        <string>99</string>
+        <string>100</string>
       </Stones>
     </Segment>
 
@@ -49,14 +49,14 @@
 <Segment SegmentTime="11" spawnIds="70,78,71,79">
       
 	  <MonsterRequiredLetters>
-		<string>अ</string>
+		<string>101</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 	  </MonsterAllLetters>
 	  <Stones>
-        <string>ए</string>
-        <string>औ</string>
-        <string>अ</string>
+        <string>1</string>
+        <string>96</string>
+        <string>101</string>
 		<string bonusScore="150">BonusLetter</string>
       </Stones>
     </Segment>
@@ -64,14 +64,14 @@
     <Segment SegmentTime="11" spawnIds="0,91,21">
       
 	  <MonsterRequiredLetters>
-		<string>ऊ</string>
+		<string>102</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 	  </MonsterAllLetters>
 	  <Stones>
-        <string>अं</string>
-        <string>ऊ</string>
-        <string>अं</string>
+        <string>99</string>
+        <string>102</string>
+        <string>101</string>
       </Stones>
     </Segment>
 
