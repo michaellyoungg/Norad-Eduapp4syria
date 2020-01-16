@@ -192,7 +192,7 @@ public class StartButton : MonoBehaviour
 		animController.SetInteger ("EmotionState", 5);
 
 		if (GameplayController.Instance.CurrentLevel.hideCallout > -1) {
-			addRevinu ();
+			//addRevinu ();
 			GameplayController.Instance.CurrentActive.hideCallout ();
 		}
 		//Invoke ("startPlay", 1.0f);

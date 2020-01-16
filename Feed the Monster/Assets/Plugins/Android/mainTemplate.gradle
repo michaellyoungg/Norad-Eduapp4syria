@@ -74,8 +74,8 @@ android {
 		minSdkVersion **MINSDKVERSION**
 		targetSdkVersion **TARGETSDKVERSION**
 		applicationId '**APPLICATIONID**'
-		versionCode 142
-		versionName '14.2'
+		versionCode 143
+		versionName '143'
 		ndk {
             abiFilters **ABIFILTERS**
         }
