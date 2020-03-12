@@ -386,7 +386,7 @@ public class LetterController : MonoBehaviour
 
 		//text.text = ArabicSupport.ArabicFixer.Fix(this.stone.value, true, true);
 		//text.text = RTL.Fix(this.stone.value);
-		text.text = this.stone.FixValue;
+		text.text = UnicodeToKrutidev.UnicodeToKrutiDev(this.stone.FixValue);
 
 		MainImage.color = GameplayController.Instance.CurrentLevel.StoneLetterMainColorDefault;
 		OutlineImage.color = GameplayController.Instance.CurrentLevel.StoneLetterMainOutlineColorDefault;

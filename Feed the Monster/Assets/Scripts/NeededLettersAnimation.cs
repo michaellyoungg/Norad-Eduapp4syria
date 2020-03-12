@@ -55,7 +55,7 @@ public class NeededLettersAnimation  {
 		switch (GameplayController.Instance.CurrentLevel.monsterInputType) {
 		case MonsterInputType.Letter:
 //			letter = GameplayController.Instance.CurrentSegment.MonsterRequiredLetters [0];
-			letter = GameplayController.Instance.CurrentSegment.GetFixRequiredLetters(0);
+			letter =UnicodeToKrutidev.UnicodeToKrutiDev(GameplayController.Instance.CurrentSegment.GetFixRequiredLetters(0));
 //			letter = ArabicSupport.ArabicFixer.Fix(letter, true, true);
 //			letter = RTL.Fix(letter);
 

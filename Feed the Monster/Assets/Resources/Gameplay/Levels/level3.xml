@@ -1,0 +1,65 @@
+<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="2" SegmentTime="11" StoneType="1" monsterInputType="Letter">
+  <Segments>
+    <Segment SegmentTime="11" spawnIds="6,7">
+    	
+    	<MonsterRequiredLetters>
+    		<string>थ</string>
+    	</MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string>थ</string>
+    		<string>ठ</string>
+    	</Stones>
+	</Segment>
+	<Segment SegmentTime="11" spawnIds="91,92">
+		
+		<MonsterRequiredLetters>
+			<string>ण</string>
+		</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string>न</string>
+        	<string>ण</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="8,9">
+		
+      	<MonsterRequiredLetters>
+			<string>त</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string>त</string>
+	        <string>ट</string>
+      	</Stones>
+	</Segment>
+	<Segment SegmentTime="11" spawnIds="93,94">
+		
+      	<MonsterRequiredLetters>
+			<string>ठ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string>ठ</string>
+	        <string>न</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="21,22,60">
+		
+      	<MonsterRequiredLetters>
+			<string>ट</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string>ट</string>
+	        <string>न</string>
+			<string bonusScore="125">BonusLetter</string>
+      	</Stones>
+	</Segment>
+  </Segments>
+</XMLLevel>

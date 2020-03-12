@@ -6,6 +6,8 @@ public class UIMapController : MonoBehaviour {
 //	public Text ScoreText;
 	public Button btnCollection;
 	public ScrollRect mapScroll;
+    public Transform[] mapPages;
+    public int currentlyActivePage;
 
 	bool isStatusPopupShow = false;
 
@@ -20,13 +22,16 @@ public class UIMapController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-
+        if (Input.GetKeyDown(KeyCode.F))
+        {
+            SwapMapPage();
+        }
 	}
 
 	void OnEnable()
 	{
 		GameplayController.Instance.ReaplaceBackground_SelectMonster = true;
-		
+        SwapMapPage(0);
 		updatePosition ();
 
 		//Invoke("ShowStatusPopup", 2f);
@@ -39,6 +44,28 @@ public class UIMapController : MonoBehaviour {
 		TutorialController.Instance.EndTutorial ();
 		CancelInvoke ();
 	}
+
+
+
+    public void SwapMapPage()
+    {
+        mapPages[currentlyActivePage].gameObject.SetActive(false);
+        currentlyActivePage = 1 - currentlyActivePage;
+        mapPages[currentlyActivePage].gameObject.SetActive(true);
+    }
+
+
+    public void SwapMapPage(int pageNum)
+    {
+        pageNum = Mathf.Max (0, pageNum);
+        pageNum = Mathf.Min (mapPages.Length - 1, pageNum);
+
+        mapPages[currentlyActivePage].gameObject.SetActive(false);
+        currentlyActivePage = pageNum;
+        mapPages[currentlyActivePage].gameObject.SetActive(true);
+
+
+    }
 
 	public void updatePosition()
 	{
