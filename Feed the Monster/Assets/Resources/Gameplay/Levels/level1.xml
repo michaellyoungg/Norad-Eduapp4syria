@@ -3,67 +3,67 @@
     <Segment SegmentTime="11" spawnIds="28,94,7">
     	
     	<MonsterRequiredLetters>
-    		<string>क</string>
+    		<string>326</string>
     	</MonsterRequiredLetters>
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string>घ</string>
-    		<string>च</string>
-			<string>क</string>
+    		<string>1</string>
+    		<string>1</string>
+			<string>326</string>
     	</Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="25,93,6">
 		
 		<MonsterRequiredLetters>
-			<string>झ</string>
+			<string>1</string>
 		</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string>झ</string>
-        	<string>झ</string>
-			<string>ख</string>
+        	<string>353</string>
+        	<string>1</string>
+			<string>93</string>
       	</Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="59,78,6">
 		
       	<MonsterRequiredLetters>
-			<string>घ</string>
+			<string>93</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string>छ</string>
-	        <string>घ</string>
-			<string>ग</string>
+			<string>1</string>
+	        <string>93</string>
+			<string>2</string>
       	</Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="61,79,7">
 		
       	<MonsterRequiredLetters>
-			<string>ङ</string>
+			<string>353</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>ग</string>
-	        <string>ङ</string>
-			<string>ञ</string>
+	        <string>326</string>
+	        <string>353</string>
+			<string>326</string>
 			
       	</Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="94,93,59,61">
 		
       	<MonsterRequiredLetters>
-			<string>क</string>
+			<string>2</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>क</string>
-	        <string>ञ</string>
-			<string>छ</string>
+	        <string>2</string>
+	        <string>1</string>
+			<string>1</string>
 			<string bonusScore="100">BonusLetter</string>
       	</Stones>
 	</Segment>

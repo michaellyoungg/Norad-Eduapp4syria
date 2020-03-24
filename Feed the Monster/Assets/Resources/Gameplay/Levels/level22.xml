@@ -3,68 +3,68 @@
 <Segment SegmentTime="11" spawnIds="60,8,9">
       
 	  <MonsterRequiredLetters>
-		<string>ठ</string>
+		<string>f</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 	  </MonsterAllLetters>
 	  <Stones>
-        <string>छ</string>
-        <string>ठ</string>
-		<string>टू</string>
+        <string>18</string>
+        <string>f</string>
+		<string>300</string>
       </Stones>
     </Segment>
 
     <Segment SegmentTime="11" spawnIds="5,55,62">
       
 	  <MonsterRequiredLetters>
-		<string>जी</string>
+		<string>331</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 	  </MonsterAllLetters>
 	  <Stones>
-        <string>छी</string>
-		<string>जी</string>
-        <string>झु</string>
+        <string>275</string>
+		<string>331</string>
+        <string>80</string>
       </Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="">
       
 	  <MonsterRequiredLetters>
-		<string>जा</string>
+		<string>97</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 	  </MonsterAllLetters>
 	  <Stones>
-        <string spawnId="4">ठ</string>
-        <string spawnId="54">टि</string>
-		<string spawnId="58">जा</string>
+        <string spawnId="4">81</string>
+        <string spawnId="54">42</string>
+		<string spawnId="58">97</string>
       </Stones>
     </Segment>
 
 	<Segment SegmentTime="11" spawnIds="">
       
 	  <MonsterRequiredLetters>
-		<string>ञा</string>
+		<string>357</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 	  </MonsterAllLetters>
 	  <Stones>
-        <string spawnId="8">जू</string>
-        <string spawnId="9">ञा</string>
-        <string spawnId="60">टी</string>
+        <string spawnId="8">82</string>
+        <string spawnId="9">357</string>
+        <string spawnId="60">304</string>
       </Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="25,28,93,94">
       
 	  <MonsterRequiredLetters>
-		<string>छा</string>
+		<string>45</string>
 	  </MonsterRequiredLetters>
 	  <MonsterAllLetters>
 	  </MonsterAllLetters>
 	  <Stones>
-        <string>जु</string>
-        <string>छा</string>
-		<string>जि</string>
+        <string>43</string>
+        <string>45</string>
+		<string>326</string>
 		<string bonusScore="250">BonusLetter</string>
       </Stones>
     </Segment>

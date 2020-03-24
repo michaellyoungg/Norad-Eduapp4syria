@@ -3,61 +3,61 @@
     <Segment SegmentTime="11" spawnIds="82,83">
     	
     	<MonsterRequiredLetters>
-    		<string>झ</string>
+    		<string>40</string>
     	</MonsterRequiredLetters>
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string>ख</string>
-    		<string>झ</string>
+    		<string>1</string>
+    		<string>40</string>
     	</Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="21,22">
 		
 		<MonsterRequiredLetters>
-			<string>ग</string>
+			<string>365</string>
 		</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string>ख</string>
-        	<string>ग</string>
+        	<string>326</string>
+        	<string>365</string>
       	</Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="93,94">
 		
       	<MonsterRequiredLetters>
-			<string>क</string>
+			<string>300</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string>क</string>
-	        <string>ञ</string>
+			<string>300</string>
+	        <string>353</string>
       	</Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="54,55">
 		
       	<MonsterRequiredLetters>
-			<string>घ</string>
+			<string>3</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>घ</string>
-	        <string>ग</string>
+	        <string>3</string>
+	        <string>2</string>
       	</Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="25,28,60">
 		
       	<MonsterRequiredLetters>
-			<string>छ</string>
+			<string>4</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>च</string>
-	        <string>छ</string>
+	        <string>93</string>
+	        <string>4</string>
 			<string bonusScore="100">BonusLetter</string>
       	</Stones>
 	</Segment>
