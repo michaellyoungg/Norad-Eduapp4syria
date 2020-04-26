@@ -2,6 +2,8 @@
 using System.Collections;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
+using System.Collections.Generic;
+using System.Text;
 
 
 public class LetterController : MonoBehaviour
@@ -29,7 +31,7 @@ public class LetterController : MonoBehaviour
 	//	public string value { get; private set;  }
 	public Stone stone { get; private set;  }
 	public float Speed;
-
+    public Image charspot;
 
 
 	public Image MainImage;
@@ -174,6 +176,23 @@ public class LetterController : MonoBehaviour
 		}
 	}
 
+
+    void loadCharImage(string CharName)
+    {
+        string url;
+        Sprite res;
+        CharName = CharName.Normalize(NormalizationForm.FormD);
+        url = "charimg/" + CharName;
+        res = Resources.Load<Sprite>(url);
+        charspot.sprite = res;
+        if (res == null)
+        { 
+            Debug.Log("Can't load character image: " + url);
+        }
+    }
+
+
+
 	// Update is called once per frame
 	void Update () {
 
@@ -265,7 +284,6 @@ public class LetterController : MonoBehaviour
 			break;
 			/*case LetterState.Warning: //shaking
 			if (!this.enabled) return;
-
 			if (shaking || shake_frame != 0) {
 			}
 			transform.position = Vector3.Lerp (transform.position, mTargetPosition, IdleShakeSpeed * Time.deltaTime);
@@ -384,9 +402,11 @@ public class LetterController : MonoBehaviour
 
 		this.spawnId = spawnId;
 
-		//text.text = ArabicSupport.ArabicFixer.Fix(this.stone.value, true, true);
-		//text.text = RTL.Fix(this.stone.value);
-		text.text = this.stone.FixValue;
+        //text.text = ArabicSupport.ArabicFixer.Fix(this.stone.value, true, true);
+        //text.text = RTL.Fix(this.stone.value);
+        //	text.text = this.stone.FixValue;
+        text.text = "";
+        loadCharImage(this.stone.FixValue);
 
 		MainImage.color = GameplayController.Instance.CurrentLevel.StoneLetterMainColorDefault;
 		OutlineImage.color = GameplayController.Instance.CurrentLevel.StoneLetterMainOutlineColorDefault;
@@ -488,6 +508,7 @@ public class LetterController : MonoBehaviour
 		}
 		State = LetterState.Disapear;
 		GetComponent<Animation> ().Play ("DisapearAnimation");
+        charspot.enabled = false;
 		mShownup = false;
 	}
 
@@ -517,6 +538,7 @@ public class LetterController : MonoBehaviour
 		text.enabled = enable;
 		MainImage.enabled = enable;
 		OutlineImage.enabled = enable;
+        charspot.enabled = enable;
 	}
 
 	void OnDisable()
@@ -662,7 +684,7 @@ public class LetterController : MonoBehaviour
 		if (this.stone != null) {
 //			text.text = ArabicSupport.ArabicFixer.Fix (this.stone.value, true, true);
 //			text.text = RTL.Fix (this.stone.value);
-			text.text = this.stone.FixValue;
+			//text.text = this.stone.FixValue;
 		}
 		if (State != LetterState.Idle)
 		{
@@ -709,7 +731,7 @@ public class LetterController : MonoBehaviour
 
 //		text.text = ArabicSupport.ArabicFixer.Fix(collectLetters, true, true);
 //		text.text = RTL.Fix(collectLetters);
-		text.text = collectLetters.FixValue;
+	//	text.text = collectLetters.FixValue;
 	}
 
 
